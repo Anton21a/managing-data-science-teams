@@ -39,6 +39,58 @@ By the end of this block you will be able to:
 
 ---
 
+## Why Growth & Performance Matter More Than You Think
+
+**The #1 reason data scientists leave:** They don't feel like they're growing.
+
+- Turnover costs **1.5-2x salary** — for a senior data scientist making $180K, that's $270K-$360K walking out the door
+- The best analytics people have options. LinkedIn recruiters are in their inbox every week.
+- Your job as a manager is to make **staying the obvious choice**
+
+**Growth isn't a perk — it's retention strategy.**
+
+If your people don't see a path forward on your team, they'll find one somewhere else. And they won't tell you they're looking until they've already accepted the offer.
+
+<!-- Talk track: Before we dive into frameworks, I want to make the business case for everything we're about to cover. The number one reason data scientists leave their jobs is not compensation — it's that they don't feel like they're growing. And when they leave, it costs you. Recruiting, onboarding, lost productivity, the institutional knowledge that walks out the door — conservatively 1.5 to 2 times their salary. For a senior data scientist, that's a quarter million dollars. The best people on your team have options. They get recruiter messages every week. Your job is not to lock them in — it's to make staying the obvious choice. And the way you do that is by investing in their growth, giving them honest feedback, and showing them a path forward. Everything in this block is in service of that goal. -->
+
+---
+
+## The Performance Management Paradox
+
+**Most people hate performance reviews.** Most managers hate giving them.
+
+And yet, when done well, they're one of the **most valuable things a manager does.**
+
+**The paradox:** The discomfort IS the value.
+
+- Honest feedback is uncomfortable — but it's how people grow
+- Fair evaluation requires judgment — and judgment feels risky
+- Career conversations force you to make promises — and promises create accountability
+
+**The managers people remember — and stay for — are the ones who told them the truth, even when it was hard.**
+
+Avoidance feels kind. It isn't. Avoiding hard conversations is how you end up with surprised, frustrated people who leave.
+
+<!-- Talk track: Here's the paradox we need to sit with. Performance management is uncomfortable. Writing reviews is tedious. Giving constructive feedback makes your stomach turn. Having the conversation where you tell someone they're not ready for promotion — that's genuinely hard. And yet, every piece of research on management effectiveness says the same thing: the managers people value most are the ones who gave them honest feedback, helped them see their blind spots, and had the courage to have difficult conversations. The discomfort is not a bug — it is the feature. If performance management felt easy, you'd be doing it wrong. You'd be rubber-stamping everyone as "meets expectations" and avoiding the conversations that actually matter. So if this block makes you uncomfortable, good. That means we're doing it right. -->
+
+---
+
+## What We'll Build This Block
+
+**Three artifacts that separate managers who develop their people from managers who just assign work:**
+
+1. **A Personal Growth Plan (PGP)** — Aspirational, not corrective. A document that says "here's where you're going and here's how I'll help you get there."
+
+2. **A Calibration-Ready Performance Summary** — Evidence-based, specific enough to survive peer scrutiny. The kind of summary that actually gets your people the ratings they deserve.
+
+3. **Practice with Feedback Frameworks** — SBI for in-the-moment feedback, COIN for difficult conversations. Structured approaches that keep feedback specific and fair.
+
+**By 12:40 today, you'll have drafted the first two and practiced the third.**
+
+<!-- Talk track: Let me preview what we're building in the next hundred minutes. First, a Personal Growth Plan — this is the aspirational document that shows your direct report you're invested in their career, not just their output. Second, a calibration-ready performance summary — this is the artifact that gets your people fair ratings at review time. If you can't write a compelling summary, your people lose, no matter how good their work is. Third, we'll practice feedback frameworks — SBI for real-time feedback and COIN for difficult conversations. These are the tools you reach for when a conversation matters and you can't afford to wing it. By the time we break for lunch, you'll have drafted the first two and practiced the third. Let's start with career ladders — the foundation that everything else builds on. -->
+
+---
+
 ## Career Ladders for Analytics
 
 **Two tracks — different jobs, not a promotion hierarchy:**
@@ -51,11 +103,36 @@ By the end of this block you will be able to:
 | **Principal** | Principal Analyst | Director |
 | **Executive** | Distinguished / Fellow | VP / Head of |
 
+<!-- Talk track: Let's start with career ladders. Most analytics orgs have two tracks — the individual contributor track and the management track. I want to be very clear about something: moving from IC to management is NOT a promotion. It is a lateral career change into a fundamentally different job. The best analyst on your team might be a terrible manager. That's fine. What's not fine is treating management as the only path to seniority and compensation. If your org doesn't have a Staff or Principal IC level, your best ICs will leave — or worse, become reluctant managers who make everyone miserable. -->
+
+---
+
+## Career Ladders for Analytics (cont.)
+
 **Key insight:** Moving from IC to management is not a promotion. It is a career change. The skills that made someone a great analyst do not automatically make them a great manager.
 
 **For your case context:** A small startup might only have 2-3 levels. An enterprise might have 8+. The ladder should match the org, not the other way around.
 
-<!-- Talk track: Let's start with career ladders. Most analytics orgs have two tracks — the individual contributor track and the management track. I want to be very clear about something: moving from IC to management is NOT a promotion. It is a lateral career change into a fundamentally different job. The best analyst on your team might be a terrible manager. That's fine. What's not fine is treating management as the only path to seniority and compensation. If your org doesn't have a Staff or Principal IC level, your best ICs will leave — or worse, become reluctant managers who make everyone miserable. Look at your case context. How many levels make sense for your team right now? A three-person startup doesn't need eight levels of hierarchy. -->
+<!-- Talk track: Look at your case context. How many levels make sense for your team right now? A three-person startup doesn't need eight levels of hierarchy. But even with two or three levels, you need to define what each level means. Without that, promotions become political — based on who advocates loudest rather than who's actually operating at the next level. The career change point is critical. I've seen brilliant analysts get promoted into management as a reward, hate every minute of it, and leave the company entirely. That's a lose-lose. Build an IC track that lets your best technical people advance without managing anyone. -->
+
+---
+
+## Building a Ladder That Works
+
+**What if you only have 3 people?** You still need levels.
+
+- Levels set **expectations** — people know what "good" looks like at their role
+- Levels create **growth paths** — even on a tiny team, people need to see a future
+- Levels enable **fair compensation** — without levels, pay is arbitrary
+
+**How to write level descriptions for analytics:**
+
+1. **Don't use generic HR templates.** "Demonstrates leadership" means nothing. Write descriptions that reference the actual work: types of analyses, stakeholder interactions, ambiguity of problems.
+2. **Define each level on 3 axes:** Scope (what size problems do they own?), Autonomy (how much direction do they need?), and Impact (who uses their work and for what decisions?).
+3. **Use concrete examples.** "At L3, you run a cohort analysis when asked. At L4, you identify that a cohort analysis is the right approach and scope it yourself."
+4. **Pressure-test with your team.** If your people can't tell which level they're at after reading the descriptions, rewrite them.
+
+<!-- Talk track: I know what some of you are thinking — "I have three people on my team, I don't need a career ladder." You do. Even on a tiny team, levels matter because they set expectations and create growth paths. Without them, your people have no way to know what "good" looks like or what they're working toward. The key is to write level descriptions that are specific to analytics work — not the generic HR boilerplate that says things like "demonstrates strategic thinking." What does that mean for a data analyst? Instead, describe the work: at this level, you run analyses that are scoped for you. At the next level, you identify what analyses need to be run and scope them yourself. At the level above that, you're setting the analytical agenda for a business unit. That's concrete. That's something someone can read and say "I know where I am and I know what I need to do to get to the next level." -->
 
 ---
 
@@ -71,11 +148,40 @@ By the end of this block you will be able to:
 | **Autonomy** | Needs clear direction and frequent check-ins | Operates independently; brings solutions, not just questions |
 | **Ambiguity tolerance** | Struggles without clear requirements | Thrives in undefined problem spaces; scopes their own work |
 
+<!-- Talk track: This slide is one of the most important in the entire course. What does "senior" actually mean? It is NOT years of experience. I've seen three-year analysts who operate at a senior level and ten-year analysts who still need their hand held. Senior is about three things. First, scope of impact — a senior person doesn't just do the work you assign them. They identify what work SHOULD be done. Second, autonomy — they don't need you to check in every day. They bring you solutions, not just problems. Third, ambiguity tolerance — you can say "figure out why retention is dropping" and they'll scope the work, choose the method, run the analysis, and present findings. A junior analyst needs you to say "run a cohort analysis on 90-day retention using this specific SQL query." That's the difference. -->
+
+---
+
+## What "Senior" Actually Means (cont.)
+
 **The litmus test:** A senior analyst doesn't need you to define the question. They identify the right question to ask, scope the work, execute it, and communicate the results — all without you asking.
 
 **A common mistake:** Promoting to senior based on tenure. This devalues the title and frustrates genuinely senior people.
 
-<!-- Talk track: This slide is one of the most important in the entire course. What does "senior" actually mean? It is NOT years of experience. I've seen three-year analysts who operate at a senior level and ten-year analysts who still need their hand held. Senior is about three things. First, scope of impact — a senior person doesn't just do the work you assign them. They identify what work SHOULD be done. Second, autonomy — they don't need you to check in every day. They bring you solutions, not just problems. Third, ambiguity tolerance — you can say "figure out why retention is dropping" and they'll scope the work, choose the method, run the analysis, and present findings. A junior analyst needs you to say "run a cohort analysis on 90-day retention using this specific SQL query." That's the difference. And if you promote people to senior just because they've been around for four years, you devalue the title for everyone. -->
+<!-- Talk track: And if you promote people to senior just because they've been around for four years, you devalue the title for everyone. Here's the litmus test I use. Can I give this person an ambiguous problem — "we're losing customers and I don't know why" — and trust them to come back with a well-scoped analysis, clear findings, and actionable recommendations? If yes, they're operating at a senior level. If they need me to define the question, choose the methodology, and review every step, they're not there yet — regardless of how many years they've been doing the work. Tenure-based promotion is one of the most common mistakes I see. It feels fair, but it's actually deeply unfair to the people who genuinely operate at a higher level. -->
+
+---
+
+## The Promotion Conversation
+
+**How to handle: "I want to be promoted to Senior."**
+
+**Use the scope / autonomy / ambiguity framework:**
+
+- "Let me show you what Senior looks like on our team. Here are the three dimensions..."
+- Compare their current work against each dimension — with specific examples
+- Be honest about where they are and where the gaps are
+
+**When they're ready:**
+- Advocate hard. Bring evidence to calibration. Make the case before they have to ask.
+- The best promotions happen when the person is *already operating at the next level* — the title is catching up to reality.
+
+**When they're not ready yet:**
+- Don't say "not yet" without a plan. That's demoralizing and vague.
+- Say: "Here's specifically what Senior looks like, here's where you are today, and here's what we'll work on together to close the gap."
+- The difference between "working at the next level" and "doing more of the same" — more dashboards is not Senior. Independently identifying what the business needs and delivering it is.
+
+<!-- Talk track: At some point, someone on your team will sit in your 1:1 and say "I want to be promoted to Senior." This is a moment that matters. Handle it well and you build trust and motivation. Handle it poorly and you lose them. The scope, autonomy, ambiguity framework gives you an honest, transparent way to have this conversation. Pull it out. Walk through each dimension together. Show them specific examples from their own work. If they're ready — and ideally you should know this before they ask — advocate for them aggressively. Bring the evidence to calibration. The best promotions happen when the person has already been operating at the next level for months and the title is just catching up to reality. If they're not ready, don't just say "not yet." That's the worst thing you can say. Instead, be specific: "Here's what Senior looks like on these three dimensions. Here's where you are. Here's the gap. And here's the plan to close it." Give them a concrete path. And make sure they understand the difference between doing more work and doing different work. Shipping ten more dashboards isn't Senior. Identifying that the business needs a different kind of analysis entirely — that's Senior. -->
 
 ---
 
@@ -91,13 +197,21 @@ By the end of this block you will be able to:
 | **Timeline** | 6-12 months | 30-90 days |
 | **Outcome** | Career acceleration | Meet expectations or exit |
 
+<!-- Talk track: The Personal Growth Plan is one of the most powerful tools in your management toolkit — if you use it right. And using it right starts with one critical distinction: a PGP is NOT a PIP. A Performance Improvement Plan is corrective. It says "you're underperforming and here's a formal plan to fix it." A Personal Growth Plan is aspirational. It says "you're doing well and here's how we accelerate your career." If your team conflates the two, nobody will engage honestly with a PGP because they'll think they're in trouble. So make the distinction loudly and often. -->
+
+---
+
+## The Personal Growth Plan — Structure
+
 **PGP Structure:**
 1. **Strengths** — what you're known for (with evidence)
 2. **Growth areas** — what's holding you back (specific, not vague)
 3. **Actions** — concrete, time-bound development steps
 4. **Support needed** — from manager, team, and organization
 
-<!-- Talk track: The Personal Growth Plan is one of the most powerful tools in your management toolkit — if you use it right. And using it right starts with one critical distinction: a PGP is NOT a PIP. A Performance Improvement Plan is corrective. It says "you're underperforming and here's a formal plan to fix it." A Personal Growth Plan is aspirational. It says "you're doing well and here's how we accelerate your career." If your team conflates the two, nobody will engage honestly with a PGP because they'll think they're in trouble. So make the distinction loudly and often. A PGP has four parts: strengths, growth areas, actions, and support needed. The individual should own this document. Your job as a manager is to help them write it honestly, check in on it regularly, and remove obstacles. You'll draft one of these in about thirty minutes. -->
+The individual should own this document. Your job as a manager is to help them write it honestly, check in on it regularly, and remove obstacles.
+
+<!-- Talk track: A PGP has four parts: strengths, growth areas, actions, and support needed. The individual owns this document — that's important. It's not something you write about them and hand to them. You co-create it, and they drive it. Your job as their manager is to help them be honest — especially about growth areas, which people tend to make vague because specificity feels vulnerable. "Improve communication" is not a growth area. "Learn to present technical findings to non-technical stakeholders in under 5 minutes" is a growth area. Push for that level of specificity. You'll draft one of these in about thirty minutes. -->
 
 ---
 
@@ -113,9 +227,43 @@ By the end of this block you will be able to:
 
 **Why SBI works:** It separates observation from judgment. You're not saying "you're sloppy." You're describing a specific behavior and its specific consequence.
 
+<!-- Talk track: Let's talk about how to actually deliver feedback. The SBI model gives you a structure that keeps feedback specific and non-personal. Situation — anchor it in time and place. Behavior — describe exactly what you observed, not your interpretation of it. Impact — explain the consequence. Here's a full example: "In yesterday's stakeholder meeting, when you presented the retention analysis without confidence intervals, the VP of Product questioned our methodology and we lost credibility for the rest of the meeting." Notice what I did NOT say. I didn't say "you were unprepared" or "you were careless." I described a behavior and its impact. The person can hear that without feeling attacked. -->
+
+---
+
+## Feedback That Lands — Radical Candor
+
 **Radical Candor (Kim Scott):** The best feedback lives at the intersection of **caring personally** and **challenging directly**. If you only care, you're "ruinously empathetic." If you only challenge, you're "obnoxiously aggressive."
 
-<!-- Talk track: Let's talk about how to actually deliver feedback. The SBI model gives you a structure that keeps feedback specific and non-personal. Situation — anchor it in time and place. Behavior — describe exactly what you observed, not your interpretation of it. Impact — explain the consequence. Here's a full example: "In yesterday's stakeholder meeting, when you presented the retention analysis without confidence intervals, the VP of Product questioned our methodology and we lost credibility for the rest of the meeting." Notice what I did NOT say. I didn't say "you were unprepared" or "you were careless." I described a behavior and its impact. The person can hear that without feeling attacked. Now pair SBI with Kim Scott's Radical Candor framework. The best feedback comes from a place of genuinely caring about the person AND being willing to challenge them directly. Most new managers fail on the "challenge directly" part because they don't want to be mean. But withholding honest feedback isn't kind — it's cowardly. -->
+| | **Challenge Directly** | **Don't Challenge** |
+|---|---|---|
+| **Care Personally** | Radical Candor | Ruinous Empathy |
+| **Don't Care** | Obnoxious Aggression | Manipulative Insincerity |
+
+Most new managers default to **Ruinous Empathy** — they care about the person but avoid the hard conversation. It feels kind, but it deprives people of the feedback they need to grow.
+
+<!-- Talk track: Now pair SBI with Kim Scott's Radical Candor framework. The best feedback comes from a place of genuinely caring about the person AND being willing to challenge them directly. Most new managers fail on the "challenge directly" part because they don't want to be mean. But withholding honest feedback isn't kind — it's cowardly. If you see someone on your team making a mistake and you don't say anything because you don't want to hurt their feelings, you're choosing your own comfort over their growth. That's ruinous empathy. The bottom-left quadrant — manipulative insincerity — is when you don't care and you don't challenge. That's the passive-aggressive manager who says "fine, whatever" and then complains to their own manager. Radical Candor is the goal: I care about you as a person, and because I care, I'm going to tell you the truth. -->
+
+---
+
+## Giving Positive Feedback Well
+
+**Positive feedback is just as important as constructive feedback.** And most managers are bad at it too.
+
+**The difference:**
+
+- **Vague:** "Great job on the analysis!"
+- **Specific:** "The way you structured the cohort analysis by acquisition channel gave the growth team exactly what they needed to make the decision on reallocating the paid search budget — that's the kind of strategic framing I want to see more of."
+
+**Why specific praise matters:**
+- It reinforces the **exact behaviors** you want to see repeated
+- It tells the person **what "good" looks like** on your team
+- It becomes **evidence** you can use in calibration and promotion cases
+- It builds **trust** — the person knows you're actually paying attention to their work
+
+**The test:** If your praise could apply to anyone on the team, it's too vague. Good praise is so specific that only one person could have earned it.
+
+<!-- Talk track: We spend a lot of time teaching managers how to give constructive feedback, but we rarely teach them how to give positive feedback well. And most managers are terrible at it. "Great job" is not feedback. It's a pleasantry. It teaches the person nothing about what specifically they did well or what you want to see more of. Compare that to: "The way you structured the cohort analysis by acquisition channel gave the growth team exactly what they needed to make the decision on reallocating the paid search budget — that's the kind of strategic framing I want to see more of." That sentence does three things. It tells them exactly what behavior was valuable. It explains why it mattered to the business. And it signals what you want to see more of. That's coaching disguised as praise. And here's a bonus: every piece of specific positive feedback you give becomes evidence in your manager log that you can pull out during calibration. "Great job" is useless in a calibration room. "She structured the analysis in a way that directly enabled a budget reallocation decision" — that's an accomplishment statement. -->
 
 ---
 
@@ -152,16 +300,42 @@ By the end of this block you will be able to:
 | **Quarterly** | Written self-assessment + manager assessment | Formal reflection; calibration prep |
 | **Annual** | Calibration + compensation review | Holistic evaluation; pay decisions |
 
+<!-- Talk track: If you only do annual reviews, you are failing your people. Annual reviews encourage recency bias — you remember what happened in the last month, not the last twelve months. They surprise people — nobody should learn they're underperforming at their annual review. And they create perverse incentives — people ramp up effort right before review season instead of performing consistently. Here's what works better: continuous feedback in the moment using SBI, monthly growth check-ins as part of your regular 1:1, quarterly written assessments for formal reflection, and annual calibration for pay and promotion decisions. -->
+
+---
+
+## Performance Cycles — Documentation
+
 **The Brag Doc / Manager Log:**
 Keep a running document of accomplishments, feedback given, and notable moments. Update it weekly. When review time comes, you'll thank yourself.
 
 **Without documentation, you'll default to recency bias** — evaluating the last 6 weeks, not the last 6 months.
 
-<!-- Talk track: If you only do annual reviews, you are failing your people. Annual reviews encourage recency bias — you remember what happened in the last month, not the last twelve months. They surprise people — nobody should learn they're underperforming at their annual review. And they create perverse incentives — people ramp up effort right before review season instead of performing consistently. Here's what works better: continuous feedback in the moment using SBI, monthly growth check-ins as part of your regular 1:1, quarterly written assessments for formal reflection, and annual calibration for pay and promotion decisions. The secret weapon here is the brag doc or manager log. Every week, write down what your reports accomplished, feedback you gave, and notable moments. It takes five minutes. When review season comes, you'll have twelve months of evidence instead of trying to remember what happened last January. This is not optional if you want to be fair. -->
+<!-- Talk track: The secret weapon here is the brag doc or manager log. Every week, write down what your reports accomplished, feedback you gave, and notable moments. It takes five minutes. When review season comes, you'll have twelve months of evidence instead of trying to remember what happened last January. This is not optional if you want to be fair. I've seen managers struggle for hours trying to write a performance review because they have no notes. They end up writing about whatever happened last month because that's all they can remember. Meanwhile, the person's biggest accomplishment was in Q1 and it gets completely overlooked. The manager log prevents that. -->
 
 ---
 
-## Calibration Sessions
+## The Manager Log in Practice
+
+**What a real weekly entry looks like — 5 minutes per report:**
+
+**Sarah Chen — Week of Jan 13**
+- Shipped the retention cohort analysis; Product team used it in their planning meeting. Strong stakeholder communication.
+- Gave SBI feedback on the dashboard presentation — needs to lead with the "so what" before showing methodology.
+- Career conversation: interested in the Staff track. Discussed what L5 scope looks like. Will identify a project for her to demonstrate cross-team impact.
+
+**Template: 2-3 bullets covering:**
+1. **What they shipped** — concrete output with business context
+2. **Feedback given/received** — what you told them, what you heard
+3. **Career conversation notes** — anything related to growth, promotion path, development
+
+**The payoff:** When review season arrives, you have 50 weekly entries per person. Your calibration summary writes itself. Your evidence is airtight. And your people feel seen because you actually remember what they did in February.
+
+<!-- Talk track: Let me make the manager log concrete. Here's what an actual entry looks like. Three bullet points. Took me three minutes to write. First bullet: what they shipped and who used it. Second bullet: feedback I gave — I note the topic so I can track patterns over time. Third bullet: career conversation notes. That's it. Three bullets, three minutes, once a week. Now multiply that by 50 weeks and imagine sitting down to write a performance review. Instead of staring at a blank page trying to remember what happened nine months ago, you have a detailed record. You can see patterns — maybe Sarah's stakeholder communication has been improving steadily since March. Maybe the same feedback about leading with the "so what" keeps coming up, which tells you it's a deeper development area. The log doesn't just help with reviews. It helps you be a better manager in real time because you're paying attention. -->
+
+---
+
+## Calibration Sessions — What & Why
 
 **What:** Managers present their direct reports to a group of peer managers. The group norms on performance ratings together.
 
@@ -171,6 +345,12 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 - Surfaces hidden stars and hidden struggles
 - Forces managers to articulate impact, not just effort
 
+<!-- Talk track: Calibration is where performance management gets real. Here's the concept: a group of managers sit in a room — or a Zoom, more likely — and each manager presents their people. The group norms on what different ratings actually mean. Why does this matter? Because without calibration, every manager becomes Lake Wobegon — everyone is above average. Manager A might rate generously because they want to be liked. Manager B might rate harshly because they have impossibly high standards. Without calibration, two people doing identical work on different teams could get completely different ratings. That's not fair, and your people know it. Calibration is the mechanism that forces consistency. -->
+
+---
+
+## Calibration Sessions — How It Works
+
 **How it works:**
 1. Each manager presents a 2-minute summary per person
 2. Peers ask clarifying questions
@@ -179,7 +359,7 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 
 **Your job as a manager:** Be your team's advocate with evidence, not emotion. "She worked really hard" is not a calibration argument. "She shipped the churn model that saved $2.4M in annual revenue" is.
 
-<!-- Talk track: Calibration is where performance management gets real. Here's how it works: a group of managers sit in a room — or a Zoom, more likely — and each manager presents their people. You give a two-minute summary of each person's performance, and then your peers push back. "You rated her as exceeds expectations — what's the evidence?" "You rated him as meets — but he shipped the biggest project in the org. Is that really just 'meets' for his level?" This is uncomfortable and that's the point. Without calibration, every manager becomes Lake Wobegon — everyone is above average. Calibration forces you to be specific, evidence-based, and honest. Your job in calibration is to advocate for your people with evidence. "She worked really hard" is not evidence. "She identified the retention problem nobody else saw, scoped the analysis independently, and her recommendation saved $2.4M in annual revenue" — that's evidence. You're going to practice writing a calibration summary today. -->
+<!-- Talk track: Here's how a calibration session actually runs. You give a two-minute summary of each person's performance, and then your peers push back. "You rated her as exceeds expectations — what's the evidence?" "You rated him as meets — but he shipped the biggest project in the org. Is that really just 'meets' for his level?" This is uncomfortable and that's the point. Your job in calibration is to advocate for your people with evidence. "She worked really hard" is not evidence. "She identified the retention problem nobody else saw, scoped the analysis independently, and her recommendation saved $2.4M in annual revenue" — that's evidence. The manager log we just talked about is what makes this possible. Without it, you're going in with vague impressions. With it, you're going in with receipts. You're going to practice writing a calibration summary today. -->
 
 ---
 
@@ -216,6 +396,12 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 5. **Timeline** — Is the improvement period reasonable? (30-90 days, depending on scope)
 6. **Dignity** — Always. A PIP is not punishment. It is a last attempt to help someone succeed.
 
+<!-- Talk track: This is the hardest slide in the deck, and I want to handle it carefully. Some of you in this room may have been on the receiving end of a PIP. Some of you may have seen a PIP used unfairly — as a tool to manage someone out rather than to help them improve. That happens, and it's a failure of management. Here's what an ethical PIP looks like. Before you ever get to a PIP, you need to check yourself on six things. First, clarity — does this person actually know what's expected of them? I have seen managers put people on PIPs for not meeting expectations that were never communicated. That's the manager's failure, not the employee's. Second, support — have you given them what they need? Third, feedback — have you told them, specifically, multiple times, what needs to change? Fourth, documentation — is it fair? Fifth, timeline — is it reasonable? And through all of it, dignity. A PIP is not punishment. If you're using it as punishment, you're doing it wrong. -->
+
+---
+
+## The Ethical PIP (cont.)
+
 **Before a PIP, ask yourself:**
 - "If this person's best friend were watching, would they say I've been fair?"
 - "Have I done everything I can to set this person up for success?"
@@ -223,7 +409,26 @@ Keep a running document of accomplishments, feedback given, and notable moments.
 
 **PIPs should be rare.** Most performance issues are solved by clear expectations, regular feedback, and adequate support — long before a PIP is necessary.
 
-<!-- Talk track: This is the hardest slide in the deck, and I want to handle it carefully. Some of you in this room may have been on the receiving end of a PIP. Some of you may have seen a PIP used unfairly — as a tool to manage someone out rather than to help them improve. That happens, and it's a failure of management. Here's what an ethical PIP looks like. Before you ever get to a PIP, you need to check yourself on five things. First, clarity — does this person actually know what's expected of them? I have seen managers put people on PIPs for not meeting expectations that were never communicated. That's the manager's failure, not the employee's. Second, support — have you given them what they need? Third, feedback — have you told them, specifically, multiple times, what needs to change? Fourth, documentation — is it fair? Fifth, timeline — is it reasonable? And through all of it, dignity. A PIP is not punishment. If you're using it as punishment, you're doing it wrong. The best managers I've worked with rarely need PIPs because they catch problems early through clear expectations and regular feedback. -->
+<!-- Talk track: These three questions are your gut check. The first one — "if this person's best friend were watching, would they say I've been fair?" — is the most important. It forces you to see the situation from the other side. Have you communicated clearly? Have you given them a real chance? Or have you already made up your mind and you're using the PIP as documentation for a foregone conclusion? The best managers I've worked with rarely need PIPs because they catch problems early through clear expectations and regular feedback. If you're putting someone on a PIP and it comes as a surprise to them, you've already failed. The conversation about performance concerns should have happened weeks or months before the PIP. The PIP is the last step, not the first. -->
+
+---
+
+## When the Problem Isn't Performance
+
+**Before you reach for a PIP, diagnose what's actually going on.**
+
+Sometimes what looks like underperformance is actually:
+
+- **Wrong role fit** — They're a brilliant data engineer stuck in an analyst role, or vice versa. The fix isn't improvement — it's repositioning.
+- **Unclear expectations** — You never told them what "good" looks like. That's your failure, not theirs.
+- **Personal crisis** — Divorce, illness, family emergency, mental health. The human being needs support, not a performance plan.
+- **Burnout** — They were your top performer for two years and now they're running on empty. A PIP will push them out the door.
+- **Toxic team dynamics** — A colleague is undermining them, or the team culture is broken. The problem is the system, not the person.
+- **Manager's own failure** — You haven't provided direction, context, resources, or feedback. They're failing because you are.
+
+**The diagnostic before the PIP:** Have an honest, curious conversation. "I've noticed a change in your work. I want to understand what's going on — not to judge, but to help." You might discover the real problem has nothing to do with performance.
+
+<!-- Talk track: This is the slide I wish every manager would internalize before they ever initiate a PIP. Sometimes what looks like underperformance is actually something else entirely. I've seen managers put someone on a PIP when the real problem was that the person was in the wrong role — they were a data engineer forced into an analyst position and they were miserable. A PIP won't fix that. A role change will. I've seen PIPs issued to people going through a divorce or dealing with a sick parent. That's not a performance problem — that's a human being in crisis who needs support. I've seen top performers get put on PIPs after two years of unsustainable workload finally caught up with them. That's burnout, and a PIP is the cruelest possible response. And — this is the hardest one — sometimes the underperformance is actually the manager's fault. If you never set clear expectations, never gave feedback, and never provided direction, you don't get to blame the person for not meeting a standard they didn't know existed. Before you reach for a PIP, have a genuinely curious conversation. You might discover the fix is something completely different. -->
 
 ---
 

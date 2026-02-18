@@ -21,6 +21,87 @@ By the end of this block you will be able to:
 
 ---
 
+## Welcome & Course Overview
+
+**Your instructor:** Eduardo Arino de la Rubia, Professor of Practice at CEU
+
+**What this 2-day intensive covers:**
+- Day 1: Manager OS, Hiring & Team Formation, Roadmapping & Prioritization, Performance & Growth
+- Day 2: Infrastructure & Tooling, Stakeholder Management, Ethics & Governance, Portfolio Capstone
+
+**What makes this course different:**
+- It is **workshop-driven** — you will not just listen, you will build
+- You will leave with a **portfolio of real artifacts**: charters, stakeholder maps, hiring rubrics, roadmaps, performance frameworks
+- Every artifact is anchored to a realistic case context that YOU choose
+- This is not a lecture series — it is a management flight simulator
+
+<!-- Talk track: Let me introduce myself. I'm Eduardo Arino de la Rubia, and I'm a Professor of Practice here at CEU. My background is in building and leading analytics and data science teams — I've done it at startups, mid-stage companies, and large enterprises. I've made every mistake we're going to talk about, and I've learned from most of them. This course is two days, and it is intense. We're going to cover the full lifecycle of analytics management — from building your operating system as a manager, to hiring, to roadmapping, to performance management, to infrastructure, to stakeholder communication. But here's what's different: this is not a lecture course. You're going to build things. By the end of Day 2, you'll have a portfolio of management artifacts that you could actually use on the job Monday morning. -->
+
+---
+
+## Why This Course Exists
+
+**The problem:** Analytics and data science managers are almost always promoted from individual contributor roles — with **zero management training**.
+
+You were the best analyst, so now you manage analysts. But these are completely different jobs.
+
+**The cost of bad management in analytics:**
+- **Talent flight** — your best people leave because they feel unseen, undirected, or unappreciated
+- **Lost credibility** — the analytics team becomes the "dashboard team" instead of a strategic partner
+- **Misaligned priorities** — you build what the loudest stakeholder wants, not what matters most
+- **Burnout** — without structure, everything is urgent and nothing is planned
+
+**The good news:** Management is a **learnable craft**, not an innate talent. You can get better at this systematically, the same way you got better at SQL or Python or statistical modeling.
+
+<!-- Talk track: So why does this course exist? Here's the honest truth. The analytics industry has a management problem. The typical career path is: you're a great analyst, you build impressive models, you give clear presentations — and then someone says "congratulations, you're now managing a team of five." And nobody teaches you how to do that. The skills that made you a great IC — deep technical work, long periods of focus, individual problem-solving — those are almost the opposite of what management requires. The cost of getting this wrong is enormous. I've seen entire analytics teams turn over in under a year because of bad management. I've seen analytics functions lose all credibility with the business because nobody was managing stakeholder relationships. And I've seen brilliant people burn out because their manager had no structure, no prioritization framework, and no way to say no. The good news is that management is a craft. It's learnable. That's what we're here to do. -->
+
+---
+
+## How This Course Works
+
+**Three case contexts** that anchor everything:
+
+| Context | Company | Stage | Analytics Team |
+|---|---|---|---|
+| **Small** | DataPulse | Seed-stage startup | You are the first analytics hire |
+| **Medium** | MarketBridge | Series B scale-up | You manage a team of 4-6 |
+| **Large** | FinGuard | Enterprise financial services | You lead a 15+ person analytics org |
+
+**The course mechanics:**
+- You will **choose one case context** and anchor ALL of your artifacts to it
+- Everything builds on everything else — your charter informs your hiring plan, your hiring plan informs your roadmap, your roadmap informs your stakeholder communication
+- You will leave with a **coherent portfolio**, not a pile of disconnected exercises
+- **Portfolio due date:** one week after Day 2
+
+<!-- Talk track: Here's how the course works mechanically. We have three case contexts. Each one represents a different stage of analytics team maturity. DataPulse is a seed-stage startup — you're the first analytics hire, there's no infrastructure, and the CEO wants "data-driven decisions" but doesn't know what that means. MarketBridge is a Series B company — you've been hired to manage a small team that grew organically, and there's technical debt and unclear roles. FinGuard is an enterprise — you're leading a large analytics org with compliance requirements, multiple stakeholder groups, and legacy systems. You're going to pick one of these, and everything you build in this course will be anchored to that context. Your charter, your stakeholder map, your hiring rubric, your roadmap — they all connect. At the end, you'll have a portfolio that tells a coherent story about how you'd manage an analytics team in your chosen context. The portfolio is due one week after Day 2 — polished, refined, and ready for me to review. -->
+
+---
+
+## Choose Your Case Context
+
+Pick one now. You will use this for every activity across both days.
+
+**DataPulse (Seed-Stage Startup)**
+- 30-person company, pre-product-market-fit, Series Seed funding
+- You are the FIRST analytics hire — no team, no infrastructure, no data warehouse
+- The CEO wants "data-driven culture" but data lives in Mixpanel, Stripe, and spreadsheets
+
+**MarketBridge (Series B Scale-Up)**
+- 200-person B2B SaaS company, $40M ARR, growing fast
+- You are hired to manage 4-6 analysts who previously reported to different PMs
+- There are dashboards everywhere, conflicting metric definitions, and no documentation
+
+**FinGuard (Enterprise Financial Services)**
+- 5,000-person regulated financial institution
+- You lead a 15+ person analytics org across multiple business lines
+- There are strict compliance requirements, a centralized data governance team, and a legacy on-prem data warehouse being migrated to cloud
+
+**Write your choice down. There are no wrong answers — each context teaches different lessons.**
+
+<!-- Talk track: Okay, decision time. Read through these three contexts. DataPulse is the scrappy startup — if you pick this, you'll be thinking about how to build everything from zero with almost no resources. It's exciting, but it's also terrifying. MarketBridge is the messy middle — the team exists but it's chaotic. If you pick this, you'll be thinking about how to bring order to an existing team. FinGuard is the enterprise — if you pick this, you'll be dealing with governance, politics, compliance, and the challenge of leading through layers of hierarchy. Pick one. Write it down. Commit to it. There's no wrong answer, but you do need to commit. Every exercise for the rest of the course is anchored to this choice. Take thirty seconds, make your pick, and let's move on. -->
+
+---
+
 ## What Is a Manager?
 
 > "A manager's output = the output of their organization + the output of neighboring organizations under their influence."
@@ -45,9 +126,38 @@ Three overlapping circles — the analytics manager spans all three but **owns P
 | **Key ritual** | 1:1s, calibration, hiring | Design reviews, code reviews | Sprint planning, user research |
 | **Superpower** | Context & coaching | Depth & standards | Prioritization & storytelling |
 
+<!-- Talk track: So where does the analytics manager sit in an organization? There are three classic leadership roles that often overlap. The Manager owns people — hiring, retention, growth, performance. The Tech Lead owns technical quality — architecture decisions, code review standards, reliability. The PM owns product outcomes — what we build, for whom, and why. Look at this table carefully. Notice how each role has a different primary concern, a different success metric, a different key ritual, and a different superpower. In a small company, one person might wear all three hats. In a large company, these are distinct roles that need to collaborate. The tensions between these roles are some of the most productive tensions in an organization — when managed well. -->
+
+---
+
+## The Analytics Manager Is Unique
+
 The analytics manager is unique: you live at the intersection. You need enough technical depth to earn trust, enough product sense to prioritize, and enough people skill to build a team.
 
-<!-- Talk track: So where does the analytics manager sit in an organization? There are three classic leadership roles that often overlap. The Manager owns people — hiring, retention, growth, performance. The Tech Lead owns technical quality — architecture decisions, code review standards, reliability. The PM owns product outcomes — what we build, for whom, and why. Here's the thing about analytics managers: you span all three circles. You need to understand the tech deeply enough that your team trusts your judgment, you need to understand the product well enough to prioritize the right work, and you own the people. That makes the role uniquely demanding — and uniquely rewarding. -->
+**Why this overlap matters:**
+- If you have no technical depth, your team won't respect your judgment on project scoping or technical tradeoffs
+- If you have no product sense, you'll build technically impressive things nobody uses
+- If you have no people skill, your best analysts will leave for a manager who actually invests in them
+
+**This is not a "choose two" situation.** You need baseline competence in all three, even if you're strongest in one.
+
+<!-- Talk track: I want to dwell on this point because it's important. The analytics manager role is uniquely demanding because you can't fully delegate any of the three circles. A VP of Engineering can say "my tech leads handle the technical decisions." But as an analytics manager, especially at a small or mid-size company, you ARE the tech lead and you're often playing a PM-like role in defining what analyses to pursue. That's what makes this role hard, and it's also what makes it rewarding. You get to be a generalist in an industry that usually rewards specialists. Embrace that. -->
+
+---
+
+## When the VP Asks "Why Is Churn Up?"
+
+A concrete scenario to illustrate the three roles:
+
+**The PM** frames the business context: "Churn spiked 2.3 points this quarter, concentrated in our SMB segment. We think it's related to the pricing change we made in Q2, but we need analysis to confirm."
+
+**The Tech Lead** explains the technical investigation: "We built a survival model segmenting by pricing cohort. The data shows the Q2 pricing tier is 40% more likely to churn within 90 days. Here's the methodology and the confidence intervals."
+
+**The Manager** ensures the right person is assigned and the team isn't overwhelmed: "I'm going to pull Jordan off the dashboard migration for two days to run this analysis. I'll let the platform team know about the delay. And I'll set up a 30-minute readout with the VP for Thursday so we have a clear deadline."
+
+**Notice:** The Manager's contribution isn't analytical — it's operational. Clearing the path, managing the tradeoff, setting the timeline. That IS the work.
+
+<!-- Talk track: Let me make this concrete. Imagine your VP sends a Slack message at 9am: "Why is churn up? I need answers before the board meeting." Watch how the three roles respond differently. The PM gives business context — they know the churn number, they have a hypothesis, and they can frame why it matters. The Tech Lead does the actual analytical work — they build the model, run the analysis, and present the findings with appropriate rigor. But the Manager? The Manager's job is to make sure the right person is working on it, that they have the time and space to do good work, that someone else's project isn't silently slipping, and that there's a clear deadline and delivery format. That orchestration work is invisible but essential. If nobody does it, the analysis either doesn't happen, happens too slowly, or happens at the cost of three other commitments nobody bothered to renegotiate. -->
 
 ---
 
@@ -62,9 +172,21 @@ From Skelton & Pais — four fundamental team types:
 | **Enabling** | Data literacy & training | A small team that teaches PMs to self-serve |
 | **Complicated-subsystem** | ML / specialized modeling | The fraud-detection or forecasting team |
 
+<!-- Talk track: Team Topologies is a book by Skelton and Pais that gives us a language for how teams relate to each other. I want you to think about these four types through an analytics lens. Stream-aligned teams are embedded — they sit inside a product squad and serve that squad directly. Think of a "Growth Analytics" team that sits in the Growth pod — they go to the Growth standup, they know the Growth roadmap, they're fully context-loaded. Platform teams build the infrastructure everyone depends on — the data warehouse, the ETL pipelines, the BI tools. Enabling teams exist to make other teams more capable — data literacy programs, self-serve training, office hours. And complicated-subsystem teams handle genuinely hard technical problems like fraud detection models or demand forecasting. Each type has different management challenges. Stream-aligned teams risk losing their analytics identity. Platform teams risk becoming disconnected from business outcomes. Enabling teams struggle to show impact. Complicated-subsystem teams can become ivory towers. -->
+
+---
+
+## Applying Team Topologies to Your Case Context
+
 **Think about your case context:** Which topology best describes your team? Most analytics orgs are a mix.
 
-<!-- Talk track: Team Topologies is a book by Skelton and Pais that gives us a language for how teams relate to each other. I want you to think about these four types through an analytics lens. Stream-aligned teams are embedded — they sit inside a product squad and serve that squad directly. Platform teams build the infrastructure everyone depends on. Enabling teams exist to make other teams more capable — think data literacy programs. And complicated-subsystem teams handle genuinely hard technical problems like ML or forecasting. Look at your case context card. Which topology fits? If you're in the small startup context, you're probably one team doing everything. If you're in the large enterprise, you might have all four. -->
+**If you chose DataPulse (startup):** You are probably one person doing all four topologies at once. You're building the pipeline, embedding with the product team, training PMs to read dashboards, and maybe building a basic churn model. This is normal at a startup — but it means you need to be intentional about where you spend your time.
+
+**If you chose MarketBridge (scale-up):** You likely have stream-aligned analysts who grew up embedded in different pods, but no platform team. That's why there are conflicting metric definitions — nobody owns the infrastructure. Your first move might be carving out a platform function.
+
+**If you chose FinGuard (enterprise):** You probably have all four topologies, but they may not talk to each other. The ML team might not know what the embedded analysts need. The platform team might be building for compliance, not for analyst productivity. Your challenge is coordination.
+
+<!-- Talk track: Now take this framework and apply it to your case. If you're DataPulse, you don't have the luxury of team topologies — you ARE the team. But it's still useful to think about which hat you're wearing at any given moment. Am I doing platform work right now, or am I doing embedded analytics? That awareness helps you manage your time. If you're MarketBridge, I bet your biggest problem is that you have a bunch of stream-aligned analysts with no platform underneath them. Everyone built their own pipeline, everyone defined metrics differently, and now you're trying to consolidate. Sound familiar? And if you're FinGuard, you probably have all four types but they've calcified into silos. The ML team ships models that the business analysts can't interpret. The platform team builds infrastructure the analysts don't use. Your job is to create the interaction modes between these teams. -->
 
 ---
 
@@ -80,6 +202,24 @@ Your **operating system** has four layers:
 Think of it like software: cadences are the scheduler, rituals are the processes, artifacts are the data store, and decision hygiene is the error-handling layer.
 
 <!-- Talk track: Here's the core mental model for this block. Your Manager OS has four layers. Cadences are the clock — how often things happen. Rituals are the actual meetings and practices. Artifacts are the written documents that create shared memory. And decision hygiene is how you make sure decisions are actually good. I like the software analogy: cadences are your cron scheduler, rituals are your running processes, artifacts are your database, and decision hygiene is your error handling. Over the next ninety minutes, we're going to build out each layer for YOUR context. -->
+
+---
+
+## What Happens Without a Manager OS?
+
+When there is no operating system, you get **chaos that feels like busyness**:
+
+**No cadences** means problems fester. A small misunderstanding on Monday becomes a full-blown conflict by Friday because there was no natural checkpoint to catch it. Your team spends more time in ad-hoc Slack threads than in structured conversations.
+
+**No artifacts** means decisions get relitigated. You had the metrics definition conversation three months ago, but nobody wrote it down. Now the VP is asking why the numbers don't match, and you're having the same argument again.
+
+**No rituals** means important things fall through the cracks. Nobody is doing career conversations. Nobody is reviewing whether last quarter's priorities still make sense. The team is executing, but executing on what?
+
+**No decision hygiene** means the loudest voice wins. The most senior person in the room, or the most persistent stakeholder, drives every decision — not because they're right, but because there's no process to evaluate alternatives.
+
+**You have seen this.** Every analytics team that feels "chaotic" or "reactive" is usually missing one or more of these layers.
+
+<!-- Talk track: Let me paint the picture of what happens when you don't have a Manager OS, because I want you to feel this viscerally. Without cadences, problems fester. I once managed a team where I didn't have a regular meeting rhythm for the first two months. A junior analyst was stuck on a data quality issue for three weeks before I found out — because there was no natural moment for them to tell me. Without artifacts, decisions get relitigated. This is the one that drove me crazy early in my career. We'd spend 45 minutes in a meeting debating metric definitions, reach a conclusion, and then three months later have the exact same debate because nobody wrote anything down. Without rituals, career conversations just don't happen. I've talked to analysts who went an entire year without discussing their growth with their manager. And without decision hygiene, whoever is loudest or most persistent wins. That's not management — that's anarchy with a Slack workspace. If any of this sounds familiar, good. That's why we're building your OS today. -->
 
 ---
 
@@ -100,6 +240,30 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 
 ---
 
+## Designing Your Cadence
+
+**How to audit your current meeting load:**
+
+The first step is not to add meetings — it is to audit what already exists. Try the **Meeting Audit Exercise**:
+
+1. List every recurring meeting you attend or own
+2. For each meeting, ask three questions:
+   - Does this meeting have an **owner** who prepares and drives it?
+   - Does this meeting have a **standing agenda** or is it free-form?
+   - Does this meeting result in a **decision or action item**, or is it purely informational?
+3. If a meeting fails all three questions, kill it or convert it to an async update
+
+**Introducing cadences to a team that has none:**
+
+- **Don't overhaul everything at once.** Start with weekly 1:1s and one team sync. That's it.
+- **Explain the "why" before the "what."** People resist new meetings. They won't resist "I want to make sure you have a guaranteed 30 minutes with me every week to talk about whatever matters to you."
+- **Timebox aggressively.** A 25-minute meeting that ends on time builds more trust than a 60-minute meeting that rambles.
+- **Protect the cadence.** The first time you cancel a newly established ritual, you signal it's optional. Don't cancel.
+
+<!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. Kill those first. You just freed up hours in your calendar. Now, if you're starting from scratch — maybe you picked DataPulse and there's literally no team yet — start small. Weekly 1:1s and one team sync. That's your entire meeting load. Don't introduce a monthly metrics review until you actually have metrics to review. And here's the most important piece: when you introduce a new cadence, explain why. "I'm adding a weekly 1:1 because I want to make sure you always have dedicated time with me" lands completely differently than "we're adding a new meeting to the calendar." People don't hate meetings. They hate bad meetings. Give them good ones, and they'll protect the cadence themselves. -->
+
+---
+
 ## 1:1s That Actually Work
 
 **Structure (30 minutes):**
@@ -107,15 +271,47 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 - **10 min** — Your agenda (context, feedback, asks)
 - **10 min** — Career & growth (not every week, but regularly)
 
+**Pro tip:** Keep a shared running doc. Both sides add agenda items before the meeting.
+
+<!-- Talk track: The 1:1 is the single most important ritual in your Manager OS. Let me be blunt: if you cancel 1:1s regularly, you are failing as a manager. Here's a simple structure that works. First ten minutes are theirs — they set the agenda. This is critical. The 1:1 is their meeting, not yours. You're there to listen, unblock, and support. Middle ten minutes are yours — context from leadership, feedback you need to give, specific asks. Last ten minutes are about their career and growth. You don't need to do the career portion every week, but you should do it at least once a month. And the shared doc is non-negotiable. Both of you add items before the meeting so you're not wasting time figuring out what to talk about. -->
+
+---
+
+## 1:1 Anti-Patterns
+
 **Anti-patterns to avoid:**
 - **The Status Update Trap** — "What did you do this week?" (Use async for this)
 - **The Therapy Session** — Empathy is good, but you're not a therapist
 - **The Canceled 1:1** — The fastest way to signal "you don't matter"
 - **The Monologue** — If you're talking more than 50%, something's wrong
 
-**Pro tip:** Keep a shared running doc. Both sides add agenda items before the meeting.
+**Watch for these signals:**
+- If your 1:1s feel boring, the relationship probably isn't deep enough yet for real topics
+- If every 1:1 is a fire drill, you have a structural problem — the 1:1 is a symptom, not the cause
+- If your report says "I don't have anything" every week, they don't trust the space yet
 
-<!-- Talk track: The 1:1 is the single most important ritual in your Manager OS. Let me be blunt: if you cancel 1:1s regularly, you are failing as a manager. Here's a simple structure that works. First ten minutes are theirs — they set the agenda. Middle ten minutes are yours — context from leadership, feedback, specific asks. Last ten minutes are about their career and growth. Now, let me name the anti-patterns. The status update trap — don't use a 1:1 to ask "what did you do this week." That's what Slack is for. The therapy session — you should be empathetic, but if every 1:1 turns into emotional processing, something structural is wrong. And the canceled 1:1 — nothing says "you don't matter to me" faster. Who here has had a manager who regularly canceled 1:1s? How did that feel? -->
+<!-- Talk track: Now, let me name the anti-patterns. The status update trap — don't use a 1:1 to ask "what did you do this week." That's what Slack is for. A 1:1 should be about what's hard, what's unclear, what's exciting, what's frustrating — the stuff that doesn't fit in a status update. The therapy session — you should be empathetic, absolutely, but if every 1:1 turns into emotional processing about the same issue, something structural needs to change. Help them solve the problem, don't just absorb the emotion. The canceled 1:1 — nothing says "you don't matter to me" faster. And the monologue — if you're talking more than half the time, you're using the 1:1 as a broadcast channel, not a conversation. Who here has had a manager who regularly canceled 1:1s? How did that feel? Exactly. Don't be that manager. -->
+
+---
+
+## Handling Difficult 1:1 Situations
+
+**The report who never has agenda items:**
+- They might not trust the space yet. Give it time and keep showing up.
+- Offer prompts: "What's the most frustrating thing you dealt with this week?" or "If you could change one thing about how we work, what would it be?"
+- Share your own vulnerabilities first — "I'm struggling with X, can I get your perspective?" models that the 1:1 is a safe space for real talk.
+
+**The report who only brings complaints:**
+- Validate first, then redirect: "I hear you. That does sound frustrating. What do you think we should do about it?"
+- If it's about a coworker, ask "Have you talked to them directly?" before offering to intervene.
+- Pattern-match across complaints — is there a structural issue underneath? If so, fix the structure, not the symptoms.
+
+**The silent report:**
+- Some people process internally. Try written 1:1s — share a doc with questions 24 hours ahead.
+- Walk-and-talk or informal settings sometimes open people up more than a conference room.
+- Be patient. Trust is built in small moments over months, not in one conversation.
+
+<!-- Talk track: Let me give you tactical advice for three common situations. First, the report who shows up and says "I don't have anything." This is almost never true — they just don't trust the space yet, or they don't know what's appropriate to bring up. Give them prompts. I like to ask "what's the most frustrating thing you've dealt with this week?" That question almost always unlocks something. Second, the report who turns every 1:1 into a complaint session. Start by validating — their frustration is real. But then redirect toward action. "What should we do about it?" And if they're complaining about a coworker, always ask if they've talked to that person directly. Third, the truly silent report. Some people are just internal processors. That's okay. Try a written format — share questions in advance and let them respond in writing if that's more comfortable. I had a brilliant analyst once who said almost nothing in our 1:1s until I switched to walking meetings. Something about not making eye contact and moving through space opened her up completely. Experiment. There's no single right format. -->
 
 ---
 
@@ -139,6 +335,28 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 **Default to Type 2.** Most decisions are reversible. Move fast on those. Slow down on Type 1.
 
 <!-- Talk track: Jeff Bezos popularized the Type 1 / Type 2 framework. Type 1 decisions are one-way doors — hard or impossible to reverse. Type 2 decisions are two-way doors — you can walk back through if it doesn't work. Here's the insight: most decisions are Type 2, but organizations treat them all like Type 1. That's where bureaucracy comes from. Your job as a manager is to identify which type each decision is and set the right speed. For Type 2 decisions, empower your team to just go. For Type 1 decisions, write a memo. The act of writing a decision memo forces you to think clearly. You can't hide behind vague language when you have to write it down. We have a template for this that you'll use throughout the course. -->
+
+---
+
+## Example Decision Memo: Event Tracking Migration
+
+**Context:** MarketBridge currently uses Amplitude for product analytics. The engineering team is proposing we migrate to an in-house event tracking system built on Snowplow + Snowflake. The analytics team needs to weigh in.
+
+**Options:**
+
+| Option | Pros | Cons |
+|---|---|---|
+| **A: Stay on Amplitude** | No migration cost; PMs already trained; stable | Costs $120K/yr; limited raw data access; vendor lock-in |
+| **B: Migrate to in-house (Snowplow + Snowflake)** | Full data ownership; flexible schema; long-term cost savings | 3-4 month migration; engineering dependency; we own reliability |
+| **C: Hybrid — keep Amplitude for PMs, add Snowplow for analytics** | PMs unaffected; analytics gets raw data | Two systems to maintain; data consistency risk; higher total cost short-term |
+
+**Recommendation:** Option C (Hybrid), migrating to full in-house (Option B) in 12 months. This de-risks the migration while giving the analytics team immediate access to raw event data.
+
+**Risks:** Dual systems create metric discrepancy risk. Mitigate with a shared event taxonomy document and weekly reconciliation checks for the first 3 months.
+
+**Decision Type:** Type 2 — reversible. If the hybrid approach fails, we revert to Amplitude-only within a month.
+
+<!-- Talk track: Let me show you what a real decision memo looks like. This is for MarketBridge — should we migrate from Amplitude to an in-house event tracking system? Notice the structure. The context is crisp — one paragraph, everyone understands the situation. Then three options. Not two, because two options creates a false binary. Three forces you to think creatively. Look at the pros and cons — they're specific. Not "it's expensive" but "$120K per year." Not "it takes time" but "3-4 month migration." Specificity is what separates a useful memo from a waste of paper. The recommendation is Option C — the hybrid approach. And notice the reasoning: it de-risks the migration. That's strategic thinking. And at the bottom, this is classified as Type 2 — reversible. If it doesn't work, we go back. That classification matters because it tells everyone "we don't need to agonize over this for three weeks." Write the memo, circulate it, make the call. This is what decision hygiene looks like in practice. You'll write your own memos like this during the course. -->
 
 ---
 
@@ -170,6 +388,12 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 | **High Power** | Keep Satisfied | Manage Closely |
 | **Low Power** | Monitor | Keep Informed |
 
+<!-- Talk track: The stakeholder map is your relationship radar. This 2x2 grid comes from classic project management but it's incredibly useful for analytics managers. High power, high interest — these are your bread and butter stakeholders. You manage them closely. They're the VP of Product who cares deeply about data and has budget authority. High power, low interest — these are dangerous. Think of the CFO who doesn't care about analytics until something goes wrong, and then suddenly they care a lot. You need to keep them satisfied with periodic updates so they don't blindside you. Low power, high interest — these are often your power users, the PMs who love data but don't control your budget. Keep them informed and they'll be your advocates. And low power, low interest — just monitor. Don't waste energy here, but don't lose track of them either, because power and interest levels change. -->
+
+---
+
+## Stakeholder Map: Details & Hidden Stakeholders
+
 **For each stakeholder, capture:**
 - Name/Role
 - What they need from you
@@ -178,7 +402,14 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 
 **The hidden stakeholders:** Don't forget IT, Legal/Privacy, Finance, and the engineers who maintain your pipelines. New managers always under-map.
 
-<!-- Talk track: The stakeholder map is your relationship radar. This 2x2 grid comes from classic project management but it's incredibly useful for analytics managers. High power, high interest — these are your bread and butter stakeholders. You manage them closely. High power, low interest — these are dangerous. Think of the CFO who doesn't care about analytics until something goes wrong. You need to keep them satisfied. Low power, high interest — these are often your power users, the PMs who love data. Keep them informed. And low power, low interest — just monitor. Here's my biggest tip: new managers always under-map. They forget IT, Legal, Privacy, Finance. Those stakeholders will block you at the worst possible moment if you haven't built the relationship. -->
+**Examples of hidden stakeholders by case context:**
+- **DataPulse:** The CTO who controls your cloud budget. The sole backend engineer who maintains the API you need data from.
+- **MarketBridge:** The data engineering team that owns the pipeline you depend on. The compliance officer who needs to approve any new data collection.
+- **FinGuard:** Model risk management. Internal audit. The vendor management team that approves new tool purchases.
+
+**Ask yourself:** "Who could block my work if I have NOT built a relationship with them?" Those are your hidden stakeholders.
+
+<!-- Talk track: Now let me talk about the details and the hidden stakeholders, because this is where most new managers fall short. For each stakeholder, you need to capture not just who they are, but what the exchange is. What do they need from you? Maybe it's weekly reports, maybe it's a quarterly business review, maybe it's just a heads-up before you change a metric definition. And what do you need from them? Data access, budget approval, engineering support. Map both sides of the relationship. Now, hidden stakeholders. Every time I do this exercise with a new manager, they map the obvious ones — their boss, the PMs, the product team. But they miss IT, Legal, Privacy, Finance. I once had a project blocked for six weeks because I didn't know I needed approval from the data privacy team before I could join two datasets together. Six weeks! If I had mapped them as a stakeholder and built the relationship early, I could have gotten that approval in days. Think about your case context — who could block you that you haven't thought of yet? -->
 
 ---
 
@@ -191,6 +422,12 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 | **C** | Consulted — input before the decision | Keep this list short |
 | **I** | Informed — told after the decision | Default for most people |
 
+<!-- Talk track: RACI is one of those frameworks that people either love or hate. I'm going to teach you to use it well, which means using it sparingly. R is who does the work. A is who owns the outcome — and this is the critical one. There must be exactly one A per decision. If two people think they're accountable, nobody is. C is who you consult before deciding, and I is who you inform after. Let me emphasize that rule about the A — exactly one person. This is where organizations go wrong. They say "well, both the analytics manager and the PM are accountable for this metric." No. One person is accountable. The other person might be Responsible or Consulted, but there is one throat to choke, as the saying goes. That clarity is uncomfortable, but it's essential. -->
+
+---
+
+## RACI: Common Mistakes & When to Use It
+
 **Common mistakes:**
 - Everyone is "Consulted" on everything (consensus paralysis)
 - No clear "A" (diffusion of responsibility)
@@ -198,7 +435,16 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 
 **Use RACI for the 5-10 decisions that cause the most confusion.** Not for everything.
 
-<!-- Talk track: RACI is one of those frameworks that people either love or hate. I'm going to teach you to use it well, which means using it sparingly. R is who does the work. A is who owns the outcome — and this is the critical one. There must be exactly one A per decision. If two people think they're accountable, nobody is. C is who you consult before deciding, and I is who you inform after. The biggest mistake I see is organizations that RACI everything. Don't do that. Pick the five to ten decisions that cause the most confusion or conflict, and RACI those. Things like: who decides our metrics definitions? Who approves a new dashboard going to production? Who decides if we take on a new stakeholder? Those deserve a RACI. "What color should the chart be?" does not. -->
+**Good candidates for RACI in an analytics team:**
+- Who defines the canonical metric definitions?
+- Who approves a new dashboard going to production?
+- Who decides whether to take on a new stakeholder request?
+- Who signs off on a model before it goes to production?
+- Who decides on tooling changes (new BI tool, new pipeline framework)?
+
+**Bad candidates for RACI:** What color should the chart be. Which SQL style guide to use. Where to put the documentation. These are decisions, but they are not decisions worth formalizing.
+
+<!-- Talk track: The biggest mistake I see is organizations that RACI everything. Don't do that. Pick the five to ten decisions that cause the most confusion or conflict, and RACI those. I've listed some good candidates here — metric definitions, dashboard approvals, stakeholder intake, model sign-off, tooling changes. These are the decisions where ambiguity causes real pain. If nobody knows who owns metric definitions, you'll have three different teams reporting three different churn numbers to the board. That's a RACI-worthy decision. But "what color should the chart be?" That does not need a RACI matrix. If you RACI trivial decisions, people will roll their eyes at the whole framework and ignore it even when it matters. Use it surgically, and it's powerful. Use it for everything, and it's bureaucracy. -->
 
 ---
 
