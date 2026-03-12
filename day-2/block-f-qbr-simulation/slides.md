@@ -16,7 +16,7 @@ By the end of this block you will be able to:
 
 This is the capstone. You will present your roadmap and executive narrative in a QBR simulation to a mock executive panel.
 
-<!-- Talk track: Welcome to the final block. Everything you've built over these two days — the Manager OS, the hiring packet, the roadmap, the growth plans, the infrastructure blueprint — it all converges here. This block is about leading up and across. Leading up means communicating with executives who have limited time and broad scope. Leading across means working with peers in other functions who have different priorities. The QBR simulation is your chance to practice both. You'll present your roadmap to a mock executive panel, and your peers will play the executives asking hard questions. Let's start with the framework for executive communication. -->
+<!-- Talk track: Welcome to the final block. Everything you've built over these two days — the Manager OS, the hiring packet, the roadmap, the growth plans, the peer feedback you gave and received — it all converges here. This block is about leading up and across. Leading up means communicating with executives who have limited time and broad scope. Leading across means working with peers in other functions who have different priorities. The QBR simulation is your chance to practice both. You'll present your roadmap to a mock executive panel, and your peers will play the executives asking hard questions. Let's start with the framework for executive communication. -->
 
 ---
 
@@ -539,55 +539,44 @@ Play one of these roles during Q&A. Stay in character. **You MUST interrupt the 
 
 ---
 
-## Portfolio Checklist: Artifacts (1/4)
+## Portfolio Checklist: Components (1/3)
 
 **Due: One week from today (23:59 Vienna time)**
 
-| Artifact | Source Block |
-|---|---|
-| Team Charter | Block A |
-| Stakeholder Map | Block A |
-| Manager OS (2–4 pages) | Block A |
+Your portfolio has **6 graded components.** Here's what goes in each.
 
-<!-- Talk track: Let's talk about what's due. The portfolio is everything you've built across both days, refined into final form. First up: Team Charter, Stakeholder Map, and Manager OS from Block A. -->
+| Component | What to Submit | Source |
+|---|---|---|
+| **1. Manager OS Document** (2–4 pp) | Absorbs your Team Charter + Stakeholder Map into one document | Block A |
+| **2. Hiring Packet** | JD, Work Sample, Scoring Rubric, Interview Loop | Block B |
 
----
-
-## Portfolio Checklist: Artifacts (2/4)
-
-| Artifact | Source Block |
-|---|---|
-| Hiring Packet (JD, work sample, rubric, interview loop) | Block B |
-| Roadmap + RICE Scoring | Block C |
-| Executive Narrative (2 pages) | Block C |
-
-<!-- Talk track: Next: Hiring Packet from Block B — that's the JD, work sample, rubric, and interview loop. Roadmap with RICE scoring and executive narrative from Block C. -->
+<!-- Talk track: Let's talk about what's due. The portfolio has six graded components. First: the Manager OS Document from Block A — this absorbs your team charter and stakeholder map into one cohesive 2-4 page document. Second: the Hiring Packet from Block B — that's four pieces: JD, work sample, rubric, and interview loop, submitted together as one section. -->
 
 ---
 
-## Portfolio Checklist: Artifacts (3/4)
+## Portfolio Checklist: Components (2/3)
 
-| Artifact | Source Block |
-|---|---|
-| Risk Register | Block C |
-| Personal Growth Plan (PGP) | Block D |
-| Performance Summary | Block D |
+| Component | What to Submit | Source |
+|---|---|---|
+| **3. Roadmap + Executive Narrative** | 12-Month Roadmap with RICE, Executive Narrative (2 pp), Risk Register | Block C |
+| **4. Personal Growth Plan** | PGP | Block D |
+| **5. Performance Summary** | Calibration-ready summary | Block D |
 
-<!-- Talk track: Here's the next set. Risk register from Block C. PGP and performance summary from Block D. -->
+<!-- Talk track: Third: Roadmap plus Executive Narrative from Block C. This is one graded section that includes three pieces — your RICE-scored roadmap, the two-page narrative, and the risk register. Fourth and fifth: your Personal Growth Plan and Performance Summary from Block D. -->
 
 ---
 
-## Portfolio Checklist: Artifacts (4/4)
+## Portfolio Checklist: Components (3/3)
 
-| Artifact | Source Block |
-|---|---|
-| Data Infrastructure Blueprint | Block E |
-| RFP Scoring Matrix | Block E |
-| QBR Outline | Block F |
+| Component | What to Submit | Source |
+|---|---|---|
+| **6. QBR Outline** | QBR presentation outline | Block F |
 
-That's twelve artifacts. Each should be polished — not perfect, but clearly thought through and professionally presented.
+Six components. Each should be polished — not perfect, but clearly thought through and professionally presented.
 
-<!-- Talk track: Data infrastructure blueprint and RFP scoring matrix from Block E. And the QBR outline from today. Twelve artifacts total. Each one should be polished and professionally presented. -->
+_Optional extras for a richer portfolio: RACI Matrix, Decision Memo, Data Infrastructure Blueprint, RFP Scoring Matrix (see `resources/` templates)._
+
+<!-- Talk track: And sixth: the QBR outline from today. Six components total. Each one should be polished and professionally presented. If you want to go further, there are optional templates in the resources folder — RACI matrix, decision memo, data infrastructure blueprint, RFP scoring matrix. These are not required but they enrich your portfolio. -->
 
 ---
 
@@ -607,12 +596,11 @@ Drafts you built in class are your starting point — **refine them, don't start
 
 ## Portfolio Checklist: Submission (2/2)
 
-- Your infrastructure blueprint should support the projects on your roadmap
 - Your QBR outline should synthesize everything into a coherent story
 
-The portfolio is not twelve separate documents. It's **one integrated system**.
+The portfolio is not six separate documents. It's **one integrated system**.
 
-<!-- Talk track: That consistency is actually one of the things I'm looking for. Think of the portfolio as one integrated system, not twelve separate documents. That integration is what separates a good submission from a great one. -->
+<!-- Talk track: That consistency is actually one of the things I'm looking for. Think of the portfolio as one integrated system, not six disconnected pieces. That integration is what separates a good submission from a great one. -->
 
 ---
 
@@ -675,14 +663,14 @@ Over two days, you've practiced how to:
 - **Hire** with structure, fairness, and signal
 - **Roadmap** with business alignment and executive clarity
 
-<!-- Talk track: Let me close by telling you what you've accomplished. In two days, you've built more management artifacts than most new managers create in their first six months. You have a team charter, a stakeholder map, a hiring packet, a roadmap, a growth plan, an infrastructure blueprint, and you just presented to a mock executive panel. That's not theory — that's practice. -->
+<!-- Talk track: Let me close by telling you what you've accomplished. In two days, you've built more management artifacts than most new managers create in their first six months. You have a team charter, a stakeholder map, a hiring packet, a roadmap, a growth plan, a performance summary, and you just presented to a mock executive panel. That's not theory — that's practice. -->
 
 ---
 
 ## Close: What You've Built (2/2)
 
 - **Grow** your people through PGPs and honest performance conversations
-- **Build** infrastructure pragmatically and evaluate vendors rigorously
+- **Refine** your artifacts through structured peer feedback
 - **Present** to executives under pressure and handle hard questions
 
 The **portfolio is the proof**. Refine your drafts. Submit with pride.

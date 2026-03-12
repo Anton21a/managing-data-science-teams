@@ -3,21 +3,21 @@ marp: true
 theme: ceu-analytics
 paginate: true
 header: "ECBS5256 – Managing Data Science Teams"
-footer: "CEU Vienna | Day 2 – Block E"
+footer: "CEU Vienna | Advanced Resources (Optional)"
 ---
 
 # XFN, Vendor, IT & Data Infrastructure
 
-**Day 2 — Block E | 13:30–15:10**
+**Optional Self-Study Module**
 
 **Learning Outcomes**
-By the end of this block you will be able to:
+By the end of this module you will be able to:
 - Map cross-functional interfaces and document bidirectional SLAs
 - Plan small-org data infrastructure across the canonical data stack layers
 - Apply a build-vs-buy framework grounded in Total Cost of Ownership
 - Evaluate vendors using a structured RFP scoring matrix
 
-<!-- Talk track: Welcome back from lunch. This is the most technical block of the course, but I want to be clear — it's technical in the way a manager needs to be technical. You don't need to configure a Snowflake instance. You need to know what questions to ask, what trade-offs exist, and how to work with IT, Legal, and Engineering to make infrastructure decisions that your team can live with for the next two years. By the end of this session, you'll have two artifacts: a data infrastructure blueprint and a vendor scoring matrix. Both anchored to your case context. Let's go. -->
+<!-- Talk track: This is the most technical module in the course, but it's technical in the way a manager needs to be technical. You don't need to configure a Snowflake instance. You need to know what questions to ask, what trade-offs exist, and how to work with IT, Legal, and Engineering to make infrastructure decisions that your team can live with for the next two years. By the end of this module, you'll have two artifacts: a data infrastructure blueprint and a vendor scoring matrix. Both anchored to your case context. Let's go. -->
 
 ---
 
@@ -64,17 +64,17 @@ You are dependent on:
 
 If **any** of these relationships break down, your team stalls.
 
-This block teaches you to manage those relationships **structurally, not ad hoc**. Handshake agreements don't survive re-orgs. Written SLAs do.
+This module teaches you to manage those relationships **structurally, not ad hoc**. Handshake agreements don't survive re-orgs. Written SLAs do.
 
-Most managers handle this ad hoc: a Slack message here, a coffee chat there. That doesn't scale. This block gives you the structural tools — SLAs, blueprints, scoring matrices — to manage these dependencies like a professional.
+Most managers handle this ad hoc: a Slack message here, a coffee chat there. That doesn't scale. This module gives you the structural tools — SLAs, blueprints, scoring matrices — to manage these dependencies like a professional.
 
-<!-- Talk track: If any one of these relationships is broken — if Engineering doesn't tell you about schema changes, if Legal takes six weeks to review a vendor — your team sits idle. Most managers handle this ad hoc: a Slack message here, a coffee chat there. That doesn't scale. This block gives you the structural tools — SLAs, blueprints, scoring matrices — to manage these dependencies like a professional. Handshake agreements don't survive re-orgs. Written SLAs do. That's the key difference between reactive management and proactive management. -->
+<!-- Talk track: If any one of these relationships is broken — if Engineering doesn't tell you about schema changes, if Legal takes six weeks to review a vendor — your team sits idle. Most managers handle this ad hoc: a Slack message here, a coffee chat there. That doesn't scale. This module gives you the structural tools — SLAs, blueprints, scoring matrices — to manage these dependencies like a professional. Handshake agreements don't survive re-orgs. Written SLAs do. That's the key difference between reactive management and proactive management. -->
 
 ---
 
-## What We'll Build This Block (1/2)
+## What We'll Build This Module (1/2)
 
-By the end of this session, you'll have **four practical artifacts:**
+By the end of this module, you'll have **four practical artifacts:**
 
 1. **Cross-functional SLAs** — Written agreements with Engineering, IT, Legal, and Product that define who owes what to whom, and by when
 2. **A data infrastructure blueprint** — Tailored to your case context, mapping tools to each layer of the canonical data stack
@@ -83,7 +83,7 @@ By the end of this session, you'll have **four practical artifacts:**
 
 ---
 
-## What We'll Build This Block (2/2)
+## What We'll Build This Module (2/2)
 
 3. **A build-vs-buy analysis** — A framework for deciding when to use open-source, when to buy SaaS, and when to build in-house
 4. **A vendor scoring matrix** — A structured RFP evaluation you can use to compare real vendors on real criteria
@@ -290,7 +290,7 @@ This is the map. Your case context determines the territory.
 
 When we talk about specific tools, always ask: where does this fit in the flow?
 
-<!-- Talk track: This diagram is the anchor for the rest of this block. When we talk about specific tools, I want you to always ask: where does this fit in the flow? Print this mental model. Tattoo it on your arm. Whatever it takes. -->
+<!-- Talk track: This diagram is the anchor for the rest of this module. When we talk about specific tools, I want you to always ask: where does this fit in the flow? Print this mental model. Tattoo it on your arm. Whatever it takes. -->
 
 ---
 
@@ -793,7 +793,7 @@ Pick **one tool category** for your case context:
 
 ## Your Infrastructure Toolkit (1/2)
 
-After this block, you have:
+After this module, you have:
 
 - [x] **Cross-functional map** — Who you depend on and what they need from you
 - [x] **The canonical blueprint** — Sources through visualization with governance overlay
@@ -809,33 +809,20 @@ After this block, you have:
 - [x] **Privacy & governance basics** — GDPR, data classification, retention
 - [x] **A 6-month infrastructure plan** — Specific to your case context
 
-These feed directly into your **Manager Portfolio** — the data infrastructure blueprint and vendor scoring matrix are portfolio deliverables.
+If you choose to include these in your **Manager Portfolio**, the data infrastructure blueprint and vendor scoring matrix are strong optional artifacts that enrich your submission.
 
-<!-- Talk track: You have a vendor scoring process. You have a privacy and governance foundation. And you have a six-month plan specific to your case context. Both the infrastructure blueprint and the vendor scoring matrix are deliverables in your final portfolio. Refine them this week using the feedback you got today. -->
-
----
-
-## Transition to Block F (1/2)
-
-**Next: QBR Simulation (15:30–17:10)**
-
-You're about to present your roadmap and narrative to a mock executive panel.
-
-**Use the next 10 minutes to:**
-1. Review your roadmap from Day 1 Block C
-2. Incorporate your infrastructure plan from today
-
-<!-- Talk track: Final block is coming up — the QBR simulation. This is where everything comes together. You're going to present your roadmap and narrative to a mock executive panel. Take the next ten minutes — before we start Block F — to prep. Pull up your roadmap from Day 1. Incorporate the infrastructure plan you just wrote. -->
+<!-- Talk track: You have a vendor scoring process. You have a privacy and governance foundation. And you have a six-month plan specific to your case context. Both the infrastructure blueprint and the vendor scoring matrix are optional portfolio artifacts — they are not required, but they strengthen your submission if you include them. -->
 
 ---
 
-## Transition to Block F (2/2)
+## Next Steps
 
-3. Prepare a 5-minute presentation: What are you building? Why? What does it cost?
-4. Anticipate hard questions: "Why this vendor?" "What's the ROI?" "When do we see results?"
+If you completed this module as self-study, consider how your infrastructure plan connects to the rest of your portfolio:
 
-**The QBR format:** 5 min present, 5 min Q&A, 5 min peer feedback.
+1. Review your roadmap from Block C — does the infrastructure plan support it?
+2. Incorporate infrastructure considerations into your QBR outline
+3. Anticipate hard questions: "Why this vendor?" "What's the ROI?" "When do we see results?"
 
-Think like an executive is listening. Because in Block F, they will be.
+<!-- Talk track: If you're working through this on your own, take a step back and connect what you just built to your broader portfolio. Does your infrastructure plan support the roadmap you built in Block C? Can you defend your vendor choices to an executive? These connections are what make the optional artifacts valuable. -->
 
-<!-- Talk track: Think about the story you're telling: what are we building, why does it matter, what does it cost, and when will we see results. Anticipate the hard questions. If you recommend Snowflake, be ready for "why not BigQuery — it's cheaper." If you recommend building something in-house, be ready for "do we have the team for that?" Think like your audience. See you at 3:30. -->
+<!-- Talk track: Think about the story you're telling: what are we building, why does it matter, what does it cost, and when will we see results. Anticipate the hard questions. If you recommend Snowflake, be ready for "why not BigQuery — it's cheaper." If you recommend building something in-house, be ready for "do we have the team for that?" Think like your audience. -->

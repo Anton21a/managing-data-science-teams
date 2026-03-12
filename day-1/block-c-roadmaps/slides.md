@@ -758,10 +758,10 @@ Missing sections are okay. Empty templates are not.
 | Block | Topic | Activity |
 |-------|-------|----------|
 | **D** (11:00) | Growth & Performance | PGP + calibration |
-| **E** (13:30) | Data Infra & Vendors | Blueprint + RFP |
+| **E** (13:30) | Portfolio Workshop & Peer Review | Revise artifacts + peer feedback |
 | **F** (15:30) | QBR Simulation | Present roadmap |
 
-<!-- Talk track: Here is what is coming on Day 2 next Monday. Block D covers growth and performance — you will draft a personal growth plan and a calibration-ready performance summary. Block E is about data infrastructure and vendor management — practical stuff about building your data stack. And Block F is the big one — the QBR simulation. You will present your roadmap and executive narrative to a mock executive panel, and they will ask you hard questions. -->
+<!-- Talk track: Here is what is coming on Day 2 next Monday. Block D covers growth and performance — you will draft a personal growth plan and a calibration-ready performance summary. Block E is a portfolio workshop — you will revise your weakest artifact, give and receive structured peer feedback, and prepare for the QBR simulation. And Block F is the big one — the QBR simulation. You will present your roadmap and executive narrative to a mock executive panel, and they will ask you hard questions. -->
 
 ---
 
@@ -791,10 +791,10 @@ Missing sections are okay. Empty templates are not.
 
 # Close Day 1 (2/2)
 
-Day 2 is about **people, infrastructure, and presenting it all.**
+Day 2 is about **people, refinement, and presenting it all.**
 
 > "Management is not about having all the answers. It's about building the system that finds them."
 
 Thank you. See you on March 23.
 
-<!-- Talk track: On Day 2, we will add the people dimension — growth plans, performance management, difficult conversations — and the technical dimension — data infrastructure, vendor management, working with IT. And in the final block, you will present everything in a QBR simulation. Submit your checkpoint artifacts now, and I will see you on March 23. Have a good week. -->
+<!-- Talk track: On Day 2, we will add the people dimension — growth plans, performance management, difficult conversations. Then you will refine your portfolio artifacts with structured peer feedback. And in the final block, you will present everything in a QBR simulation. Submit your checkpoint artifacts now, and I will see you on March 23. Have a good week. -->

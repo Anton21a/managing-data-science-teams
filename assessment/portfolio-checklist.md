@@ -43,8 +43,8 @@ These artifacts demonstrate additional depth in your portfolio. They are not gra
 
 | # | Artifact | Source | Status | Notes |
 |---|---|---|---|---|
-| 7 | Data Infrastructure Blueprint | `resources/data-infra-blueprint-template.md` | [ ] Complete | |
-| 8 | RFP Scoring Matrix | `resources/rfp-scoring-matrix-template.md` | [ ] Complete | |
+| 7 | Data Infrastructure Blueprint | Resources (self-study) | [ ] Complete | |
+| 8 | RFP Scoring Matrix | Resources (self-study) | [ ] Complete | |
 | 9 | Decision Memo | Block A template | [ ] Complete | |
 | 10 | RACI Matrix | Block A template | [ ] Complete | |
 

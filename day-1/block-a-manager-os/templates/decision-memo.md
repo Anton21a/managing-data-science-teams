@@ -151,4 +151,4 @@ Your Decision Memo will be assessed on the following dimensions:
 | **Risk awareness** | 15% | Risks are realistic (not paranoid, not dismissive). Mitigations are actionable and proportionate. |
 | **Decision type classification** | 15% | Correct Type 1/Type 2 classification with thoughtful implications. Demonstrates understanding of when to move fast vs. when to slow down. |
 
-**Note:** You will use this template for multiple decisions throughout the course. The first memo is a practice exercise; later memos (e.g., build-vs-buy decisions in Block E) will be assessed as part of your Manager Portfolio.
+**Note:** You will use this template for multiple decisions throughout the course. The first memo is a practice exercise; later memos (e.g., build-vs-buy decisions — see the optional Data Infrastructure resources) will be assessed as part of your Manager Portfolio.

@@ -49,7 +49,7 @@ By the end of the course, students will be able to:
 ## 5\. Teaching Methodology
 
 - **Workshops & Role-plays:** interview loops, difficult conversations, QBR panel.  
-- **Hands-on templates:** team charter, stakeholder map, RACI, decision memo, roadmap (RICE), PGP, vendor scoring matrix.  
+- **Hands-on templates:** team charter, stakeholder map, RACI, decision memo, roadmap (RICE), PGP, performance summary.
 - **Red-team critiques:** structured peer feedback to stress-test assumptions.
 
 ---
