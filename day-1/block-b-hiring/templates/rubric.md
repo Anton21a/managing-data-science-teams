@@ -129,7 +129,7 @@
 
 ## Evaluation Criteria
 
-This rubric will be assessed on the following dimensions:
+Use these dimensions to self-assess your rubric. For official grading criteria, see `assessment/grading-rubrics.md` (Hiring Packet component, 20%).
 
 | Criterion | What We Are Looking For |
 |:---|:---|

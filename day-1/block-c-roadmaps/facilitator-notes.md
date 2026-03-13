@@ -114,7 +114,7 @@ If you are running more than 5 minutes behind by 16:00:
 These criteria match the grading rubric in `assessment/grading-rubrics.md`. Use these exact thresholds:
 
 - **Pass:** All three documents submitted by 17:10 AND:
-  - **Team Charter:** All sections filled in (mission, roles, norms, communication plan, decision-making process). No placeholder text or blank fields.
+  - **Team Charter:** All sections filled in (Purpose & Mission, Scope & Boundaries, Team Principles, Key Interfaces, Success Metrics, Cadences & Rituals). No placeholder text or blank fields.
   - **Stakeholder Map:** At least **6 stakeholders** mapped with identified relationships, influence levels, and interest levels relevant to the case context.
   - **Roadmap Outline:** At least **5 items** listed with preliminary **RICE scores** (Reach, Impact, Confidence, Effort) assigned to each. Items must be relevant to the case context.
 - **Fail:** Any artifact is missing entirely, contains only placeholder or boilerplate text, or is submitted after the 17:10 deadline without prior instructor approval.

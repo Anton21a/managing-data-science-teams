@@ -75,7 +75,7 @@ Management is a **learnable craft**, not an innate talent. You can improve syste
 | Context | Company | Stage | Analytics Team |
 |---|---|---|---|
 | **Small** | DataPulse | Seed-stage startup | You are the first analytics hire |
-| **Medium** | MarketBridge | Series B scale-up | You manage a team of 4-6 |
+| **Medium** | MarketBridge | Series B scale-up | You manage a team of 3 |
 | **Large** | FinGuard | Enterprise financial services | You lead a 15+ person analytics org |
 
 <!-- Talk track: Here's how the course works mechanically. We have three case contexts. Each one represents a different stage of analytics team maturity. DataPulse is a seed-stage startup — you're the first analytics hire, there's no infrastructure, and the CEO wants "data-driven decisions" but doesn't know what that means. MarketBridge is a Series B company — you've been hired to manage a small team that grew organically, and there's technical debt and unclear roles. FinGuard is an enterprise — you're leading a large analytics org with compliance requirements, multiple stakeholder groups, and legacy systems. -->
@@ -98,9 +98,9 @@ Management is a **learnable craft**, not an innate talent. You can improve syste
 Pick one now. You will use this for every activity across both days.
 
 **DataPulse (Seed-Stage Startup)**
-- 30-person company, pre-product-market-fit, Series Seed funding
+- 12-person company, Series Seed funding, 50K MAU and growing fast
 - You are the FIRST analytics hire — no team, no infrastructure, no data warehouse
-- The CEO wants "data-driven culture" but data lives in Mixpanel, Stripe, and spreadsheets
+- The CEO wants "data-driven culture" but data lives in Firebase Analytics, Amplitude (free tier), and spreadsheets — plus the CEO runs raw PostgreSQL queries directly
 
 <!-- Talk track: Okay, decision time. Read through these three contexts. DataPulse is the scrappy startup — if you pick this, you'll be thinking about how to build everything from zero with almost no resources. It's exciting, but it's also terrifying. -->
 
@@ -110,7 +110,7 @@ Pick one now. You will use this for every activity across both days.
 
 **MarketBridge (Series B Scale-Up)**
 - ~150-person two-sided marketplace (think Thumbtack), Series B, $30M raised
-- You manage 4-6 analysts who previously reported to different PMs
+- You manage 3 analysts who previously reported to different PMs
 - Dashboards everywhere, conflicting metric definitions, no documentation
 
 <!-- Talk track: MarketBridge is the messy middle — the team exists but it's chaotic. If you pick this, you'll be thinking about how to bring order to an existing team. You'll be dealing with conflicting metric definitions, analysts who built their own pipelines, and a team that grew up without structure. -->

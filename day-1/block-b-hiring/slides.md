@@ -281,7 +281,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 > If the data is a mess, your first hire is the person who cleans it — not the person who analyzes it.
 
-<!-- Talk track: Before you write your job description, I need you to ask yourself an honest question. Does your case context need an analyst — someone who takes clean data and turns it into insights? Or does it need an analytics engineer — someone who takes messy, scattered data and turns it into something an analyst can actually use? MSBA students consistently underestimate the data engineering reality. If you picked DataPulse, your data lives in Mixpanel, Stripe, and spreadsheets. An analyst cannot analyze data that does not exist in a queryable form. You need an analytics engineer first. If you picked MarketBridge, you have conflicting metric definitions. You need someone to build the canonical metrics layer before anyone can trust the numbers. This is the most common hiring mistake in analytics — hiring the analyst before the plumbing is in place. -->
+<!-- Talk track: Before you write your job description, I need you to ask yourself an honest question. Does your case context need an analyst — someone who takes clean data and turns it into insights? Or does it need an analytics engineer — someone who takes messy, scattered data and turns it into something an analyst can actually use? MSBA students consistently underestimate the data engineering reality. If you picked DataPulse, your data lives in Firebase Analytics, Amplitude, and a PostgreSQL database. An analyst cannot analyze data that does not exist in a queryable form. You need an analytics engineer first. If you picked MarketBridge, you have conflicting metric definitions. You need someone to build the canonical metrics layer before anyone can trust the numbers. This is the most common hiring mistake in analytics — hiring the analyst before the plumbing is in place. -->
 
 ---
 
@@ -850,10 +850,10 @@ Use the company scenario you chose in Block A (small / medium / large)
 ### How It Works
 
 1. You will receive a **Candidate Profile Card** — play this person authentically, including their weaknesses
-2. The interviewer uses their rubric and asks questions from their interview loop
+2. The interviewer uses their **scoring rubric** to evaluate responses — ask questions that probe the dimensions you defined
 3. After each round, the interviewer shares scores and explains reasoning
 
-<!-- Talk track: Here is how it works. You will receive a candidate profile card — play this person authentically, including their weaknesses. The interviewer uses their rubric and asks questions from their interview loop. After each round, the interviewer shares scores and explains their reasoning. -->
+<!-- Talk track: Here is how it works. You will receive a candidate profile card — play this person authentically, including their weaknesses. The interviewer uses the scoring rubric they just built to evaluate responses. Ask questions that probe the dimensions you defined in your rubric. After each round, the interviewer shares scores and explains their reasoning. -->
 
 ---
 

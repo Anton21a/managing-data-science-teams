@@ -94,7 +94,7 @@ Before submitting, verify:
 
 ## Evaluation Criteria
 
-This artifact will be assessed as part of the Roadmap + Exec Narrative portfolio component (20% of course grade). For the Day 1 Checkpoint, only the Context and What's Next sections are required (as drafts).
+This artifact will be assessed as part of the Roadmap + Exec Narrative portfolio component (20% of course grade). The executive narrative is a portfolio deliverable — no sections are due for the Day 1 Checkpoint. Start drafting Context and What's Next in class; refine between sessions.
 
 **For the final portfolio submission, this narrative will be evaluated on:**
 

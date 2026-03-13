@@ -111,7 +111,7 @@
 
 ## Evaluation Criteria
 
-Your Team Charter will be assessed on the following dimensions:
+Use these dimensions to self-assess the quality of your Team Charter. For official grading criteria, see `assessment/grading-rubrics.md` (Manager OS component, 15%).
 
 | Criterion | Weight | What "Good" Looks Like |
 |---|---|---|

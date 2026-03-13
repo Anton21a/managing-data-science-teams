@@ -120,7 +120,7 @@ Your Time Limit & Format:
 
 ## Evaluation Criteria
 
-This work sample exercise will be assessed on the following dimensions:
+Use these dimensions to self-assess your work sample exercise. For official grading criteria, see `assessment/grading-rubrics.md` (Hiring Packet component, 20%).
 
 | Criterion | What We Are Looking For |
 |:---|:---|

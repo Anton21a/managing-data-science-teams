@@ -104,7 +104,7 @@
 
 ## Evaluation Criteria
 
-Your Stakeholder Map will be assessed on the following dimensions:
+Use these dimensions to self-assess the quality of your Stakeholder Map. For official grading criteria, see `assessment/grading-rubrics.md` (Manager OS component, 15%).
 
 | Criterion | Weight | What "Good" Looks Like |
 |---|---|---|

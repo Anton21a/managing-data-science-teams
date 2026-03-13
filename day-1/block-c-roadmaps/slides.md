@@ -718,11 +718,11 @@ Ask these questions:
 
 # Red-Team Debrief (2/2)
 
-**Update your roadmap and risk register** with what you just learned.
+**Note what the red-team revealed** — update your roadmap and risk register after class.
 
-Take 3 minutes now to add at least one new risk or modify one initiative.
+Jot down at least one new risk or one initiative to modify before you forget.
 
-<!-- Talk track: Take three minutes right now to update your roadmap. Add at least one new risk to your risk register, or modify one initiative based on what your partner said. This is exactly what happens in real quarterly planning — you present your plan, smart people poke holes in it, and you make it better. The ability to accept and integrate critical feedback is one of the most important skills an analytics manager can develop. -->
+<!-- Talk track: Before we move on, take thirty seconds to jot down the key insight from your red-team partner. What risk did they surface? What initiative needs rethinking? Write it down now so you don't lose it. You'll update your roadmap and risk register after class — this is exactly what happens in real quarterly planning. You present your plan, smart people poke holes in it, and you make it better. -->
 
 ---
 

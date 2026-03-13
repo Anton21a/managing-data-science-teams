@@ -154,7 +154,7 @@
 
 ## Evaluation Criteria
 
-This interview loop design will be assessed on the following dimensions:
+Use these dimensions to self-assess your interview loop design. For official grading criteria, see `assessment/grading-rubrics.md` (Hiring Packet component, 20%).
 
 | Criterion | What We Are Looking For |
 |:---|:---|

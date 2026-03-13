@@ -138,7 +138,7 @@ Your Team Context:
 
 ## Evaluation Criteria
 
-This job description will be assessed on the following dimensions:
+Use these dimensions to self-assess your job description. For official grading criteria, see `assessment/grading-rubrics.md` (Hiring Packet component, 20%).
 
 | Criterion | What We Are Looking For |
 |:---|:---|

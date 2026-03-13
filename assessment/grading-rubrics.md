@@ -32,7 +32,7 @@ All three of the following must be met by **17:10 on Day 1**:
 
 | Artifact | Pass Requirement |
 |---|---|
-| **Team Charter** | Complete — all sections filled in (mission, roles, norms, communication plan, decision-making process). No placeholder text or blank fields. |
+| **Team Charter** | Complete — all sections filled in (Purpose & Mission, Scope & Boundaries, Team Principles, Key Interfaces, Success Metrics, Cadences & Rituals). No placeholder text or blank fields. |
 | **Stakeholder Map** | At least **6 stakeholders** mapped with identified relationships, influence levels, and interest levels relevant to the case context. |
 | **Roadmap Outline** | At least **5 items** listed with preliminary **RICE scores** (Reach, Impact, Confidence, Effort) assigned to each. Items must be relevant to the case context. |
 
