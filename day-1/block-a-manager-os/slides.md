@@ -299,22 +299,14 @@ LLMs add a **force multiplier** to every OS layer:
 
 Without an OS, you get **chaos that feels like busyness**:
 
-- **No cadences** — problems fester. A small misunderstanding Monday becomes a conflict by Friday with no checkpoint to catch it.
-- **No artifacts** — decisions get relitigated. You had the metrics conversation three months ago but nobody wrote it down.
-
-<!-- Talk track: Let me paint the picture of what happens when you don't have a Manager OS, because I want you to feel this viscerally. Without cadences, problems fester. I once managed a team where I didn't have a regular meeting rhythm for the first two months. A junior analyst was stuck on a data quality issue for three weeks before I found out — because there was no natural moment for them to tell me. Without artifacts, decisions get relitigated. This is the one that drove me crazy early in my career. We'd spend 45 minutes in a meeting debating metric definitions, reach a conclusion, and then three months later have the exact same debate because nobody wrote anything down. -->
-
----
-<!-- _class: skip -->
-
-## What Happens Without a Manager OS?
-
-- **No rituals** — important things fall through cracks. No career conversations. No priority reviews.
-- **No decision hygiene** — the loudest voice wins, not the best argument.
+- **No cadences** — problems fester until they become conflicts
+- **No artifacts** — decisions get relitigated because nobody wrote them down
+- **No rituals** — career conversations and priority reviews fall through cracks
+- **No decision hygiene** — the loudest voice wins, not the best argument
 
 **You have seen this.** Every analytics team that feels "chaotic" or "reactive" is usually missing one or more of these layers.
 
-<!-- Talk track: Without rituals, career conversations just don't happen. I've talked to analysts who went an entire year without discussing their growth with their manager. And without decision hygiene, whoever is loudest or most persistent wins. That's not management — that's anarchy with a Slack workspace. If any of this sounds familiar, good. That's why we're building your OS today. -->
+<!-- Talk track: Let me paint the picture of what happens without a Manager OS. Without cadences, problems fester — a small misunderstanding Monday becomes a conflict by Friday. Without artifacts, decisions get relitigated — you had the metrics conversation three months ago but nobody wrote it down. Without rituals, career conversations just don't happen. And without decision hygiene, whoever is loudest wins. If any of this sounds familiar, good. That's why we're building your OS today. -->
 
 ---
 
@@ -327,45 +319,22 @@ Without an OS, you get **chaos that feels like busyness**:
 | **Monthly** | Metrics review + mini-retro | Catch drift; celebrate wins |
 | **Quarterly** | Planning + calibration + roadmap refresh | Strategic alignment; career growth |
 
-<!-- Talk track: Let's start with cadences. Here are the four I recommend. Daily — and honestly, for most analytics teams, you can skip the daily standup or make it async. A Slack post is fine. Weekly is where the magic happens: your 1:1s and one team sync. Monthly, you zoom out and look at metrics — are we on track? And quarterly, you do real planning and calibration. -->
+**The rhythm creates predictability.** The biggest mistake new managers make: too many meetings with no rhythm. Pick a cadence and protect it.
 
----
-
-## Cadences That Work
-
-**The rhythm creates predictability.** Your team should always know what's coming and never be surprised.
-
-The biggest mistake new managers make: too many meetings with no rhythm. Pick a cadence and protect it.
-
-<!-- Talk track: The key insight is that the rhythm itself creates predictability. Your team should never wonder "when will I get to talk to my manager about this?" They should always know: Wednesday at 2pm. That predictability is a gift you give your team. -->
+<!-- Talk track: Let's start with cadences. Here are the four I recommend. Daily — for most analytics teams, you can skip the daily standup or make it async. Weekly is where the magic happens: your 1:1s and one team sync. Monthly, you zoom out and look at metrics. Quarterly, you do real planning and calibration. The key insight is that the rhythm itself creates predictability. Your team should never wonder "when will I get to talk to my manager about this?" -->
 
 ---
 <!-- _class: skip -->
 
 ## Designing Your Cadence
 
-**How to audit your current meeting load:**
-
-The first step is not to add meetings — it is to audit what exists. Try the **Meeting Audit Exercise**:
+**Meeting Audit Exercise** — before adding meetings, audit what exists:
 
 1. List every recurring meeting you attend or own
-2. For each, ask three questions:
-   - Does it have an **owner** who prepares and drives it?
-   - Does it have a **standing agenda** or is it free-form?
+2. For each, ask: Does it have an **owner**? A **standing agenda**? A **decision or action item** as output?
+3. If a meeting fails all three — kill it or convert it to async
 
-<!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. -->
-
----
-<!-- _class: skip -->
-
-## Designing Your Cadence
-
-Continuing the Meeting Audit — for each meeting, also ask:
-   - Does it produce a **decision or action item**, or is it purely informational?
-
-3. If a meeting fails all three, kill it or convert it to async
-
-<!-- Talk track: If a meeting has no owner, no agenda, and no clear output — kill it or convert it to async. You just freed up hours in your calendar. -->
+<!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. If it fails all three — kill it or convert it to async. You just freed up hours in your calendar. -->
 
 ---
 <!-- _class: skip -->
@@ -559,7 +528,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 **Power/Interest Grid:**
 
-|  | **Low Interest** | **High Interest** |
+| Power / Interest | Low Interest | High Interest |
 |---|---|---|
 | **High Power** | Keep Satisfied | Manage Closely |
 | **Low Power** | Monitor | Keep Informed |
@@ -743,18 +712,11 @@ Find a partner — ideally someone who chose a **different** case context.
 **Share your stakeholder map and discuss:**
 - Who are your "Manage Closely" stakeholders and why?
 - Which stakeholder did you almost forget?
-
-<!-- Talk track: Okay, time's up on the individual work. Find a partner — and try to pair with someone who chose a different case context than you. You have five minutes each. Share your stakeholder map. I want you to focus on two things: first, who are your "manage closely" stakeholders and why? Second, which stakeholder did you almost leave off the map? -->
-
----
-
-## Pair Share
-
 - Where do your maps differ because of your case contexts?
 
-**Listen for:** assumptions your partner made that you didn't. Different contexts surface different blind spots.
+**Listen for:** assumptions your partner made that you didn't.
 
-<!-- Talk track: That second question is the interesting one. The stakeholders we forget are often the ones who cause us the most trouble later. Listen for the assumptions your partner made that you didn't — different case contexts surface different blind spots. Go ahead, pair up. -->
+<!-- Talk track: Okay, time's up on the individual work. Find a partner — and try to pair with someone who chose a different case context than you. You have five minutes each. Share your stakeholder map. Focus on who your "manage closely" stakeholders are, which stakeholder you almost left off, and where your maps differ. The stakeholders we forget are often the ones who cause us the most trouble later. -->
 
 ---
 
@@ -779,13 +741,6 @@ After this block, you have:
 - [x] **A mental model** — Manager as system builder, not boss
 - [x] **A Team Charter** — Purpose, scope, principles, interfaces, metrics
 - [x] **A Stakeholder Map** — Power/Interest grid with engagement strategies
-
-<!-- Talk track: Let's take stock of where we are. In 100 minutes, you've built the foundation of your Manager Operating System. You have a charter that defines your team's identity. You have a stakeholder map that shows your relationship landscape. -->
-
----
-
-## Your Manager OS So Far
-
 - [x] **A sense of cadences** — Daily/weekly/monthly/quarterly rhythms
 - [x] **Decision hygiene basics** — Type 1 vs. Type 2, decision memos, RACI
 
@@ -793,7 +748,7 @@ These are the **foundation** of your Manager OS. Every block builds on this.
 
 **Reminder:** Your Team Charter and Stakeholder Map are due as drafts at end of Day 1.
 
-<!-- Talk track: You have a framework for cadences and a toolkit for making good decisions. This is not theoretical — these are artifacts you will refine and submit. Your charter and stakeholder map are due as drafts by end of today. They don't need to be perfect, but they need to be substantive. Over the remaining blocks, we'll layer on hiring, roadmapping, performance management, and executive communication. Everything connects back to what you built today. -->
+<!-- Talk track: Let's take stock of where we are. In 100 minutes, you've built the foundation of your Manager Operating System. You have a charter that defines your team's identity. You have a stakeholder map that shows your relationship landscape. You have a framework for cadences and a toolkit for making good decisions. These are artifacts you will refine and submit. Your charter and stakeholder map are due as drafts by end of today. They don't need to be perfect, but they need to be substantive. -->
 
 ---
 

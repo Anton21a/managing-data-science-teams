@@ -27,7 +27,7 @@
 
 ---
 
-## Slide Map (67 slides)
+## Slide Map (62 slides)
 
 | Slide | Title |
 |---|---|
@@ -45,37 +45,37 @@
 | 19–21 | Applying Team Topologies to Your Case Context (1/3, 2/3, 3/3) |
 | 22 | The Manager OS Concept |
 | 23–24 | AI-Augmented Manager OS (1/2, 2/2) |
-| 25–26 | What Happens Without a Manager OS? (1/2, 2/2) |
-| 27–28 | Cadences That Work (1/2, 2/2) |
-| 29–31 | Designing Your Cadence (1/3, 2/3, 3/3) |
-| 32 | 1:1s That Actually Work |
-| 33–34 | 1:1 Anti-Patterns (1/2, 2/2) |
-| 35–36 | Handling Difficult 1:1s: The Silent Report (1/2, 2/2) |
-| 37 | Handling Difficult 1:1s: The Complainer |
-| 38–40 | Decision Logs & Memos (1/3, 2/3, 3/3) |
-| 41–43 | Example Decision Memo (1/3, 2/3, 3/3) |
-| 44–45 | The Team Charter (1/2, 2/2) |
-| 46 | The Stakeholder Map |
-| 47–48 | Stakeholder Map: What to Capture (1/2, 2/2) |
-| 49 | Stakeholder Map: Hidden Stakeholders by Context |
-| 50 | RACI in 60 Seconds |
-| 51 | RACI: Common Mistakes |
-| 52 | RACI: When to Use It |
-| 53 | Activity Divider: Draft Your Team Charter |
-| 54–55 | Activity: Draft Your Team Charter (1/2, 2/2) |
-| 56 | Activity Divider: Map Your Stakeholders |
-| 57–59 | Activity: Map Your Stakeholders (1/3, 2/3, 3/3) |
-| 60–61 | Pair Share (1/2, 2/2) |
-| 62 | Debrief |
-| 63–64 | Your Manager OS So Far (1/2, 2/2) |
-| 65 | Transition Divider: Up Next: Block B |
-| 66–67 | Transition to Block B (1/2, 2/2) |
+| 25 | What Happens Without a Manager OS? |
+| 26 | Cadences That Work |
+| 27–28 | Designing Your Cadence (1/2, 2/2) |
+| 29 | 1:1s That Actually Work |
+| 30–31 | 1:1 Anti-Patterns (1/2, 2/2) |
+| 32–33 | Handling Difficult 1:1s: The Silent Report (1/2, 2/2) |
+| 34 | Handling Difficult 1:1s: The Complainer |
+| 35–37 | Decision Logs & Memos (1/3, 2/3, 3/3) |
+| 38–40 | Example Decision Memo (1/3, 2/3, 3/3) |
+| 41–42 | The Team Charter (1/2, 2/2) |
+| 43 | The Stakeholder Map |
+| 44–45 | Stakeholder Map: What to Capture (1/2, 2/2) |
+| 46 | Stakeholder Map: Hidden Stakeholders by Context |
+| 47 | RACI in 60 Seconds |
+| 48 | RACI: Common Mistakes |
+| 49 | RACI: When to Use It |
+| 50 | Activity Divider: Draft Your Team Charter |
+| 51–52 | Activity: Draft Your Team Charter (1/2, 2/2) |
+| 53 | Activity Divider: Map Your Stakeholders |
+| 54–56 | Activity: Map Your Stakeholders (1/3, 2/3, 3/3) |
+| 57 | Pair Share |
+| 58 | Debrief |
+| 59 | Your Manager OS So Far |
+| 60 | Transition Divider: Up Next: Block B |
+| 61–62 | Transition to Block B (1/2, 2/2) |
 
 ---
 
 ## Timing Breakdown (Minute-by-Minute) — REVISED
 
-**Key changes from original:** Lecture trimmed from 58→40 min. Added 8-min Manager OS skeleton micro-activity. Debrief extended from 3→8 min. Skip VP scenario slides (16–17), "What Happens Without OS" detail (25–26), detailed cadence design (29–31), example decision memo (41–43), and RACI deep-dive (50–52).
+**Key changes from original:** Lecture trimmed from 58→40 min. Added 8-min Manager OS skeleton micro-activity. Debrief extended from 3→8 min. Skip VP scenario slides (16–17), "What Happens Without OS" (25), detailed cadence design (27–28), example decision memo (38–40), and RACI deep-dive (47–49).
 
 | Time | Duration | Activity | Slide(s) |
 |---|---|---|---|
@@ -84,23 +84,23 @@
 | 11:10–11:15 | 5 min | What Is a Manager? — Grove quote, Manager vs. TL vs. PM | 12–13 |
 | 11:15–11:18 | 3 min | Analytics Manager Is Unique | 14–15 (skip VP scenario slides 16–17) |
 | 11:18–11:21 | 3 min | Team Topologies + Applying to Case Context | 18–21 |
-| 11:21–11:24 | 3 min | Manager OS Concept + AI-Augmented Manager OS (skip "What Happens Without OS" 25–26) | 22–24 |
-| 11:24–11:27 | 3 min | Cadences That Work (skip detailed cadence design 29–31) | 27–28 |
-| 11:27–11:30 | 3 min | 1:1s That Work + Anti-Patterns (skip difficult 1:1s 35–37) | 32–34 |
-| 11:30–11:33 | 3 min | Decision Logs & Memos (skip example memo 41–43) | 38–40 |
-| 11:33–11:37 | 4 min | Team Charter + Stakeholder Map (mention RACI, skip 50–52) | 44–49 |
-| 11:37–11:39 | 2 min | Activity brief — Team Charter | 53–55 |
+| 11:21–11:24 | 3 min | Manager OS Concept + AI-Augmented Manager OS (skip "What Happens Without OS" 25) | 22–24 |
+| 11:24–11:27 | 3 min | Cadences That Work (skip detailed cadence design 27–28) | 26 |
+| 11:27–11:30 | 3 min | 1:1s That Work + Anti-Patterns (skip difficult 1:1s 32–34) | 29–31 |
+| 11:30–11:33 | 3 min | Decision Logs & Memos (skip example memo 38–40) | 35–37 |
+| 11:33–11:37 | 4 min | Team Charter + Stakeholder Map (mention RACI, skip 47–49) | 41–46 |
+| 11:37–11:39 | 2 min | Activity brief — Team Charter | 50–52 |
 | **11:39–11:44** | **5 min** | **NEW: Manager OS Skeleton Micro-Activity** — Students sketch the 4 layers of their OS (cadences, rituals, artifacts, decision hygiene) for their case context. One sentence per layer. This becomes the seed for the full Manager OS document. |  |
-| 11:44–11:45 | 1 min | Re-brief — Team Charter ("Now build the full charter") | 54–55 |
-| 11:45–12:07 | 22 min | **Activity: Draft Team Charter** | 54–55 |
-| 12:07–12:09 | 2 min | Activity brief — Stakeholder Map | 56–57 |
-| 12:09–12:27 | 18 min | **Activity: Map Stakeholders** | 56–59 |
-| 12:27–12:32 | 5 min | Pair Share | 60–61 |
-| 12:32–12:40 | 8 min | **Debrief** + Recap + Transition to Block B | 62–67 |
+| 11:44–11:45 | 1 min | Re-brief — Team Charter ("Now build the full charter") | 51–52 |
+| 11:45–12:07 | 22 min | **Activity: Draft Team Charter** | 51–52 |
+| 12:07–12:09 | 2 min | Activity brief — Stakeholder Map | 53–54 |
+| 12:09–12:27 | 18 min | **Activity: Map Stakeholders** | 53–56 |
+| 12:27–12:32 | 5 min | Pair Share | 57 |
+| 12:32–12:40 | 8 min | **Debrief** + Recap + Transition to Block B | 58–62 |
 
 **Total: 100 minutes**
 
-**Notes on slide cuts:** The skipped slides (16–17, 25–26, 29–31, 35–37, 41–43, 50–52) remain in the deck for reference but should be advanced through without presenting. This saves ~18 minutes of lecture time, which is reallocated to the OS skeleton micro-activity (5 min) and extended debrief (5 min extra).
+**Notes on slide cuts:** The skipped slides (16–17, 25, 27–28, 32–34, 38–40, 47–49) remain in the deck for reference but should be advanced through without presenting. This saves ~18 minutes of lecture time, which is reallocated to the OS skeleton micro-activity (5 min) and extended debrief (5 min extra).
 
 **Manager OS Skeleton Micro-Activity instructions:** "Take 5 minutes. Open a blank document. Write one sentence for each of the four OS layers: (1) Cadences — what recurring meetings will you run and at what frequency? (2) Rituals — what are your team norms for standups, retros, demos? (3) Artifacts — what documents will your team maintain? (4) Decision hygiene — how will decisions be made and recorded? This skeleton becomes the seed for your full Manager OS document in the portfolio."
 
@@ -127,7 +127,7 @@ Weave this into the Manager OS discussion naturally — it is not a separate sec
 **Key framing for students:** The AI doesn't replace the manager's judgment — it amplifies the manager's reach. You still make the decisions. You still own the relationships. But the LLM handles the drafting, the prep, and the first pass so you can focus on the judgment calls that actually require a human.
 
 ### Skip If Short on Time
-- **RACI slides (slides 50–52)** — Can be covered in 60 seconds or skipped entirely; the template is self-explanatory. Students can fill in the RACI template as homework.
+- **RACI slides (slides 47–49)** — Can be covered in 60 seconds or skipped entirely; the template is self-explanatory. Students can fill in the RACI template as homework.
 - **Team Topologies details (slides 18–21)** — If pressed, mention the framework and tell students to read the book. The key takeaway is just "there are different types of analytics teams."
 - **Pair Share can be shortened to 3 minutes total** if running behind.
 
@@ -239,7 +239,7 @@ Block B (13:30–15:10) covers **Hiring & Team Formation**. The bridge should fe
 
 ## Instructor Preparation Checklist
 
-- [ ] Read through all 67 slides and talk tracks; internalize the flow
+- [ ] Read through all 62 slides and talk tracks; internalize the flow
 - [ ] Print or distribute templates (team-charter, stakeholder-map, raci, decision-memo)
 - [ ] Test Marp rendering of slides on the classroom projector
 - [ ] Prepare case context cards/handouts if not already distributed

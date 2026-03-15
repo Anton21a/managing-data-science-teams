@@ -171,6 +171,10 @@ section table thead th {
   border: 1px solid #1B2A4A;
 }
 
+section table thead th strong {
+  color: #FFFFFF;
+}
+
 section table tbody td {
   padding: 0.5em 0.8em;
   border: 1px solid #E0E0E0;
