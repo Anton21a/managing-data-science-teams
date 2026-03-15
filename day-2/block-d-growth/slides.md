@@ -211,6 +211,7 @@ The manager log is what makes this possible.
 <!-- Talk track: Your job is to advocate for your people with evidence. "She worked really hard" is not a calibration argument. "She shipped the churn model that saved $2.4M in annual revenue" is. The manager log we just talked about is what makes this possible. Without it, you're going in with vague impressions. With it, you're going in with receipts. -->
 
 ---
+<!-- _class: cut -->
 
 ## The Ethical PIP (1/2)
 
@@ -223,6 +224,7 @@ The manager log is what makes this possible.
 <!-- Talk track: PIPs are the hardest part of management. Before you ever get to one, check yourself. Did you set clear expectations? Did you provide support? Did you give timely feedback? If the answer to any of those is no, the first fix is on you. -->
 
 ---
+<!-- _class: cut -->
 
 ## The Ethical PIP (2/2)
 

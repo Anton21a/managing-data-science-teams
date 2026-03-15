@@ -389,6 +389,7 @@ Activation  Retention
 <!-- Talk track: The metrics tree is the bridge between your team's daily work and the number the CEO reports to the board. Start at the top with the business outcome your executive sponsor cares about most. Then identify your North Star. Break that into input metrics, the levers your team can actually pull. -->
 
 ---
+<!-- _class: skip -->
 
 # The Metrics Tree (2/2)
 
@@ -404,6 +405,7 @@ The tree answers: **"How does my work connect to the board number?"**
 <!-- Talk track: At the bottom, list the specific activities that move those input metrics. When a stakeholder asks why you are spending three weeks on churn modeling, you point to the tree. If you cannot draw this tree, your roadmap is disconnected from the business. -->
 
 ---
+<!-- _class: skip -->
 
 # Communicating Trade-offs (1/2)
 
@@ -416,6 +418,7 @@ The tree answers: **"How does my work connect to the board number?"**
 <!-- Talk track: One of the hardest skills for a new analytics manager is communicating trade-offs without sounding like you are complaining or saying no. The key is framing. Never say we do not have enough resources. Instead, present a choice: we can do A or B this quarter, which one creates more value for the business? This reframes you from a bottleneck into a strategic partner. -->
 
 ---
+<!-- _class: cut -->
 
 # Communicating Trade-offs (2/2)
 
@@ -429,6 +432,7 @@ Practice these rephrases until they become automatic.
 <!-- Talk track: Every time you say we cannot do that, you lose credibility. Every time you say here is what it would cost, you gain it. The data is not ready becomes we need three weeks of instrumentation before we can answer that question reliably. Notice how every reframe turns a wall into a door. Practice these rephrases until they become automatic. -->
 
 ---
+<!-- _class: cut -->
 
 # The Cost of Delay
 
@@ -439,6 +443,7 @@ Quantify the cost of waiting. When you can put a dollar figure on delay, executi
 <!-- Talk track: The cost of delay is your most powerful tool for communicating trade-offs. If you can quantify what it costs the business to wait another week on a project, executives will prioritize for you. You do not need exact numbers. A reasonable estimate is infinitely better than no estimate. Every week we delay the experimentation platform costs us approximately forty thousand dollars in unoptimized conversion — here is the math. That sentence will get more executive attention than any status update you have ever written. -->
 
 ---
+<!-- _class: cut -->
 
 # Partners, Not Opponents
 
@@ -451,6 +456,7 @@ You are all trying to move the same business metrics.
 <!-- Talk track: And remember: Product and Engineering are your partners. I cannot stress this enough. The moment you start thinking of trade-off conversations as us versus them, you have already lost. You are all trying to move the same business metrics. Approach every conversation as a joint problem-solving exercise. Here is what we are facing. Here are the options. What should we do together? -->
 
 ---
+<!-- _class: cut -->
 
 # The Trade-off Conversation: Setup
 
@@ -464,6 +470,7 @@ You are all trying to move the same business metrics.
 <!-- Talk track: Let me script out how this actually sounds in practice. Your VP of Product shows up wanting a dashboard for a feature launch. This happens every week in every analytics team. The wrong way is to say we do not have bandwidth. That is a wall. The VP hears no, gets frustrated, and either goes around you or escalates to your boss. Either way, you lose. -->
 
 ---
+<!-- _class: skip -->
 
 # The Trade-off Conversation: The Right Way (1/2)
 
@@ -474,6 +481,7 @@ You are all trying to move the same business metrics.
 <!-- Talk track: The right way starts with absolutely, which is a yes. Then you lay out the current commitment, name the stakeholder who is depending on it, and present concrete options with real costs. The first option is full pause — dashboard this week but churn model slips. The second option is a quick-and-dirty version that covers eighty percent of the need. -->
 
 ---
+<!-- _class: skip -->
 
 # The Trade-off Conversation: The Right Way (2/2)
 
@@ -486,6 +494,7 @@ You are all trying to move the same business metrics.
 <!-- Talk track: The third option is next sprint — on schedule for both but the dashboard waits. Notice what you did. You never said no. You made the trade-off visible. You made it their decision, not yours. Nine times out of ten, the VP picks option two or three. And now you are a strategic partner, not a bottleneck. Practice this pattern until it is muscle memory. -->
 
 ---
+<!-- _class: skip -->
 
 # The 2-Page Executive Narrative (1/2)
 

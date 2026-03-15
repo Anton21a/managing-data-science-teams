@@ -525,6 +525,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Four points forces a meaningful distinction. A 1 means below the bar. A 2 means approaching but there are gaps. A 3 means they meet the bar. A 4 means exceptional. Most of your scores should be 2s and 3s. If you are giving many 1s and 4s, your calibration is off or your pipeline needs work. -->
 
 ---
+<!-- _class: skip -->
 
 # Calibrating Scorers: The Problem (1/2)
 
@@ -536,6 +537,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Let me show you why calibration matters. Imagine two interviewers — one thinks a 3 means "could do the job" and the other thinks a 3 means "among the best I have seen." Without calibration, your scores are just numbers without a shared reference point. -->
 
 ---
+<!-- _class: skip -->
 
 # Calibrating Scorers: The Problem (2/2)
 
@@ -549,6 +551,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Four interviewers evaluate the same candidate. The hiring manager gives mostly 3s. The technical peer gives mostly 2s. The PM partner gives a 4 on communication. The skip-level gives a 4 on curiosity. Now — is this a hire? You cannot answer that question without knowing what each person means by their scores. -->
 
 ---
+<!-- _class: skip -->
 
 # The Calibration Problem
 
@@ -563,6 +566,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Without calibration, you cannot tell whether the Tech Peer is a tough grader who gives 2s to everyone, or whether they saw something the others missed. Is the PM partner's 4 on communication a high bar or a low one? This is the calibration problem. Without norming, your scores are just numbers without a shared reference point, and your debrief becomes an argument about what the numbers mean rather than what the candidate demonstrated. -->
 
 ---
+<!-- _class: skip -->
 
 # Calibrating Scorers: The Fix
 
@@ -577,6 +581,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: The fix is a norming session, and it is simpler than you think. Before your interview loop begins, get all interviewers in a room for 20 to 30 minutes. Show them a work sample — either from a past candidate anonymized, or one you fabricated. Have everyone score it independently. Then discuss. You will be amazed at how different the scores are. One person gave a 4 on communication, another gave a 2, and they were looking at the same work. Walk through each disagreement and align on what each score means. -->
 
 ---
+<!-- _class: skip -->
 
 # What Norming Prevents (1/2)
 
@@ -591,6 +596,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Let me name the biases that norming prevents. Anchoring to the first interviewer's opinion. The halo effect where one strong dimension inflates all scores. Recency bias where the last candidate always seems freshest. Similarity bias where you rate candidates higher when they remind you of yourself. And the contrast effect where a mediocre candidate looks great after a terrible one. -->
 
 ---
+<!-- _class: skip -->
 
 # What Norming Prevents (2/2)
 
@@ -699,6 +705,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: The hiring manager makes the call. Do not hide behind consensus. If you are not excited, pass. A "strong hire" from the technical peer is worth more than lukewarm 3s from everyone else. The cost of a false positive — hiring the wrong person — is much higher than the cost of a false negative. -->
 
 ---
+<!-- _class: skip -->
 
 # Candidate Experience: Your Employer Brand (1/2)
 
@@ -711,6 +718,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Let me give you a number that changes how you think about hiring. For every person you hire, you reject about 19. Those 19 people will tell their friends, their colleagues, their social media followers about their experience with your company. If you ghosted them or made them wait three weeks, they will tell everyone. -->
 
 ---
+<!-- _class: skip -->
 
 # Candidate Experience: Your Employer Brand (2/2)
 
@@ -723,6 +731,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Your employer brand is not built in the offer letter. It is built in the rejection email. The analytics community is small — the analyst you reject today might be the hiring manager you need to impress in two years. Nineteen negative stories versus one hire — the ratio matters. -->
 
 ---
+<!-- _class: skip -->
 
 # Candidate Experience: Non-Negotiables
 
@@ -736,6 +745,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Here are the non-negotiables. Acknowledge every application within 48 hours — this can be automated. Provide a clear timeline at every stage — "you will hear from us by Friday" and then actually follow up by Friday. Give feedback with rejections. It does not have to be a detailed performance review. And the big one: never ghost a candidate who completed a work sample. That person invested hours of their life in your process. -->
 
 ---
+<!-- _class: skip -->
 
 # Going Beyond the Minimum (1/2)
 
@@ -747,6 +757,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: If you want to go above the minimum, offer a 15-minute feedback call to anyone who did the work sample. Close the loop quickly because the best candidates have multiple offers. And be honest about the role — candidates who join with realistic expectations stay longer than those who discover problems after starting. -->
 
 ---
+<!-- _class: skip -->
 
 # Going Beyond the Minimum (2/2)
 
@@ -755,6 +766,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Even candidates you reject become ambassadors when you treat them well. The analytics community is small — the person you reject today might be your next hire's manager in two years. Your process is your employer brand. -->
 
 ---
+<!-- _class: skip -->
 
 # Building Your Employer Brand in Analytics (1/2)
 
@@ -764,6 +776,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: I want to talk about the long game of employer brand in analytics. There are a few things that signal to the market that your team is a great place to work. First, open-source contributions — nothing attracts senior data talent like a well-maintained GitHub repo. Second, write about your work. Blog posts about your data stack and architecture decisions — candidates read these before they apply. -->
 
 ---
+<!-- _class: skip -->
 
 # Building Your Employer Brand in Analytics (2/2)
 
@@ -773,6 +786,7 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Third, encourage your team to speak at meetups. A 20-minute talk at a local PyData meetup puts your team on the radar. And fourth, treat your rejected candidates well. Every person who thinks "that was fair" becomes an ambassador. -->
 
 ---
+<!-- _class: skip -->
 
 # The Employer Brand Compounding Effect
 
@@ -921,6 +935,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 <!-- Talk track: Now candidates: what felt fair about the process? What felt arbitrary or unclear? After every real interview loop, you should update your rubric based on what you learned. Add a dimension you were missing. Sharpen a vague score definition. Remove a dimension that was not actually diagnostic. The rubric is a living document, not a form you fill out once and file away. -->
 
 ---
+<!-- _class: cut -->
 
 # Hiring Anti-Patterns (Part 1)
 
@@ -933,6 +948,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 <!-- Talk track: Before we close, let me walk through the hiring anti-patterns I see most often in analytics. First, culture fit as a criterion. This almost always means "this person is like me" and it is how you build a homogeneous team with blind spots. Replace it with culture add or specific collaboration behaviors. Second, the 20-hour take-home. The best candidates have options and will not spend a weekend on your exercise. And it biases toward people who have free weekends. -->
 
 ---
+<!-- _class: cut -->
 
 # Hiring Anti-Patterns (Part 1, cont.)
 
@@ -941,6 +957,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 <!-- Talk track: Third, the rockstar or ninja job description. Every experienced person reading it assumes your org has no process and no work-life balance. If your job posting uses these terms, delete them and describe what the person will actually do. -->
 
 ---
+<!-- _class: cut -->
 
 # Hiring Anti-Patterns (Part 2)
 
@@ -953,6 +970,7 @@ A rubric is a living document. Your first version will be wrong. The goal is to 
 <!-- Talk track: Three more anti-patterns. Ghosting candidates after a work sample is reputation destruction. Consensus-based decisions select for the person nobody objects to, which is not the same as the person someone is excited about. And hiring for potential without structure — if you cannot articulate what "potential" means in measurable terms, you are just pattern-matching to your own background. -->
 
 ---
+<!-- _class: cut -->
 
 # The Meta Anti-Pattern
 

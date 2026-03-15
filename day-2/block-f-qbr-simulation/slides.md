@@ -272,6 +272,7 @@ How to actually ask executives for what you need:
 <!-- Talk track: Make it easy for executives to say yes — frame your ask as a choice between two concrete options, not an open-ended request. And remember: one ask per meeting. If you walk in with a list of five things, you'll get zero. Prioritize ruthlessly. Get one yes. Come back next month for the next one. -->
 
 ---
+<!-- _class: cut -->
 
 ## Incident Postmortems for Analytics: When Things Go Wrong (1/2)
 
@@ -283,6 +284,7 @@ When things go wrong — and they will:
 <!-- Talk track: Let's talk about what happens when analytics fails. And it will fail. Your dashboard will show the wrong number. Your A/B test will have a bug. Your model will make a prediction that costs the company money. What matters is how you respond. -->
 
 ---
+<!-- _class: cut -->
 
 ## Incident Postmortems for Analytics: When Things Go Wrong (2/2)
 
@@ -293,6 +295,7 @@ When things go wrong — and they will:
 <!-- Talk track: The best teams run blameless postmortems. Blameless doesn't mean no accountability — it means you focus on the system that allowed the failure, not the person who happened to trigger it. If someone can make a mistake that breaks a dashboard for the whole company, the problem is that one person can break a dashboard for the whole company. That's a system failure, not a people failure. -->
 
 ---
+<!-- _class: cut -->
 
 ## Incident Postmortems: Root Cause (1/2)
 
@@ -306,6 +309,7 @@ When things go wrong — and they will:
 <!-- Talk track: The 5 Whys is a simple technique from Toyota. You keep asking "why" until you get to a root cause that's systemic, not individual. Look at this example. We start with "the dashboard was wrong" and we end at "no one owned data quality as a function." That's a systemic root cause, and it's something you can actually fix. -->
 
 ---
+<!-- _class: cut -->
 
 ## Incident Postmortems: Root Cause (2/2)
 
@@ -316,6 +320,7 @@ A postmortem without action items is just group therapy.
 <!-- Talk track: Every postmortem should produce action items, and every action item needs three things: an owner — a specific human being, not a team; a deadline — a specific date, not "soon"; and a verification method — how will we know it's actually done? Without those three things, your action items are just wishes. I've seen teams run beautiful postmortems and produce a list of twelve action items and then do zero of them. The postmortem isn't the document. The postmortem is the follow-through. -->
 
 ---
+<!-- _class: cut -->
 
 ## Communicating Failure Upward (1/3)
 
@@ -350,6 +355,7 @@ Example: "P1 — Revenue dashboard showed incorrect data for 3 days — Resolved
 <!-- Talk track: The second worst thing after hiding a failure is burying it in a long, defensive email. Lead with impact. Be direct. Your VP will respect you more for it, not less. Use a clear subject line format that communicates severity immediately. Impact level, what happened, current status — all in the subject line so they know what they're dealing with before they even open the email. -->
 
 ---
+<!-- _class: cut -->
 
 ## Adapting Your Manager OS by Org Size
 
@@ -603,6 +609,7 @@ The portfolio is not six separate documents. It's **one integrated system**.
 <!-- Talk track: That consistency is actually one of the things I'm looking for. Think of the portfolio as one integrated system, not six disconnected pieces. That integration is what separates a good submission from a great one. -->
 
 ---
+<!-- _class: cut -->
 
 ## Your Next 90 Days (1/2)
 
@@ -618,6 +625,7 @@ Write down **3 specific actions** for the next 90 days. Not aspirations — acti
 <!-- Talk track: I want to do something different for a moment. Take out a piece of paper or open a blank doc. Write down three specific actions you will take in the next 90 days based on what you've learned. Not "be a better manager" — that's a wish, not an action. I want things like "Start weekly 1:1s with my two direct reports within two weeks of finishing this course." "Write a team charter for my analytics team and share it with my VP by April." "Create a metric ownership document for our top 10 dashboards." -->
 
 ---
+<!-- _class: cut -->
 
 ## Your Next 90 Days (2/2)
 

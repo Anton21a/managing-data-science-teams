@@ -179,6 +179,7 @@ The analytics manager is unique: you live at the intersection. You need enough t
 <!-- Talk track: That's what makes this role hard, and it's also what makes it rewarding. You get to be a generalist in an industry that usually rewards specialists. Embrace that. -->
 
 ---
+<!-- _class: skip -->
 
 ## When the VP Asks "Why Is Churn Up?" (1/2)
 
@@ -191,6 +192,7 @@ A concrete scenario to illustrate the three roles:
 <!-- Talk track: Let me make this concrete. Imagine your VP sends a Slack message at 9am: "Why is churn up? I need answers before the board meeting." Watch how the three roles respond differently. The PM gives business context — they know the churn number, they have a hypothesis, and they can frame why it matters. The Tech Lead does the actual analytical work — they build the model, run the analysis, and present the findings with appropriate rigor. -->
 
 ---
+<!-- _class: skip -->
 
 ## When the VP Asks "Why Is Churn Up?" (2/2)
 
@@ -284,6 +286,7 @@ LLMs add a **force multiplier** to every OS layer:
 <!-- Talk track: Let me give you two concrete examples. First, take your last three weekly team updates, paste them into an LLM, and ask for a draft executive summary. You'll get a solid first draft in 30 seconds. Then you spend 5 minutes editing for nuance, accuracy, and judgment. That's 5 minutes instead of 30, and the quality is just as high because you're the editor. Second, before a difficult stakeholder meeting, role-play the conversation with the LLM. Ask it to play the skeptical CFO. Practice your responses. You'll walk in more prepared than you've ever been. And here's a new hidden stakeholder for your map: whoever controls your team's LLM and API budget. As AI-assisted workflows grow, compute costs can balloon. Map that person now. -->
 
 ---
+<!-- _class: skip -->
 
 ## What Happens Without a Manager OS? (1/2)
 
@@ -295,6 +298,7 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Let me paint the picture of what happens when you don't have a Manager OS, because I want you to feel this viscerally. Without cadences, problems fester. I once managed a team where I didn't have a regular meeting rhythm for the first two months. A junior analyst was stuck on a data quality issue for three weeks before I found out — because there was no natural moment for them to tell me. Without artifacts, decisions get relitigated. This is the one that drove me crazy early in my career. We'd spend 45 minutes in a meeting debating metric definitions, reach a conclusion, and then three months later have the exact same debate because nobody wrote anything down. -->
 
 ---
+<!-- _class: skip -->
 
 ## What Happens Without a Manager OS? (2/2)
 
@@ -329,6 +333,7 @@ The biggest mistake new managers make: too many meetings with no rhythm. Pick a 
 <!-- Talk track: The key insight is that the rhythm itself creates predictability. Your team should never wonder "when will I get to talk to my manager about this?" They should always know: Wednesday at 2pm. That predictability is a gift you give your team. -->
 
 ---
+<!-- _class: skip -->
 
 ## Designing Your Cadence (1/3)
 
@@ -344,6 +349,7 @@ The first step is not to add meetings — it is to audit what exists. Try the **
 <!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. -->
 
 ---
+<!-- _class: skip -->
 
 ## Designing Your Cadence (2/3)
 
@@ -355,6 +361,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 <!-- Talk track: If a meeting has no owner, no agenda, and no clear output — kill it or convert it to async. You just freed up hours in your calendar. -->
 
 ---
+<!-- _class: skip -->
 
 ## Designing Your Cadence (3/3)
 
@@ -404,6 +411,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 <!-- Talk track: Who here has had a manager who regularly canceled 1:1s? How did that feel? Exactly. Don't be that manager. And watch for these diagnostic signals. If your 1:1s are boring, the relationship isn't deep enough yet — keep investing. If every 1:1 is a fire drill, you have a structural problem upstream. And if someone says "I don't have anything" every week, they don't trust the space yet — that's on you to fix. -->
 
 ---
+<!-- _class: skip -->
 
 ## Handling Difficult 1:1s: The Silent Report (1/2)
 
@@ -415,6 +423,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 <!-- Talk track: Let me give you tactical advice for common difficult situations. First, the report who shows up and says "I don't have anything." This is almost never true — they just don't trust the space yet, or they don't know what's appropriate to bring up. Give them prompts. I like to ask "what's the most frustrating thing you've dealt with this week?" That question almost always unlocks something. -->
 
 ---
+<!-- _class: skip -->
 
 ## Handling Difficult 1:1s: The Silent Report (2/2)
 
@@ -426,6 +435,7 @@ Continuing the Meeting Audit — for each meeting, also ask:
 <!-- Talk track: Then there's the truly silent report. Some people are just internal processors. That's okay. Try a written format — share questions in advance and let them respond in writing if that's more comfortable. I had a brilliant analyst once who said almost nothing in our 1:1s until I switched to walking meetings. Something about not making eye contact and moving through space opened her up completely. Experiment. There's no single right format. -->
 
 ---
+<!-- _class: skip -->
 
 ## Handling Difficult 1:1s: The Complainer
 
@@ -472,6 +482,7 @@ For Type 2 decisions, empower your team to just go. For Type 1 decisions, write 
 <!-- Talk track: For Type 2 decisions, empower your team to just go. Don't require a memo for every small call. For Type 1 decisions, write a memo. The act of writing a decision memo forces you to think clearly. You can't hide behind vague language when you have to write it down. We have a template for this that you'll use throughout the course. The key question to always ask is: "Is this a one-way door or a two-way door?" That single question will save your team from both reckless speed and unnecessary paralysis. -->
 
 ---
+<!-- _class: skip -->
 
 ## Example Decision Memo (1/3)
 
@@ -488,6 +499,7 @@ For Type 2 decisions, empower your team to just go. For Type 1 decisions, write 
 <!-- Talk track: Let me show you what a real decision memo looks like. This is for MarketBridge — should we migrate from Amplitude to an in-house event tracking system? Notice the structure. The context is crisp — one paragraph, everyone understands the situation. Then three options. Not two, because two options creates a false binary. Three forces you to think creatively. Look at the pros and cons — they're specific. Not "it's expensive" but "$120K per year." Not "it takes time" but "3-4 month migration." Specificity is what separates a useful memo from a waste of paper. -->
 
 ---
+<!-- _class: skip -->
 
 ## Example Decision Memo (2/3)
 
@@ -498,6 +510,7 @@ For Type 2 decisions, empower your team to just go. For Type 1 decisions, write 
 <!-- Talk track: The recommendation is Option C — the hybrid approach. And notice the reasoning: it de-risks the migration. That's strategic thinking. The risks section is specific about what could go wrong and how to mitigate it. -->
 
 ---
+<!-- _class: skip -->
 
 ## Example Decision Memo (3/3)
 
@@ -581,6 +594,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 <!-- Talk track: Every time I do this exercise with a new manager, they map the obvious ones — their boss, the PMs, the product team. But they miss IT, Legal, Privacy, Finance. Think about your case context — who could block you that you haven't thought of yet? The DataPulse folks should think about that one backend engineer. The MarketBridge folks should think about data engineering and compliance. The FinGuard folks should think about model risk management and internal audit. These are the relationships that, if you build them early, save you weeks of delay later. -->
 
 ---
+<!-- _class: cut -->
 
 ## RACI in 60 Seconds
 
@@ -594,6 +608,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 <!-- Talk track: RACI is one of those frameworks that people either love or hate. I'm going to teach you to use it well, which means using it sparingly. R is who does the work. A is who owns the outcome — and this is the critical one. There must be exactly one A per decision. If two people think they're accountable, nobody is. C is who you consult before deciding, and I is who you inform after. Let me emphasize that rule about the A — exactly one person. This is where organizations go wrong. They say "well, both the analytics manager and the PM are accountable for this metric." No. One person is accountable. The other person might be Responsible or Consulted, but there is one throat to choke, as the saying goes. That clarity is uncomfortable, but it's essential. -->
 
 ---
+<!-- _class: cut -->
 
 ## RACI: Common Mistakes
 
@@ -607,6 +622,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 <!-- Talk track: The biggest mistake I see is organizations that RACI everything. Don't do that. Pick the five to ten decisions that cause the most confusion or conflict, and RACI those. And watch out for the "everyone is consulted" trap. If you consult eight people before every decision, you've created consensus paralysis. Keep the C list short. Most people should be I — informed after the fact. -->
 
 ---
+<!-- _class: cut -->
 
 ## RACI: When to Use It
 

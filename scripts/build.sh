@@ -19,7 +19,7 @@ done
 if [ "$SKIP_RENDER" = false ]; then
   echo "═══ Rendering Marp slides to HTML ═══"
   for f in day-*/block-*/slides.md; do
-    marp --html "$f" 2>&1
+    marp --html --theme marp-theme.css "$f" 2>&1
   done
   echo ""
 fi
