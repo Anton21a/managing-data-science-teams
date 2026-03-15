@@ -81,7 +81,7 @@ By the end of the course, students will be able to:
 ## 7\. Assessment & Grading
 
 All artifacts compile into a single **Manager Portfolio** (PDF/repo).  
-**Portfolio Submission Deadline:** **One week after Day 2 (23:59 Vienna).**
+**Portfolio Submission Deadline:** **Sunday, March 30 at 23:59 CET.**
 
 ### Weights
 
@@ -91,16 +91,16 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 | **Day 1 Checkpoint (drafts)** | **Team Charter \+ Stakeholder Map \+ Roadmap Outline (RICE sketch)** — pass/fail on completeness. | End of Day 1 | 10% |
 | Hiring Packet (final) | JD, work sample, rubric, interview loop. | Portfolio | 20% |
 | Roadmap \+ Exec Narrative (final) | 12-month roadmap \+ 2-page narrative \+ QBR outline. | Portfolio | 20% |
-| Manager OS (final) | 2–4 pages: cadences, artifacts, KPIs, interfaces (absorbs charter \+ stakeholder map). | Portfolio | 15% |
+| Manager OS (final) | 2–4 pages: operational playbook synthesizing charter \+ stakeholder map into cadences, artifacts, KPIs, and decision hygiene. | Portfolio | 15% |
 | PGP \+ Performance Summary (final) | Growth plan \+ calibration-ready performance summary. | Portfolio | **15%** |
-| Peer Feedback Quality | Actionable critique for two peers' artifacts. | 48h after Day 2 | 5% |
+| Peer Feedback Quality | Actionable critique for two peers' artifacts. | Wed March 25, 23:59 CET | 5% |
 
 ### Milestones & Deadlines
 
 - **End of Day 1:** Submit **Charter \+ Stakeholder Map \+ Roadmap Outline (draft)**.
 - **Day 2 (in-class):** **QBR Simulation** (present roadmap & narrative).
-- **48 hours after Day 2:** Submit **peer feedback** (2 peers).
-- **One week after Day 2 (23:59):** Submit **Manager Portfolio (final)**.
+- **Wednesday, March 25 at 23:59 CET:** Submit **peer feedback** (2 peers).
+- **Sunday, March 30 at 23:59 CET:** Submit **Manager Portfolio (final)**.
 
 **Late work:** Designed for in-class production; late submissions accepted only for documented reasons.
 
@@ -160,11 +160,11 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 
 ### Required (6 artifacts)
 
-1. **Manager OS Document** (2–4 pages) — absorbs team charter \+ stakeholder map (Block A)
+1. **Manager OS Document** (2–4 pages) — your operational playbook, synthesizing your team charter and stakeholder map into a single framework covering cadences, rituals, artifacts, and decision hygiene (Block A)
 2. **Hiring Packet** — JD, work sample, rubric, interview loop (Block B)
 3. **Roadmap \+ Executive Narrative** — 12-month roadmap with RICE, risk register as section, 2-page narrative (Block C)
 4. **Personal Growth Plan** (Block D)
-5. **Performance Summary** — calibration-ready (Block D)
+5. **Performance Summary** (1-2 pp) — calibration-ready assessment of a hypothetical direct report from your case context. Use behavioral evidence and SBI framework to differentiate performance levels. (Block D)
 6. **QBR Outline** (Block F) — included in Roadmap \+ Narrative weight
 
 ### Optional (for a richer portfolio, not separately graded)
@@ -181,9 +181,9 @@ All artifacts compile into a single **Manager Portfolio** (PDF/repo).
 **Estimated student workload (subject to ECTS confirmation):**
 
 - **Contact hours:** \~10 (two intensive days)  
-- **Preparation & artifact drafting between days:** 4–6  
-- **Post-course portfolio polishing:** 10–16  
-- **Total:** \~24–32 hours 
+- **Reading & artifact drafting between days:** 12–16
+- **Post-course portfolio polishing:** 8–12
+- **Total:** \~30–38 hours
 
 ---
 

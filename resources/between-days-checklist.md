@@ -34,4 +34,7 @@ Complete these artifacts started in class:
 
 ---
 
-*Estimated time: 6-8 hours total (reading + artifact work)*
+*Estimated time:*
+- *Reading: 8-10 hours (~140 pages across three books)*
+- *Portfolio work: 4-6 hours (artifact drafting and revision)*
+- *Total: 12-16 hours*
