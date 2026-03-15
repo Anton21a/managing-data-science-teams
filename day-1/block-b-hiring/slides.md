@@ -830,7 +830,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 ## Role-Play Setup
 ### How It Works
 
-1. You will receive a **Candidate Profile Card** — play this person authentically, including their weaknesses
+1. You will receive a **Candidate Profile Card** (`materials/candidate-profile-cards.md`) — play this person authentically, including their weaknesses
 2. The interviewer uses their **scoring rubric** to evaluate responses — ask questions that probe the dimensions you defined
 3. After each round, the interviewer shares scores and explains reasoning
 
