@@ -2,12 +2,12 @@
 
 A checklist for the week between Day 1 and Day 2.
 
-## Required Reading for Day 2
+## Recommended Reading for Day 2
 
-Complete these before March 23:
+These readings will enrich your Day 2 experience but are not required. If time is limited, prioritize Grove Ch. 11 and Fournier Ch. 6 — these directly support Block D exercises.
 
-- [ ] Camille Fournier — *The Manager's Path*, Ch. 6 ("Managing a Team") — managing up, performance (~30 pp)
 - [ ] Andy Grove — *High Output Management*, Ch. 11 ("Performance Reviews") — foundation for calibration (~30 pp)
+- [ ] Camille Fournier — *The Manager's Path*, Ch. 6 ("Managing a Team") — managing up, performance (~30 pp)
 - [ ] Will Larson — *An Elegant Puzzle*, Part 2 ("Organizations") & §5.3 ("Presenting to Senior Leadership") — org design at scale and executive communication (~80 pp)
 
 ## Portfolio Work
@@ -35,6 +35,6 @@ Complete these artifacts started in class:
 ---
 
 *Estimated time:*
-- *Reading: 8-10 hours (~140 pages across three books)*
 - *Portfolio work: 4-6 hours (artifact drafting and revision)*
-- *Total: 12-16 hours*
+- *Recommended reading: 8-10 hours if you do all three (~140 pages across three books)*
+- *Total: 4-6 hours (portfolio only) or 12-16 hours (with all reading)*

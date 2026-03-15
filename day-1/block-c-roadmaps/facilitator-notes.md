@@ -162,9 +162,9 @@ This is the last block of the day. Students have been in class since 11:00 with 
 ## Transition to Day 2
 
 Before dismissing:
-- **Between-days checklist:** Point students to `resources/between-days-checklist.md` (also posted on Moodle) for their between-days work including required reading for Day 2. The checklist covers reading assignments (Fournier Ch. 6, Grove Ch. 11, Larson Part 2 & §5.3), portfolio artifact work, and Day 2 logistics. Walk through it briefly so students know what is expected during the week.
+- **Between-days checklist:** Point students to `resources/between-days-checklist.md` (also posted on Moodle) for their between-days work including recommended reading for Day 2. The checklist covers reading suggestions (Fournier Ch. 6, Grove Ch. 11, Larson Part 2 & §5.3), portfolio artifact work, and Day 2 logistics. Walk through it briefly so students know what is expected during the week.
 - **Remind about the hiring packet:** Students should continue working on their work sample and interview loop between Day 1 and Day 2. These are portfolio deliverables — no mid-week deadline.
-- **Required reading:** Emphasize that the three readings (especially Grove Ch. 11 on performance reviews and Fournier Ch. 6 on managing a team) are essential preparation for Block D's calibration and feedback exercises. Students who skip the reading will struggle with the mock calibration activity.
+- **Recommended reading:** Mention that the three readings (especially Grove Ch. 11 on performance reviews and Fournier Ch. 6 on managing a team) are strongly recommended preparation for Block D's calibration and feedback exercises. Students who haven't done the reading can still participate fully — the exercises are self-contained — but the readings provide useful conceptual grounding.
 - **QBR simulation brief:** Will be posted on the LMS tonight. Students should read it before Day 2.
 - **Roadmap refinement:** Encourage students to spend 30-60 minutes between now and Day 2 polishing their roadmap. They will present it during the QBR simulation.
 - **Office hours:** Remind students of your availability for questions between Day 1 and Day 2.

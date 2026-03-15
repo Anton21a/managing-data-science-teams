@@ -56,20 +56,24 @@ By the end of the course, students will be able to:
 
 ## 6\. Readings
 
-### Required (with specific chapters)
+### Recommended (with specific chapters)
 
-**Read before Day 1 (March 16):**
+All readings are recommended, not required. The course is designed so you can participate fully without them — but they will deepen your understanding.
+
+**Recommended before Day 1 (March 16):**
 
 - Camille Fournier — *The Manager’s Path*, Ch. 1–3. 1:1s, hiring basics, team management. (~70 pp)
 - Andy Grove — *High Output Management*, Ch. 4 ("Meetings"). The intellectual foundation for Manager OS. (~30 pp)
 
-**Read before Day 2 (March 23):**
+**Recommended before Day 2 (March 23):**
+
+If time is limited, prioritize Grove Ch. 11 and Fournier Ch. 6 — these directly support the Day 2 exercises.
 
 - Camille Fournier — *The Manager’s Path*, Ch. 6 ("Managing a Team"). Managing up, performance. (~30 pp)
 - Andy Grove — *High Output Management*, Ch. 11 ("Performance Reviews"). Foundation for calibration. (~30 pp)
 - Will Larson — *An Elegant Puzzle*, Part 2 ("Organizations") & §5.3 ("Presenting to Senior Leadership"). Org design at scale and roadmap communication. (~80 pp)
 
-### Further Reading (valuable, not expected)
+### Further Reading
 
 - Matthew Skelton & Manuel Pais — *Team Topologies* — enriches Block A org design thinking
 - John Doerr — *Measure What Matters* — OKR context for Block C (read with caveats about mechanical goal-setting)
