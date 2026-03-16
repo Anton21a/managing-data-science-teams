@@ -15,11 +15,11 @@ _The single number that best captures the value your analytics team delivers to 
 
 | Element | Your Answer |
 |---------|-------------|
-| **Metric name** | |
-| **Current baseline** | _(Use a plausible estimate based on your case context)_ |
-| **Target (end of 12 months)** | |
-| **Why this metric?** | _(How does it connect to the business outcome your executive sponsor cares about most?)_ |
-| **How is it measured?** | _(Data source, calculation method, refresh frequency)_ |
+| **Metric name** | Lifetime Value to Customer Acquisition Cost (how much money a customer brings us to how much we spent on ads/sales to get them|
+| **Current baseline** | ~1.1x (MarketBridge is cash-flow negative but "approaching breakeven in mature markets," suggesting current unit economics are marginal and heavily dragged down by inefficient acquisition and disconnected tracking) |
+| **Target (end of 12 months)** | 2x + |
+| **Why this metric?** | It matters because it gives the Board and CFO exactly what they want: proof that we are on track to make profit
+| **How is it measured?** | We calculate it every week in our central database. We simply take the total profit a customer brings in and divide it by what we spent on ads and sales to get them.
 
 **Example (DataPulse):** North Star = Monthly Active Paying Users (MAPU). Current baseline: ~1,600 (50K MAU x 3.2% conversion). 12-month target: 5,000+. This is the metric investors care about most and directly drives revenue.
 
@@ -31,9 +31,9 @@ _Guardrails are metrics that must NOT get worse while you optimize the North Sta
 
 | # | Guardrail Metric | Current Baseline | Threshold (Must Not Fall Below) | Why It Matters |
 |---|-----------------|-----------------|-------------------------------|----------------|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | Total Monthly Data Tooling Cost | ~$25,000 | Max $25,000/month | The CTO has made it clear that costs are heavily scrutinized. We cannot achieve our North Star by simply buying more tools or running expensive, bloated queries |
+| 2 | Core Data Pipeline Uptime | Poor (breaks currently go unnoticed for days) | >99% uptime for Tier 1 reports | If we build a brilliant profitability model but let the daily data syncs keep breaking, the Product team will continue to distrust the dashboards and use their own spreadsheets |
+| 3 | Analyst Time on Ad-Hoc Requests | ~80%+ of their week | Less than 40% of their week | The team is already treated like "ticket-takers" (according to the business context). So we cannot reach the North Star by burning them out; we must force a shift toward automated data |
 | 4 | | | | |
 | 5 | | | | |
 
