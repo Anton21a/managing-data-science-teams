@@ -32,10 +32,8 @@ List:
  POWER          │  their needs,     │  engagement, deep  │
                 │  minimal noise    │  relationship      │
                 │                   │                   │
-                │  Stakeholders: 5    │  Stakeholders: 1,
-2,
-3,
-4     │
+                │  Stakeholders: 5    │  Stakeholders:   |
+                |                   |        1,2,3,4     │
                 │                   │                   │
                 ├───────────────────┼───────────────────┤
                 │                   │                   │
@@ -45,7 +43,7 @@ List:
                 │  Periodic check,  │  updates, leverage │
                 │  low effort       │  their enthusiasm  │
                 │                   │                   │
-                │  Stakeholders: 8   │  Stakeholders: 6, 7     │
+                │  Stakeholders: 8   │  Stakeholders: 6, 7 │
                 │                   │                   │
                 └───────────────────┴───────────────────┘
 ```
@@ -54,19 +52,31 @@ List:
 
 ## Stakeholder Registry
 
+## Stakeholder Registry
+
 *List at least 6 stakeholders. Use roles, not names (e.g., "VP of Product" not "Sarah"). For each, assess their power over your team and their interest in your work.*
 
 | # | Stakeholder (Role) | Power (H/L) | Interest (H/L) | Quadrant | What They Need From You | What You Need From Them | Engagement Strategy |
 |---|---|---|---|---|---|---|---|
-| 1 | *(e.g., VP Product)* | *(H)* | *(H)* | *(Manage Closely)* | *(Metrics that prove product-market fit; experiment results)* | *(Clear priorities; air cover for the team; budget)* | *(Weekly 1:1; monthly metrics review)* |
-| 2 | *(e.g., Head of Engineering)* | *(H)* | *(L)* | *(Keep Satisfied)* | *(Minimal load on eng resources; clean data requests)* | *(Pipeline reliability; schema change notifications)* | *(Monthly check-in; async Slack updates)* |
-| 3 | *(e.g., Growth PM)* | *(L)* | *(H)* | *(Keep Informed)* | *(Fast turnaround on experiment analysis; self-serve dashboards)* | *(Clear hypotheses; pre-registered experiment plans)* | *(Embedded analyst in pod; weekly sync)* |
-| 4 | | | | | | | |
-| 5 | | | | | | | |
-| 6 | | | | | | | |
-| 7 | | | | | | | |
-| 8 | | | | | | | |
+| 1 | **VP of Product** | H | H | Manage Closely | Self-serve dashboards PMs actually trust; rigorous A/B testing platform. | Political capital to defend time spent on infrastructure; enforcement of tool adoption. | Weekly 1:1; monthly metrics review; shared Slack channel. |
+| 2 | **CTO** (Your Manager) | H | H | Manage Closely | Rationalized data stack; cost control (staying under $25k/mo); functioning dbt models. | Approval for the 2 new hires; budget sign-off; air cover from board pressure. | Weekly 1:1; monthly budget & vendor review. |
+| 3 | **CFO** | H | H | Manage Closely | Unit economics at the market level; integrated product and financial data (BigQuery + NetSuite). | Clear financial formulas; access to baseline NetSuite data models. | Monthly business review (MBR) prep; metric definition sign-offs. |
+| 4 | **Head of Growth** | H | H | Manage Closely | Multi-touch attribution models (CAC/LTV); baseline metrics for Atlanta/EU launches. | Clear channel definitions; advance notice of marketing campaigns. | Weekly growth pod sync; campaign performance reviews. |
+| 5 | **Legal and Privacy Officer** | H | L | Keep Satisfied | Systematic privacy controls; clear data inventory for GDPR audit; EU data residency compliance. | Clear, upfront constraints (not just end-of-process vetoes); design partnership. | Bi-weekly architecture review; pre-launch privacy sign-offs. |
+| 6 | **Backend / Platform Engineering** | H | L | Keep Satisfied | Minimal load on the Postgres read replica; clean tracking implementation specs. | Notifications before database schema changes; timely fixes to broken Fivetran/Segment pipes. | Async Slack channel alerts; Jira tickets for pipeline requests. |
+| 7 | **Sales Operations** | L | H | Keep Informed | Reliable joins between their supply-side CRM data and demand-side product data. | Clean Salesforce schema management; documentation of custom fields. | Monthly CRM data mapping sync; Jira alerts for CRM changes. |
+| 8 | **Product Managers** | L | H | Keep Informed | Fast turnaround on ad-hoc queries; an analytics tool that matches the database. | Clear hypotheses; willingness to learn self-serve tools instead of filing tickets. | Embedded analyst support; weekly sprint planning. |
 
+
+#,Stakeholder (Role),Power (H/L),Interest (H/L),Quadrant,What They Need From You,What You Need From Them,Engagement Strategy
+1,VP of Product,H,H,Manage Closely,Self-serve dashboards PMs actually trust; rigorous A/B testing platform.,Political capital to defend time spent on infrastructure; enforcement of tool adoption.,Weekly 1:1; monthly metrics review; shared Slack channel.
+2,CTO (Your Manager),H,H,Manage Closely,Rationalized data stack; cost control (staying under $25k/mo); functioning dbt models.,Approval for the 2 new hires; budget sign-off; air cover from board pressure.,Weekly 1:1; monthly budget & vendor review.
+3,CFO,H,H,Manage Closely,Unit economics at the market level; integrated product and financial data (BigQuery + NetSuite).,Clear financial formulas; access to baseline NetSuite data models.,Monthly business review (MBR) prep; metric definition sign-offs.
+4,Head of Growth,H,H,Manage Closely,Multi-touch attribution models (CAC/LTV); baseline metrics for Atlanta/EU launches.,Clear channel definitions; advance notice of marketing campaigns.,Weekly growth pod sync; campaign performance reviews.
+5,Legal and Privacy Officer,H,L,Keep Satisfied,Systematic privacy controls; clear data inventory for GDPR audit; EU data residency compliance.,"Clear, upfront constraints (not just end-of-process vetoes); design partnership.",Bi-weekly architecture review; pre-launch privacy sign-offs.
+6,Backend / Platform Engineering,H,L,Keep Satisfied,Minimal load on the Postgres read replica; clean tracking implementation specs.,Notifications before database schema changes; timely fixes to broken Fivetran/Segment pipes.,Async Slack channel alerts; Jira tickets for pipeline requests.
+7,Sales Operations,L,H,Keep Informed,Reliable joins between their supply-side CRM data and demand-side product data.,Clean Salesforce schema management; documentation of custom fields.,Monthly CRM data mapping sync; Jira alerts for CRM changes.
+8,Product Managers,L,H,Keep Informed,Fast turnaround on ad-hoc queries; an analytics tool that matches the database.,Clear hypotheses; willingness to learn self-serve tools instead of filing tickets.,Embedded analyst support; weekly sprint planning.
 **Stakeholders you might be missing:** IT/Infrastructure, Legal/Privacy, Finance/FP&A, Customer Success, Sales, HR/People Ops, External vendors, Board members or investors (for startups), Compliance/Audit (for enterprise), AI/ML platform owner or LLM/API budget controller.
 
 ---
