@@ -72,31 +72,28 @@ List:
 
 ## Key Relationships
 
-*For your top 3 most critical stakeholders (those in "Manage Closely"), provide a deeper analysis.*
+*Deep dive into the top 3 "Manage Closely" stakeholders.*
 
-### Stakeholder 1: Head of Sales Operation
+### 1. Head of Sales Operations
+- **Why they matter:** Owns Salesforce. Crucial for full marketplace analytics.
+- **Current state:** **Needs work.** Data mapping is highly manual, complex, and poorly documented.
+- **Their goals:** CRM data hygiene, sales productivity, tracking the supply funnel.
+- **Friction points:** We need strict schema governance; they want flexibility to change CRM fields quickly.
+- **Your strategy:** Set up a bi-weekly sync. Lock down the top 5-10 critical Salesforce fields. Implement a mandatory Jira approval process for any CRM schema changes.
 
-- **Why they matter:** They own Salesforce, which houses all the critical supply-side data (service professional profiles, pipelines, availability). If we cannot integrate this data with the product (demand-side) data, MarketBridge cannot provide a reliable analytics as a primary function.
-- **Current state of the relationship:** **Needs work.** Joining supply-side Salesforce data with demand-side product data currently requires fragile, manual mapping that only one analyst knows how to do. The Salesforce data model is complex and poorly documented.
-- **Their goals:** Ensuring CRM data hygiene, maximizing sales team productivity, and tracking the supply-side funnel (leads to paying subscribers).
-- **Potential friction points:** Analytics needs strict governance over Salesforce schemas to prevent broken pipelines, while Sales Ops often wants to add custom fields or change workflows quickly to support new sales motions.
-- **Your strategy:** Set up a bi-weekly CRM sync within the first two weeks. Identify the top 5-10 mission-critical Salesforce fields needed for the marketplace health metrics and lock them down. Establish a mandatory "schema change notification" process via Jira before any custom fields are altered in Salesforce.
+### 2. Head of Customer Safety & Support
+- **Why they matter:** Protects company reputation by ensuring professionals in homes are safe and vetted.
+- **Current state:** **Strained.** Unmonitored pipeline breakages delay critical safety data.
+- **Their goals:** High customer ratings, user safety, and swift removal of bad actors.
+- **Friction points:** They want real-time alerts; our current batch-based warehouse (BigQuery) can only guarantee daily updates until the foundation is fixed.
+- **Your strategy:** Audit safety-related events in Segment. Set up daily data freshness alerts. Have a candid talk to manage expectations regarding the timeline for real-time reporting.
 
-### Stakeholder 2: Head of Customer Safety & Support
-
-- **Why they matter:** We send basically strangers (like plumbers and cleaners) into people's homes. If safety issues happen or bad reviews pile up, the company's reputation is ruined.
-- **Current state of the relationship:** **Strained.** Fivetran syncs are lightly monitored and breakages sometimes go unnoticed for days, meaning they cannot rely on data for timely interventions.
-- **Their goals:** Keep customers happy, ensure high ratings, and quickly kick dangerous or bad professionals off the app. Maintain strict compliance and trust.
-- **Potential friction points:** They need instant or near-real-time alerts when a pro gets a 1-star review or safety flag. However, our current batch-based warehouse stack (Fivetran/BigQuery) is not built for real-time operational alerting, and fixing the foundational dbt models will take priority over building new custom alert systems.
-- **Your strategy:** In the first 30 days, audit the specific Segment events tied to reviews and safety flags. Implement basic monitoring (like dbt source freshness or Fivetran alerts) to guarantee that critical support data is at least reliably synced daily. Have a candid conversation to set realistic expectations about the timeline for moving from "reliable daily data" to "real-time alerts."
-
-### Stakeholder 3: VP of Sales
-
-- **Why they matter:** An app for booking plumbers is useless if there are no plumbers on it. This leader's team is responsible for convincing professionals to join the platform and pay the monthly fee, which is crucial for the new Atlanta and Europe launches.
-- **Current state of the relationship:** **Neutral, but high-pressure.** The rapid expansion into Atlanta, Berlin, and Amsterdam puts immense pressure on this team, and they are flying blind without integrated marketplace metrics.
-- **Their goals:** Hit sign-up targets for the new cities, keep the cost of finding new professionals (supply-side CAC) low, and maximize monthly subscription revenue from premium placements.
-- **Potential friction points:** They need fast, granular reporting for the new EU and Atlanta markets. However, the EU expansion requires strict GDPR and data residency compliance (storing data in the EU) which will significantly slow down how quickly we can build their dashboards.
-- **Your strategy:** During the first 30 days, define exactly what baseline metrics are required for "Day 1" of the Atlanta and EU launches. Work with Legal/Privacy (Anya) immediately to map out how supply-side pipeline data will be legally collected in Berlin and Amsterdam so the Sales team isn't blocked by a last-minute privacy veto.
+### 3. VP of Sales
+- **Why they matter:** Responsible for acquiring professionals, which is the lifeblood of our new Atlanta and EU market launches.
+- **Current state:** **Neutral, but high-pressure.** They are launching new markets while flying blind without metrics.
+- **Their goals:** Hit sign-up targets, lower acquisition costs, and maximize subscription revenue.
+- **Friction points:** They need fast dashboards; strict EU GDPR and data residency rules will slow us down.
+- **Your strategy:** Define "Day 1" baseline metrics for the new markets immediately. Partner with Legal to map out compliant data collection in the EU so privacy rules don't block the sales rollout.
 ---
 
 ## Communication Plan
@@ -110,6 +107,14 @@ List:
 | **Keep Informed** | *(e.g., Bi-weekly)* | *(e.g., Team newsletter or Slack channel)* | *(e.g., New dashboards, methodology updates, available capacity)* | *(Team member)* |
 | **Monitor** | *(e.g., Quarterly)* | *(e.g., All-hands presentation or shared doc)* | *(e.g., Team highlights, impact stories)* | *(You or team member)* |
 
+
+
+| Quadrant | Frequency | Channel | Content | Owner |
+|---|---|---|---|---|
+| **Manage Closely** <br>*(CTO, VP Product, CFO, Head of Growth)* | Weekly / Monthly | Weekly 1:1s, Monthly Metrics Review, MBRs | Progress on core KPIs, budget updates (e.g., Mixpanel), EU expansion readiness, and critical blockers. | You (Head of Analytics) |
+| **Keep Satisfied** <br>*(Legal/Privacy, Backend Eng)* | Bi-weekly / Ad-hoc | Architecture syncs, Jira tickets, async Slack | GDPR compliance updates, data residency architecture, schema change notifications, and pipeline health. | You (Head of Analytics) |
+| **Keep Informed** <br>*(PMs, Sales Ops)* | Bi-weekly | Sprint reviews, `#data-updates` Slack channel | Releases of new self-serve dashboards, dbt model updates, metric definition changes, and CRM mapping fixes. | Embedded Analysts |
+| **Monitor** <br>*(General Managers, Broad Company)* | Monthly / Quarterly | Automated Slack alerts, Quarterly All-Hands | High-level marketplace health metrics (supply/demand balance), major data team wins, and system uptime. | You or Senior Analyst |
 ---
 
 ## Evaluation Criteria
