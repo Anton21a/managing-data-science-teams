@@ -12,13 +12,11 @@
 
 *Why does this analytics team exist? What value does it create for the organization? Write 2-3 sentences that a non-technical executive would understand.*
 
-> Example...
+> Example (Acme Analytics, Medium — Series B Marketplace): Our team exists to make Acme's product and business decisions evidence-based. We provide trustworthy metrics, experimentation infrastructure, and analytical insights that help the Growth and Monetization pods move faster with less risk. We are the connective tissue between raw data and strategic decisions
 > 
 
 **Your purpose:**
-The analytics team exists to turn messy data into a single, reliable source of metrics/information so leaders can stop debating numbers and start making profitable decisions. We provide the map that shows exactly where to invest in customers and professionals to reach breakeven across all 12 markets. Our goal is to ensure every dollar spent on expansion is backed by facts, helping MarketBridge grow faster and more efficiently.
-
-
+The analytics team exists to turn messy data into a single, reliable source of metrics/information so leaders can stop debating numbers and start making profitable decisions.  We provide the map that shows exactly where to invest in customers and professionals to reach breakeven across all 12 markets. Our goal is to ensure every dollar spent on expansion is backed by facts, helping MarketBridge grow faster and more efficiently.
 
 ---
 
@@ -28,9 +26,9 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 | In Scope | Out of Scope |
 |---|---|
-| Metric Governance (creating and owning a reliable source of 'truth' for KPIs like Active Users) | *Primarly wrangling the data within PostgreSQL or other data tool (incl. fixing bugs, data quality) |
+| Metric Governance (creating and owning a reliable source of 'truth' for KPIs like Active Users) | Primarly wrangling the data within PostgreSQL or other data tool (incl. fixing bugs, data quality) |
 | Self-service infrastructure: enabling project managers to independently manage their sales funnels and A/B testing results. | Operational CRM Management (we are note commited to managing sales workflow) |
-| Marketplace Health: Integrating Salesforce (Supply) and Product (Demand) data to track supply-demand balance. | Building one-off Google Sheets for departments outside our core charter (e.g., HR or Legal admin) |
+| Marketplace Health: Integrating Salesforce (Supply) and Product (Demand) data to track supply-demand balance. | Defining Legal/Privacy Policy (determining GDPR requirements or consent policies) |
 | | |
 | | |
 
@@ -51,11 +49,11 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 1. Reliability: we turn the messy data into single 'source of trust'
 
-2. Strutured data managing: we use a single format of writing data 
+2. One metric - one definition. We end the "my dashboard vs. someone's query" debate. If a core metric (like "active user" or "transaction volume") is not defined , it is not an official company metric. We commit to fixing the underlying data model rather than patching the reporting layer.
 
-3. We do what useful: before strategy implementation we make sure it will be useful for the company by conducting a deep validation
+3. We do what useful: before strategy implementation we make sure it will be useful for the company by understanding the business problems and conducting a deep validation
 
-4. *(optional)*
+4. We build a system and not one-off queries. If a metric or table is needed more than once, it’s captured in dbt, documented, and thoroughly validated.
 
 5. *(optional)*
 
@@ -67,12 +65,11 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 | Team / Role | Relationship | Interaction Mechanism | Frequency |
 |---|---|---|---| 
-| *(e.g., Growth PM)* | *(Primary stakeholder — we embed an analyst in their pod)* | *(Weekly sync, shared Slack channel, sprint planning)* | *(Weekly)* |
-| *(e.g., Data Engineering)* | *(Dependency — they maintain pipelines we rely on)* | *(Bi-weekly sync, Jira tickets for pipeline requests)* | *(Bi-weekly)* |
-| *(e.g., VP Product)* | *(Sponsor — approves our quarterly priorities)* | *(Monthly metrics review, quarterly planning)* | *(Monthly)* |
-| *(e.g., Legal / Privacy)* | *(Governance — review data access and PII handling)* | *(Ad-hoc review requests, quarterly privacy audit)* | *(Quarterly + ad-hoc)* |
-| | | | |
-| | | | |
+| Sales Operations | They manage Salesforce and the supply-side data schemas. Because joining this with product data is currently a manual nightmare, we need tight alignment with them to fix the data model at the source. | Monthly CRM review | monthly |
+| Raj Malhotra, CTO | Aligns analytics strategy with engineering, approves headcount, and reviews data stack budget. | Weekly 1:1s, monthly budget & vendor review | weekly |
+| Diane Osei, VP product| she needs self-service tools and thorough A/B testing. We are bringing analysts on board to transition them from simply handling requests to providing strategic support. | Bi-weekly sprint planning, weekly metric alignment sync, shared Slack channel | weekly |
+| Anya Petrov, Legal & Privacy | Critical for EU expansion. We integrate her privacy requirements directly into our data modeling and tracking plans. | pre-launch privacy sign-offs | *(Quarterly + ad-hoc)* | weekly
+| 
 
 ---
 
