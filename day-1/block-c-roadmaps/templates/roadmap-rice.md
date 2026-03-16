@@ -54,7 +54,7 @@ _Score each initiative using the RICE framework. Then sort by RICE score to info
 
 | # | Initiative | Reach | Impact | Confidence | Effort | RICE Score | Horizon |
 |---|-----------|-------|--------|------------|--------|------------|---------|
-| 1 | | | | | | | Now / Next / Later |
+| 1 | Metrics Standartization ("Active Users" definition)| 100 | 3 | 100% | 0.5 | 600 | **Now** / Next / Later |
 | 2 | | | | | | | Now / Next / Later |
 | 3 | | | | | | | Now / Next / Later |
 | 4 | | | | | | | Now / Next / Later |
@@ -62,6 +62,17 @@ _Score each initiative using the RICE framework. Then sort by RICE score to info
 | 6 | | | | | | | Now / Next / Later |
 | 7 | | | | | | | Now / Next / Later |
 | 8 | | | | | | | Now / Next / Later |
+
+#,Initiative,Reach,Impact,Confidence,Effort,RICE Score,Horizon
+1,"Standardize ""Top 3"" Exec Metrics (Define ""Active User"" & ""Transaction"" with CFO/VP Product)",100,3,100%,0.5,600,Now
+2,Implement Ad-Hoc Intake Triage (Stop analyst burnout by routing all requests through a single Jira/Slack form),50,2,100%,0.25,400,Now
+3,Segment Event Audit & Cleanup (Delete the 30% dead events to cut CTO's costs and improve data trust),100,2,100%,1.0,200,Now
+4,Mixpanel Renewal Decision & Action Plan (Evaluate renewal vs. warehouse-native migration before the 6-week deadline),50,3,80%,1.0,120,Now
+5,"Atlanta Launch ""Market Health"" Dashboard (Automate a reliable baseline report for the Ops team's immediate launch)",20,2,100%,0.5,80,Now
+6,Resurrect Core dbt Models (Fix broken pipelines and code the new metric definitions into BigQuery),100,3,80%,2.0,120,Next
+7,EU Data Residency & GDPR Architecture (Design the EU compliance data flow with Legal to unblock the Berlin/Amsterdam launch),100,3,80%,2.5,96,Next
+8,Salesforce to BigQuery Supply Sync (Build the translation layer to finally connect service pros to completed jobs),50,2,80%,2.0,40,Next
+9,Multi-Touch Attribution Model (Calculate true CAC/LTV by channel for the Head of Growth),50,3,50%,3.0,25,Later
 
 _Add more rows as needed. You need at least 8 initiatives._
 
