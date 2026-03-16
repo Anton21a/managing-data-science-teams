@@ -2,9 +2,9 @@
 
 | Field | Your Entry |
 |---|---|
-| **Student Name** | |
-| **Date** | |
-| **Case Context** | Small (Seed-stage) / Medium (Series B) / Large (Enterprise) |
+| **Student Name** | Anton Shestakov|
+| **Date** | 16.03.2026 |
+| **Case Context** | Small (Seed-stage) / **Medium (Series B)** / Large (Enterprise) |
 
 ---
 
