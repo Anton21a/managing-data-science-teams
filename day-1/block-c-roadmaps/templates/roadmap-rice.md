@@ -54,25 +54,15 @@ _Score each initiative using the RICE framework. Then sort by RICE score to info
 
 | # | Initiative | Reach | Impact | Confidence | Effort | RICE Score | Horizon |
 |---|-----------|-------|--------|------------|--------|------------|---------|
-| 1 | Metrics Standartization ("Active Users" definition)| 100 | 3 | 100% | 0.5 | 600 | **Now** / Next / Later |
-| 2 | Create one single request form so people stop interrupting analysts with random Slack messages.| 50 | 2 | 100% | 0.25 | 400 | **Now** / Next / Later |
-| 3 | | | | | | | Now / Next / Later |
-| 4 | | | | | | | Now / Next / Later |
-| 5 | | | | | | | Now / Next / Later |
-| 6 | | | | | | | Now / Next / Later |
-| 7 | | | | | | | Now / Next / Later |
-| 8 | | | | | | | Now / Next / Later |
-
-#,Initiative,Reach,Impact,Confidence,Effort,RICE Score,Horizon
-1,"Standardize ""Top 3"" Exec Metrics (Define ""Active User"" & ""Transaction"" with CFO/VP Product)",100,3,100%,0.5,600,Now
-2,Implement Ad-Hoc Intake Triage (Stop analyst burnout by routing all requests through a single Jira/Slack form),50,2,100%,0.25,400,Now
-3,Segment Event Audit & Cleanup (Delete the 30% dead events to cut CTO's costs and improve data trust),100,2,100%,1.0,200,Now
-4,Mixpanel Renewal Decision & Action Plan (Evaluate renewal vs. warehouse-native migration before the 6-week deadline),50,3,80%,1.0,120,Now
-5,"Atlanta Launch ""Market Health"" Dashboard (Automate a reliable baseline report for the Ops team's immediate launch)",20,2,100%,0.5,80,Now
-6,Resurrect Core dbt Models (Fix broken pipelines and code the new metric definitions into BigQuery),100,3,80%,2.0,120,Next
-7,EU Data Residency & GDPR Architecture (Design the EU compliance data flow with Legal to unblock the Berlin/Amsterdam launch),100,3,80%,2.5,96,Next
-8,Salesforce to BigQuery Supply Sync (Build the translation layer to finally connect service pros to completed jobs),50,2,80%,2.0,40,Next
-9,Multi-Touch Attribution Model (Calculate true CAC/LTV by channel for the Head of Growth),50,3,50%,3.0,25,Later
+| 1 | **Standardize Core Metrics** (Define "Active Users" & "Transactions" with leaders) | 100 | 3 | 100% | 0.5 | 600 | **Now** |
+| 2 | **Single Data Request Form** (Route all asks via Jira/Slack to protect analysts) | 50 | 2 | 100% | 0.25 | 400 | **Now** |
+| 3 | **Segment Event Cleanup** (Delete 30% of unused events to cut costs) | 100 | 2 | 100% | 1.0 | 200 | **Now** |
+| 4 | **Mixpanel Renewal Decision** (Evaluate renewal vs. migration before 6-week deadline) | 50 | 3 | 80% | 1.0 | 120 | **Now** |
+| 5 | **Atlanta Launch Dashboard** (Automate baseline reports for the new market) | 20 | 2 | 100% | 0.5 | 80 | **Now** |
+| 6 | **Fix Core dbt Models** (Repair broken pipelines and map metrics in BigQuery) | 100 | 3 | 80% | 2.0 | 120 | **Next** |
+| 7 | **EU GDPR Architecture** (Design compliant data flows for Berlin & Amsterdam) | 100 | 3 | 80% | 2.5 | 96 | **Next** |
+| 8 | **Salesforce Data Sync** (Connect supply-side CRM data to product data in BigQuery) | 50 | 2 | 80% | 2.0 | 40 | **Next** |
+| 9 | **Multi-Touch Attribution** (Calculate accurate CAC/LTV by marketing channel) | 50 | 3 | 50% | 3.0 | 25 | **Later** |
 
 _Add more rows as needed. You need at least 8 initiatives._
 
@@ -82,53 +72,58 @@ _Add more rows as needed. You need at least 8 initiatives._
 
 ## Roadmap Visualization
 
-_Place your initiatives in the appropriate horizon. Include the RICE rank for reference._
+*Place your initiatives in the appropriate horizon. Include the RICE rank for reference.*
 
 ### Now (This Quarter — Committed)
-_These are actively staffed and in progress. You are accountable for delivering these._
+*These are actively staffed and in progress. You are accountable for delivering these.*
 
-| Initiative | Size (S/M/L/XL) | Key Dependency | Expected Outcome |
-|-----------|-----------------|----------------|-----------------|
-| | | | |
-| | | | |
-| | | | |
+| Initiative (RICE Rank) | Size (S/M/L/XL) | Key Dependency | Expected Outcome |
+|-------------------------|-----------------|----------------|------------------|
+| **1. Standardize Core Metrics** (#1) | S | CFO & VP Product sign-off | Single source of truth for executive reporting. |
+| **2. Single Data Request Form** (#2) | S | Stakeholder adoption | 50% reduction in random Slack interruptions. |
+| **3. Segment Event Cleanup** (#3) | M | Platform Engineering (to remove code) | Reduced tracking costs and trusted event data. |
+| **4. Mixpanel Renewal Decision** (#4) | M | CTO budget approval & Vendor terms | Final decision made before the 6-week deadline. |
+| **5. Atlanta Launch Dashboard** (#5) | S | Base event data availability | Day 1 reporting ready for the VP of Sales and Ops. |
 
 ### Next (Next Quarter — Planned)
 _These are scoped and ready to start. They move into Now when the current quarter's work is complete._
 
-| Initiative | Size (S/M/L/XL) | Key Dependency | Expected Outcome |
-|-----------|-----------------|----------------|-----------------|
-| | | | |
-| | | | |
-| | | | |
+| Initiative (RICE Rank) | Size (S/M/L/XL) | Key Dependency | Expected Outcome |
+|-------------------------|-----------------|----------------|------------------|
+| **6. Fix Core dbt Models** (#6) | L | Upstream schema stability | Reliable warehouse foundation and automated core metrics. |
+| **7. EU GDPR Architecture** (#7) | XL | Legal approval | Unblocked Berlin and Amsterdam launches with full compliance. |
+| **8. Salesforce Data Sync** (#8) | L | Sales Ops schema lock | Automated marketplace health tracking (supply vs. demand). ||
 
 ### Later (6-12 Months — Exploratory)
-_These are directional. Details are intentionally vague. They represent where the team is heading._
+*These are directional. Details are intentionally vague. They represent where the team is heading.*
 
-| Initiative | Size (S/M/L/XL) | Key Dependency | Expected Outcome |
-|-----------|-----------------|----------------|-----------------|
-| | | | |
-| | | | |
+| Initiative (RICE Rank) | Size (S/M/L/XL) | Key Dependency | Expected Outcome |
+|-------------------------|-----------------|----------------|------------------|
+| **9. Multi-Touch Attribution** (#9) | XL | Clean marketing channel data | Accurate CAC and LTV reporting for the Growth team. |
+| **10. Finance NetSuite Integration** | XL | Core dbt metric stabilization | Fully automated unit economics and transaction margins. |
+| **11. A/B Testing Platform** | L | Tooling decision (Mixpanel vs. Warehouse) | Product Managers can launch and evaluate experiments self-serve. ||
 
 ---
 
 ## Dependencies and Sequencing
 
-_What depends on what? Identify the critical path through your roadmap._
+*What depends on what? Identify the critical path through your roadmap.*
 
 ### Key Dependencies
 
 | Initiative | Depends On | Type | Risk if Delayed |
 |-----------|-----------|------|----------------|
-| | | Technical / Data / People / Stakeholder | |
-| | | Technical / Data / People / Stakeholder | |
-| | | Technical / Data / People / Stakeholder | |
+| **Fix Core dbt Models** | **Standardize Core Metrics** | Data | Dashboards stay broken and leaders keep arguing about the numbers. |
+| **Atlanta Launch Dashboard** | **Standardize Core Metrics** | Data | The team launches the new city completely blind without data. |
+| **EU GDPR Architecture** | **Legal (Anya) Requirements** | Stakeholder / Technical | EU market launches are blocked by Legal, or we risk huge GDPR fines. |
+| **Mixpanel Renewal** | **CTO & VP Product Alignment** | Stakeholder | We overpay for a tool we don't need, or the Product team loses analytics access. |
+| **Multi-Touch Attribution** | **Fix Core dbt Models & Salesforce Sync** | Technical / Data | Marketing wastes money because we can't track true customer value (CAC/LTV). |
 
 ### Sequencing Notes
 
-_Describe the critical path: which initiatives must be completed before others can start? Are there any initiatives that can run in parallel?_
-
----
+* **The Critical Path (Do First):** We cannot write code until leaders agree on what we are measuring. **Standardizing Core Metrics** must happen before we touch the **dbt Models** or build the **Atlanta Launch Dashboard**. The **Mixpanel Renewal Decision** is also on a strict 6-week countdown and must be finalized immediately.
+* **Parallel Work:** While leadership is debating metrics and tool contracts, the analyst team can immediately tackle the **Segment Event Cleanup** and roll out the **Single Data Request Form** to stop the daily chaos.
+* **Bottleneck Warning:** The Growth team urgently wants **Multi-Touch Attribution**, but we cannot build it until both the **dbt Models** and the **Salesforce Data Sync** are finished. We must explicitly delay this request until the data foundation is stable.
 
 ## Metrics Tree
 
@@ -143,6 +138,18 @@ Input Metrics: [Metric A]      [Metric B]
                    │                │
 Team Activities: [Activity 1]   [Activity 3]
                  [Activity 2]   [Activity 4]
+
+
+
+Business Outcome:  Market Level Profitability (Breakeven in all 12+ metros)
+                        │
+North Star:        LTV:CAC Ratio (Target: 2.0x+)
+                   ╱            ╲
+Input Metrics: [100% Tier 1 Metrics in dbt]   [<40% Time on Ad-Hoc Requests]
+                   │                             │
+Team Activities: [Standardize Core Metrics]   [Implement an appointment request form]
+                 [Fix Core dbt Models]        [Build Self-Serve Dashboards]
+                 [Salesforce Data Sync]       [Segment Event Cleanup]
 ```
 
 _Replace the placeholders above with your actual metrics tree._
