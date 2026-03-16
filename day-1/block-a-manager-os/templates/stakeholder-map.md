@@ -72,28 +72,32 @@ List:
 
 ## Key Relationships
 
-*Deep dive into the top 3 "Manage Closely" stakeholders.*
+Deep dive into the top 3 "Manage Closely" stakeholders.
 
-### 1. Head of Sales Operations
-- **Why they matter:** Owns Salesforce. Crucial for full marketplace analytics.
-- **Current state:** **Needs work.** Data mapping is highly manual, complex, and poorly documented.
-- **Their goals:** CRM data hygiene, sales productivity, tracking the supply funnel.
-- **Friction points:** We need strict schema governance; they want flexibility to change CRM fields quickly.
-- **Your strategy:** Set up a bi-weekly sync. Lock down the top 5-10 critical Salesforce fields. Implement a mandatory Jira approval process for any CRM schema changes.
+### Stakeholder 1: CTO
 
-### 2. Head of Customer Safety & Support
-- **Why they matter:** Protects company reputation by ensuring professionals in homes are safe and vetted.
-- **Current state:** **Strained.** Unmonitored pipeline breakages delay critical safety data.
-- **Their goals:** High customer ratings, user safety, and swift removal of bad actors.
-- **Friction points:** They want real-time alerts; our current batch-based warehouse (BigQuery) can only guarantee daily updates until the foundation is fixed.
-- **Your strategy:** Audit safety-related events in Segment. Set up daily data freshness alerts. Have a candid talk to manage expectations regarding the timeline for real-time reporting.
+**Why they matter:** Direct manager, controls budget and headcount approvals. Without his cover, nothing gets built.
+**Current state:** Neutral / Unknown
+**Their goals:** Cost control, maintainable stack, no runaway data spend
+**Potential friction points:** Any proposal that adds tooling without sunsetting something else; hire justifications that aren't airtight
+**30-day strategy:** Map the $25k/mo spend across Segment, Fivetran, Mixpanel, and BigQuery. Identify the 30% redundant Segment events for immediate deactivation to cut costs.
 
-### 3. VP of Sales
-- **Why they matter:** Responsible for acquiring professionals, which is the lifeblood of our new Atlanta and EU market launches.
-- **Current state:** **Neutral, but high-pressure.** They are launching new markets while flying blind without metrics.
-- **Their goals:** Hit sign-up targets, lower acquisition costs, and maximize subscription revenue.
-- **Friction points:** They need fast dashboards; strict EU GDPR and data residency rules will slow us down.
-- **Your strategy:** Define "Day 1" baseline metrics for the new markets immediately. Partner with Legal to map out compliant data collection in the EU so privacy rules don't block the sales rollout.
+### Stakeholder 2: VP of Product
+
+**Why they matter:** Most political capital in the building, willing to spend it for you — but only if she sees fast, visible progress
+**Current state:** Neutral, leaning positive
+**Their goals:** PM self-serve, reliable A/B testing, faster data-driven decisions
+**Potential friction points:** She wants dashboards now; you need to fix metric trust first — shipping on a broken foundation will backfire
+**30-day strategy:** Standardize the "Active User" definition in dbt. Decide on the Mixpanel renewal within 6 weeks to provide a stable "Single Source of Truth."
+
+### Stakeholder 3: Head of Growth
+
+**Why they matter:** Three market launches this year — he needs attribution and baseline metrics before launch, not after
+**Current state:** Unknown, likely skeptical given the long-standing attribution gap
+**Their goals:** Reliable CAC by channel, LTV/CAC ratios to justify spend to CFO
+**Potential friction points:** Will push for multi-touch attribution faster than it can be responsibly delivered; campaigns launched without analytics notice break tracking retroactively
+**30-day strategy:** Prioritize a robust attribution model in the warehouse. Provide "Day 1" dashboards for the Atlanta and EU launches to track early health.
+
 ---
 
 ## Communication Plan
