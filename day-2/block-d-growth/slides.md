@@ -5,7 +5,7 @@ paginate: true
 header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 2 – Block D"
 ---
-
+<!-- ⏱ Expected: 11:00 (min 0/100) -->
 <!-- _class: title -->
 
 # Growth & Performance
@@ -16,6 +16,7 @@ footer: "CEU Vienna | Day 2 – Block D"
 
 ---
 
+<!-- ⏱ Expected: 11:00 (min 0/100) -->
 ## Learning Outcomes
 
 By the end of this block you will be able to:
@@ -27,6 +28,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:03 (min 3/100) -->
 ## Welcome Back — Where We Are
 
 **Day 1 recap — you built:**
@@ -38,6 +40,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:03 (min 3/100) -->
 ## Welcome Back — Where We Are
 
 **Today — Day 2:**
@@ -51,6 +54,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:06 (min 6/100) -->
 ## Why Growth & Performance Matter
 
 **The #1 reason data scientists leave:** They don't feel like they're growing.
@@ -65,6 +69,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:09 (min 9/100) -->
 ## Career Ladders for Analytics
 
 **Two tracks — different jobs, not a promotion hierarchy:**
@@ -82,6 +87,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:13 (min 13/100) -->
 ## What "Senior" Actually Means
 
 **It is not years of experience.** Someone can be "senior" at year 3 or still not senior at year 10.
@@ -98,6 +104,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:13 (min 13/100) -->
 ## What "Senior" Actually Means
 
 **The litmus test:** Can you give them an ambiguous problem and trust them to come back with a well-scoped analysis, clear findings, and actionable recommendations?
@@ -108,6 +115,7 @@ If you promote people to senior just because they've been around for four years,
 
 ---
 
+<!-- ⏱ Expected: 11:18 (min 18/100) -->
 ## The Personal Growth Plan (PGP)
 
 **A PGP is NOT a PIP.** Say it again: **PGP is not a PIP.**
@@ -123,6 +131,7 @@ If you promote people to senior just because they've been around for four years,
 
 ---
 
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
 ## PGP Structure
 
 **PGP core sections:**
@@ -139,6 +148,7 @@ The individual owns this document. You co-create it.
 
 ---
 
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
 ## The SBI Model — Feedback That Lands
 
 | Component | What it means | Example |
@@ -153,6 +163,7 @@ The individual owns this document. You co-create it.
 
 ---
 
+<!-- ⏱ Expected: 11:25 (min 25/100) -->
 ## Radical Candor + Anti-Patterns
 
 **Radical Candor (Kim Scott):** The best feedback = **caring personally** + **challenging directly**.
@@ -168,6 +179,7 @@ The individual owns this document. You co-create it.
 
 ---
 
+<!-- ⏱ Expected: 11:28 (min 28/100) -->
 ## Performance Cycles
 
 **A better cadence than annual reviews:**
@@ -183,6 +195,7 @@ The individual owns this document. You co-create it.
 
 ---
 
+<!-- ⏱ Expected: 11:28 (min 28/100) -->
 ## Performance Cycles
 
 **The Manager Log:** Keep a running document of accomplishments, feedback given, and notable moments. Update it weekly. 3 bullets per person, 5 minutes.
@@ -193,6 +206,7 @@ The individual owns this document. You co-create it.
 
 ---
 
+<!-- ⏱ Expected: 11:32 (min 32/100) -->
 ## Calibration Sessions
 
 **What:** Managers present their direct reports to peer managers. The group norms on performance ratings together.
@@ -206,6 +220,7 @@ The individual owns this document. You co-create it.
 
 ---
 
+<!-- ⏱ Expected: 11:32 (min 32/100) -->
 ## Calibration Sessions
 
 **Your job in calibration:** Advocate with evidence, not emotion.
@@ -218,6 +233,8 @@ The manager log is what makes this possible.
 <!-- Talk track: Your job is to advocate for your people with evidence. "She worked really hard" is not a calibration argument. "She shipped the churn model that saved $2.4M in annual revenue" is. The manager log we just talked about is what makes this possible. Without it, you're going in with vague impressions. With it, you're going in with receipts. -->
 
 ---
+
+<!-- ⏱ Expected: 11:35 (min 35/100) -->
 <!-- _class: cut -->
 
 ## The Ethical PIP
@@ -231,6 +248,8 @@ The manager log is what makes this possible.
 <!-- Talk track: PIPs are the hardest part of management. Before you ever get to one, check yourself. Did you set clear expectations? Did you provide support? Did you give timely feedback? If the answer to any of those is no, the first fix is on you. -->
 
 ---
+
+<!-- ⏱ Expected: 11:35 (min 35/100) -->
 <!-- _class: cut -->
 
 ## The Ethical PIP
@@ -245,6 +264,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (22 min) -->
 <!-- _class: divider -->
 
 ## Activity: SBI Feedback Role-Play
@@ -255,6 +275,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (22 min) -->
 ## Activity: SBI Feedback Role-Play
 
 **Time: 22 minutes** | Open `materials/sbi-scenario-cards.md`
@@ -268,6 +289,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 11:35 (min 35/100) | Activity: SBI Feedback Role-Play (22 min) -->
 ## Activity: SBI Feedback Role-Play
 
 **Rules:**
@@ -282,6 +304,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 11:57 (min 57/100) | Activity: Mock Calibration (17 min) -->
 <!-- _class: divider -->
 
 ## Activity: Mock Calibration
@@ -292,6 +315,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 11:57 (min 57/100) | Activity: Mock Calibration (17 min) -->
 ## Activity: Mock Calibration
 
 **Time: 17 minutes** | Open `materials/calibration-profiles.md`
@@ -305,6 +329,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 11:57 (min 57/100) | Activity: Mock Calibration (17 min) -->
 ## Activity: Mock Calibration
 
 - **2 min:** Group reflection — Which profile was most contested? Why?
@@ -317,6 +342,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 12:14 (min 74/100) | Activity: PGP Draft (17 min) -->
 <!-- _class: divider -->
 
 ## Activity: PGP Draft
@@ -327,6 +353,7 @@ The manager log is what makes this possible.
 
 ---
 
+<!-- ⏱ Expected: 12:14 (min 74/100) | Activity: PGP Draft (17 min) -->
 ## Activity: PGP Draft
 
 **Time: 17 minutes** | Open `templates/pgp.md`
@@ -341,6 +368,7 @@ Write a PGP — for yourself or for a fictional direct report in your case conte
 
 ---
 
+<!-- ⏱ Expected: 12:14 (min 74/100) | Activity: PGP Draft (17 min) -->
 ## Activity: PGP Draft
 
 **The specificity test:**
@@ -353,6 +381,7 @@ Every growth area must be specific enough that the person knows exactly what to 
 
 ---
 
+<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
 ## Debrief
 
 **From the SBI role-play:**
@@ -367,6 +396,7 @@ Every growth area must be specific enough that the person knows exactly what to 
 
 ---
 
+<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
 ## Debrief
 
 **From the PGP:**
@@ -379,6 +409,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
+<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **SBI separates observation from judgment.** That's what makes feedback hearable.
@@ -389,6 +420,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
+<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
 ## Key Takeaways
 
 - **Senior = scope + autonomy + ambiguity tolerance.** Not years.
@@ -401,6 +433,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
+<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
 <!-- _class: divider -->
 
 ## Up Next: Block E
@@ -412,6 +445,7 @@ If your growth areas feel generic, they ARE generic. That emotional reaction is 
 
 ---
 
+<!-- ⏱ Expected: 12:31 (min 91/100) | Debrief + Key Takeaways + Transition -->
 ## Transition to Block E
 
 **After lunch: Block E — Portfolio Workshop & Peer Review (13:30–15:10)**

@@ -5,6 +5,7 @@ paginate: true
 header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 1 – Block B"
 ---
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 <!-- Talk track: Block B — Hiring and Team Formation. This is the post-lunch block, so bring energy and start with the provocative cost-of-bad-hire framing. -->
 
 <!-- _class: title -->
@@ -17,6 +18,7 @@ footer: "CEU Vienna | Day 1 – Block B"
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Learning Outcomes
 
 By the end of this block you will be able to:
@@ -26,6 +28,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Why Hiring Is Your Highest-Leverage Activity
 
 - A great **analyst** makes every PM smarter — they reframe questions and surface data no one asked for
@@ -39,6 +42,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Hiring Returns Compound
 
 > Hiring is the one activity where the returns — positive or negative — compound long after the decision is made.
@@ -51,6 +55,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## The State of Analytics Hiring
 
 ### The Market Reality
@@ -64,6 +69,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## What the Best Companies Have Figured Out
 
 - **Stripe** built structured interviews for data roles with calibrated rubrics and blind-reviewed take-homes
@@ -76,6 +82,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## What We'll Build This Block
 ### Four Deliverables, Connected
 
@@ -94,6 +101,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Why These Four Connect
 
 - The outcomes in your JD determine what your work sample tests
@@ -108,6 +116,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## The Cost of a Bad Hire
 - Average cost of a mis-hire: **1.5–2x annual salary** (SHRM, Bradford Smart)
 - In analytics specifically, a wrong hire means:
@@ -122,6 +131,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## Role Design Before Recruiting
 
 **Don't start with a job description. Start with outcomes.**
@@ -136,6 +146,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## Role Design: An Example
 
 | 90-Day Outcome | Capability |
@@ -150,6 +161,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## JD Anti-Pattern: The 25-Bullet Requirements List
 
 > *"Required: Python, R, SQL, Spark, Hadoop, Tableau, Power BI, Looker, dbt, Airflow, Docker, Kubernetes, AWS, GCP, machine learning, deep learning, NLP, time series forecasting, A/B testing, causal inference, stakeholder management..."*
@@ -160,6 +172,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## JD Anti-Pattern: The Unicorn
 
 > *"PhD in Statistics required. 10+ years of experience. Must thrive in a fast-paced startup." — Compensation: €75K–€85K*
@@ -170,6 +183,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## JD Anti-Patterns
 ### Pattern 3: The Copy-Paste
 
@@ -183,6 +197,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## What Level Do You Actually Need?
 | Level | What They Do | Autonomy | Scope |
 |:---|:---|:---|:---|
@@ -195,6 +210,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## Common Leveling Mistakes
 
 - Hiring **senior** when you need **mid** — you pay for strategy but need execution
@@ -206,6 +222,7 @@ Your hiring packet will be used in a **role-play exercise** where you will condu
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## The Leveling Conversation
 
 ### Having an Honest Discussion with Your Hiring Partner
@@ -221,6 +238,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## The Leveling Conversation: Pressure to Level Down
 
 - **"We can train them up"** — Sometimes true for Junior to Mid. Rarely true for Mid to Senior. The gap is judgment, not skills.
@@ -231,6 +249,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## The Leveling Conversation: How to Have It
 
 1. **Bring the outcomes list** — "Here is what this person needs to accomplish in 90 days. What level can do this?"
@@ -241,6 +260,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## Your First Hire: Analyst vs. Analytics Engineer
 
 **Before writing your JD, ask:** Does my case context need someone to analyze data, or someone to make data analyzable?
@@ -257,6 +277,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:45 (min 15/100) -->
 ## Hiring in the AI Era
 **Your candidates will use AI. Plan for it.**
 
@@ -271,6 +292,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:45 (min 15/100) -->
 ## The Research on Structured Interviews
 ### Predictive Validity (Schmidt & Hunter, 1998)
 
@@ -286,6 +308,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:45 (min 15/100) -->
 ## What the Research Tells Us
 
 **Key insight: Gut feeling is mostly noise. Structure = fairness + signal.**
@@ -299,6 +322,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:45 (min 15/100) -->
 ## Structure Also Means Fairness
 
 - Unstructured interviews amplify **affinity bias** — you hire people who remind you of yourself
@@ -311,6 +335,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## Designing Work Samples
 ### What Makes a Good Work Sample?
 
@@ -325,6 +350,7 @@ The leveling conversation is the one you have with your recruiter, HR partner, o
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## What Work Samples Really Evaluate
 
 How they **frame** the problem > How they **execute** the analysis > How they **communicate** the findings
@@ -339,6 +365,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## Work Sample Design: Realism and Respect
 
 - The work sample should feel like **a real day on the job**, not a homework assignment
@@ -352,6 +379,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## Work Sample Design: Setting Up for Success
 
 - **Include a data dictionary** and note known data quality issues
@@ -361,6 +389,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## When Candidates Go Above and Beyond
 
 - Some candidates will spend 15 hours on a 4-hour exercise. **Do not reward this.** Score against the rubric, not effort or volume.
@@ -371,6 +400,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## Why a Rubric?
 
 - Score on **predefined dimensions**, not overall impression
@@ -386,6 +416,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## What a Rubric Makes Possible
 
 - Each interviewer independently rates **specific dimensions** with **behavioral anchors**
@@ -398,6 +429,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## Dimensions for Analytics Roles
 
 | Dimension | What You Are Looking For |
@@ -411,6 +443,7 @@ How they **frame** the problem > How they **execute** the analysis > How they **
 
 ---
 
+<!-- ⏱ Expected: 13:55 (min 25/100) -->
 ## The 1–4 Scale (No Fence-Sitting)
 Use a 4-point scale. Not three, not five.
 
@@ -426,6 +459,8 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Use a four-point scale. Not three — that lets everyone pick the middle. Not five — nobody can reliably distinguish between a 3 and a 4 in a 45-minute interview. Four points forces a meaningful distinction. Most of your scores should be 2s and 3s. If you are giving many 1s and 4s, your calibration is off or your pipeline needs work. -->
 
 ---
+
+<!-- ⏱ Expected: ~13:55 (min 25/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Calibrating Scorers: The Problem
@@ -444,6 +479,8 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: Four interviewers, same candidate, wildly different scores. The Tech Peer gives mostly 2s, the PM Partner gives a 4 on communication. Is the Tech Peer a tough grader or did they catch a genuine weakness? Without calibration, you cannot tell whether disagreements reflect different standards or different observations. -->
 
 ---
+
+<!-- ⏱ Expected: ~13:55 (min 25/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Calibrating Scorers: The Fix
@@ -459,6 +496,8 @@ Use a 4-point scale. Not three, not five.
 <!-- Talk track: The fix is a norming session, and it is simpler than you think. Before your interview loop begins, get all interviewers in a room for 20 to 30 minutes. Show them a work sample — either from a past candidate anonymized, or one you fabricated. Have everyone score it independently. Then discuss. You will be amazed at how different the scores are. One person gave a 4 on communication, another gave a 2, and they were looking at the same work. Walk through each disagreement and align on what each score means. -->
 
 ---
+
+<!-- ⏱ Expected: ~13:55 (min 25/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## What Norming Prevents
@@ -475,6 +514,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:05 (min 35/100) -->
 ## The Interview Loop: Who Interviews for What
 
 | Interviewer | Focus Area | Why |
@@ -488,6 +528,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:05 (min 35/100) -->
 ## Why Four Interviewers
 
 - **Four** is the sweet spot — fewer than three lacks signal diversity; more than five wastes everyone's time
@@ -500,6 +541,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:05 (min 35/100) -->
 ## The Interview Loop: Independent Scores
 
 ### The Critical Rule: Independent Scores Before Discussion
@@ -513,6 +555,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:05 (min 35/100) -->
 ## Why Independence Matters
 
 - The first strong opinion in a debrief **anchors everyone else**
@@ -525,6 +568,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:05 (min 35/100) -->
 ## The Debrief Meeting
 
 1. **Before the meeting:** All scores submitted independently. Hiring manager reviews for major disagreements.
@@ -536,6 +580,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:05 (min 35/100) -->
 ## Debrief: Reading the Patterns
 
 - **Strong Hire vs. No Hire on the same dimension** — the most informative signal. One interviewer may have probed deeper.
@@ -547,6 +592,8 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 <!-- Talk track: Watch for the "consistent 3s" pattern — it feels like a hire but often means nobody is excited. When one dimension drags the average, ask if it is coachable. The hiring manager makes the final call — do not hide behind consensus. A "strong hire" from the technical peer is worth more than lukewarm 3s from everyone. When in doubt, pass. -->
 
 ---
+
+<!-- ⏱ Expected: ~14:05 (min 35/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Candidate Experience: Your Employer Brand
@@ -559,6 +606,8 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 <!-- Talk track: For every person you hire, you reject about 19. Those 19 people will tell their network about their experience. Your employer brand is built in the rejection email, not the offer letter. The analytics community is small — the analyst you reject today might be the hiring manager you need to impress in two years. -->
 
 ---
+
+<!-- ⏱ Expected: ~14:05 (min 35/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Candidate Experience: Non-Negotiables
@@ -573,6 +622,8 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 <!-- Talk track: Here are the non-negotiables. Acknowledge every application within 48 hours — this can be automated. Provide a clear timeline at every stage — "you will hear from us by Friday" and then actually follow up by Friday. Give feedback with rejections. It does not have to be a detailed performance review. And the big one: never ghost a candidate who completed a work sample. That person invested hours of their life in your process. -->
 
 ---
+
+<!-- ⏱ Expected: ~14:05 (min 35/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Going Beyond the Minimum
@@ -586,6 +637,8 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 <!-- Talk track: Go above the minimum: offer feedback calls, close the loop quickly, and be honest about the role. Even candidates you reject become ambassadors when you treat them well. -->
 
 ---
+
+<!-- ⏱ Expected: ~14:05 (min 35/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Building Your Employer Brand in Analytics
@@ -597,6 +650,8 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 <!-- Talk track: The long game of employer brand: open-source contributions, blog posts about your stack, speaking at meetups, and treating rejected candidates well. These compound over time — by year three, candidates apply specifically because they heard your team is well-run. -->
 
 ---
+
+<!-- ⏱ Expected: ~14:05 (min 35/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## The Employer Brand Compounding Effect
@@ -611,6 +666,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Activity brief — JD + Rubric; activity starts at 14:13 -->
 <!-- _class: divider -->
 
 ## Activity: Build Your Hiring Packet
@@ -621,6 +677,7 @@ A norming session takes **20–30 minutes** and saves **hours of circular debrie
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Activity brief — JD + Rubric; activity starts at 14:13 -->
 ## Activity Brief: Build Your Hiring Packet
 
 Use the company scenario you chose in Block A (small / medium / large)
@@ -637,6 +694,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Activity brief — JD + Rubric; activity starts at 14:13 -->
 ## Activity Tips
 
 - Start with the 90-day outcomes — everything else follows
@@ -650,6 +708,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
+<!-- ⏱ Expected: 14:38 (min 68/100) | Role-Play Setup -->
 ## Role-Play: Structured Interview Practice
 
 **Pair up** with someone — ideally a different case context.
@@ -667,6 +726,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
+<!-- ⏱ Expected: 14:38 (min 68/100) | Role-Play Setup -->
 ## Candidate Profiles
 
 **Candidate:** Pick ONE file. Read it silently. **Do not show it to your interviewer.**
@@ -682,6 +742,7 @@ Use the company scenario you chose in Block A (small / medium / large)
 
 ---
 
+<!-- ⏱ Expected: 14:38 (min 68/100) | Role-Play Setup -->
 ## Role-Play: The Goal
 
 You are testing **whether your rubric works**, not whether the candidate is a fit.
@@ -694,6 +755,7 @@ You are testing **whether your rubric works**, not whether the candidate is a fi
 
 ---
 
+<!-- ⏱ Expected: 15:02 (min 92/100) | Debrief -->
 ## Debrief
 
 ### Reflection Questions
@@ -709,6 +771,7 @@ You are testing **whether your rubric works**, not whether the candidate is a fi
 
 ---
 
+<!-- ⏱ Expected: 15:02 (min 92/100) | Debrief -->
 ## Debrief: The Candidate Perspective
 
 - **What surprised you about being the candidate?**
@@ -721,6 +784,8 @@ A rubric is a living document. After every real interview loop: add a missing di
 <!-- Talk track: Now candidates: what felt fair about the process? What felt arbitrary or unclear? Here's something I didn't tell you before the exercise — each profile had a hidden tell. Profile A proactively suggests improvements beyond the question. Profile B defaults to jargon when asked to simplify. Profile C steers everything toward strategy and delegation. Profile D pivots to storytelling when pressed on methodology. Did your rubric catch the tell? If not, that's your most valuable insight — you now know what dimension to add or sharpen. The rubric is a living document. Your first version will always be wrong. The goal is iteration. -->
 
 ---
+
+<!-- ⏱ Expected: 15:02 (min 92/100) | Debrief -->
 <!-- _class: cut -->
 
 ## Hiring Anti-Patterns
@@ -738,6 +803,7 @@ All of these share a common root: **substituting gut feeling for structured eval
 
 ---
 
+<!-- ⏱ Expected: 15:02 (min 92/100) | Debrief -->
 ## Key Takeaways
 1. **Start with outcomes**, not skills — the 90-day scorecard drives everything
 2. **Structure beats intuition** — 0.51 vs. 0.38, every time
@@ -753,6 +819,7 @@ Start your **work sample design** and **interview loop** — these are portfolio
 
 ---
 
+<!-- ⏱ Expected: 15:02 (min 92/100) | Debrief -->
 <!-- _class: divider -->
 
 ## Up Next: Block C

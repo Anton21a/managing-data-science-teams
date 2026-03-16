@@ -5,7 +5,7 @@ paginate: true
 header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 1 – Block C"
 ---
-
+<!-- ⏱ Expected: 15:30 (min 0/100) -->
 <!-- _class: title -->
 
 # Roadmaps, Bets, and Alignment
@@ -16,6 +16,7 @@ footer: "CEU Vienna | Day 1 – Block C"
 
 ---
 
+<!-- ⏱ Expected: 15:30 (min 0/100) -->
 ## Learning Outcomes
 
 By the end of this block you will be able to:
@@ -27,6 +28,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## The Roadmap Problem
 
 Why are roadmaps in analytics **uniquely hard**? You are not building features. You are building **capability and trust**.
@@ -41,6 +43,7 @@ Why are roadmaps in analytics **uniquely hard**? You are not building features. 
 
 ---
 
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## What Good Analytics Roadmaps Do
 
 A good analytics roadmap is not a wish list. It is a **strategic tool**:
@@ -54,6 +57,7 @@ A good analytics roadmap is not a wish list. It is a **strategic tool**:
 
 ---
 
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## Block C Roadmap
 
 **What we'll build in the next 100 minutes:**
@@ -72,6 +76,7 @@ You will leave with **a draft roadmap and an executive narrative** — artifacts
 
 ---
 
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## Roadmaps Are Not Gantt Charts
 
 A roadmap is a **communication tool**, not a project plan.
@@ -87,6 +92,7 @@ A Gantt chart is a promise. A roadmap is a **bet register**.
 
 ---
 
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## The Gantt Chart Trap
 
 Your VP of Marketing asks for a churn prediction model. You put it on your Gantt chart: **deliver by March 15**.
@@ -101,6 +107,7 @@ Your VP of Marketing asks for a churn prediction model. You put it on your Gantt
 
 ---
 
+<!-- ⏱ Expected: 15:32 (min 2/100) -->
 ## The Roadmap Alternative
 
 **Instead of the Gantt chart promise, say this:**
@@ -115,6 +122,7 @@ Executives can handle uncertainty. What they cannot handle is being surprised.
 
 ---
 
+<!-- ⏱ Expected: 15:37 (min 7/100) -->
 ## The Analytics Roadmap Structure
 
 ## Now / Next / Later
@@ -129,6 +137,7 @@ Executives can handle uncertainty. What they cannot handle is being surprised.
 
 ---
 
+<!-- ⏱ Expected: 15:37 (min 7/100) -->
 ## Horizons: Examples
 
 | Horizon | Example |
@@ -143,6 +152,7 @@ Commitment decreases from Now to Later. This protects you from the Gantt chart t
 
 ---
 
+<!-- ⏱ Expected: 15:42 (min 12/100) -->
 ## What Each Roadmap Item Needs
 
 **Every item on your roadmap must answer these questions:**
@@ -158,6 +168,7 @@ Commitment decreases from Now to Later. This protects you from the Gantt chart t
 
 ---
 
+<!-- ⏱ Expected: 15:42 (min 12/100) -->
 ## RICE Prioritization
 
 **A framework for comparing unlike things**
@@ -175,6 +186,7 @@ $$\text{RICE Score} = \frac{R \times I \times C}{E}$$
 
 ---
 
+<!-- ⏱ Expected: 15:42 (min 12/100) -->
 ## RICE as a Conversation Starter
 
 RICE is a **conversation starter**, not a calculator.
@@ -189,6 +201,7 @@ The score does not make the decision. **You** make the decision.
 
 ---
 
+<!-- ⏱ Expected: 15:42 (min 12/100) -->
 ## RICE in Practice
 
 **Four initiatives scored head-to-head:**
@@ -206,6 +219,7 @@ The score does not make the decision. **You** make the decision.
 
 ---
 
+<!-- ⏱ Expected: 15:42 (min 12/100) -->
 ## RICE in Practice: Sensitivity
 
 **Drop Experimentation Platform confidence to 30%:** score falls from 2,500 to **1,500**. Does that change your Q1 plan?
@@ -216,6 +230,7 @@ RICE tells you **where to argue**, not what to decide.
 
 ---
 
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
 ## North Star Metric
 
 The ONE number that captures your team's value to the business.
@@ -232,6 +247,7 @@ The ONE number that captures your team's value to the business.
 
 ---
 
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
 ## Guardrails Protect the North Star
 
 **Guardrails** are the metrics that must NOT get worse while you optimize the North Star. Optimizing one metric without constraints is dangerous.
@@ -246,6 +262,7 @@ Guardrails prevent you from gaming your own North Star.
 
 ---
 
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
 ## North Star, Guardrails, and Input Metrics
 
 **Example — Growth Analytics Team:**
@@ -259,6 +276,7 @@ Without input metrics, you have a North Star you cannot steer toward.
 
 ---
 
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
 ## Choosing Your North Star: Common Mistakes
 
 - **Vanity metric** — "Number of dashboards created" feels productive but drives no business outcome
@@ -270,6 +288,7 @@ Without input metrics, you have a North Star you cannot steer toward.
 
 ---
 
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
 ## The North Star Test
 
 Ask three questions:
@@ -284,6 +303,7 @@ If you answer yes to all three, you have your North Star.
 
 ---
 
+<!-- ⏱ Expected: 15:48 (min 18/100) -->
 ## The Metrics Tree
 
 ```
@@ -299,6 +319,8 @@ Activation  Retention
 <!-- Talk track: The metrics tree is the bridge between your team's daily work and the number the CEO reports to the board. Start at the top with the business outcome your executive sponsor cares about most. Then identify your North Star. Break that into input metrics, the levers your team can actually pull. -->
 
 ---
+
+<!-- ⏱ Expected: ~15:48 (min 18/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## The Metrics Tree
@@ -315,6 +337,8 @@ The tree answers: **"How does my work connect to the board number?"**
 <!-- Talk track: At the bottom, list the specific activities that move those input metrics. When a stakeholder asks why you are spending three weeks on churn modeling, you point to the tree. If you cannot draw this tree, your roadmap is disconnected from the business. -->
 
 ---
+
+<!-- ⏱ Expected: 15:52 (min 22/100) -->
 <!-- _class: skip -->
 
 ## Communicating Trade-offs: Frame as Choices
@@ -330,6 +354,8 @@ The tree answers: **"How does my work connect to the board number?"**
 <!-- Talk track: Frame trade-offs as choices, not complaints. Never say "we can't" — instead say "here's what it would cost." Quantify cost of delay. And remember: Product and Engineering are partners, not opponents. -->
 
 ---
+
+<!-- ⏱ Expected: ~15:52 (min 22/100) | SKIP — advance past -->
 <!-- _class: cut -->
 
 ## The Trade-off Conversation: Setup
@@ -344,6 +370,8 @@ The tree answers: **"How does my work connect to the board number?"**
 <!-- Talk track: Let me script out how this actually sounds in practice. Your VP of Product shows up wanting a dashboard for a feature launch. This happens every week in every analytics team. The wrong way is to say we do not have bandwidth. That is a wall. The VP hears no, gets frustrated, and either goes around you or escalates to your boss. Either way, you lose. -->
 
 ---
+
+<!-- ⏱ Expected: ~15:52 (min 22/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## The Trade-off Conversation: The Right Way
@@ -360,6 +388,8 @@ The tree answers: **"How does my work connect to the board number?"**
 <!-- Talk track: Start with "absolutely" — that is a yes. Lay out options with real costs. You never said no. You made the trade-off visible and made it their decision. Nine times out of ten the VP picks option two or three, and you are a strategic partner, not a bottleneck. -->
 
 ---
+
+<!-- ⏱ Expected: 15:55 (min 25/100) -->
 ## The 2-Page Executive Narrative
 
 1. **Context** — Where we are (team, state, environment)
@@ -376,6 +406,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 15:55 (min 25/100) -->
 ## Executive Narrative: Context
 
 **A condensed example for a fictional analytics team at MarketBridge:**
@@ -388,6 +419,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 15:55 (min 25/100) -->
 ## Executive Narrative: Results
 
 **What We Did:** "We reduced 60-day logo churn from 8.2% to 6.1% by deploying a propensity model that flags at-risk accounts 30 days before renewal. Customer Success now reviews the top 50 at-risk accounts weekly — 34 of 41 flagged accounts renewed."
@@ -398,6 +430,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 15:55 (min 25/100) -->
 ## Executive Narrative: Insights
 
 **What We Learned:** "Our biggest surprise was that product usage intensity is a weaker churn predictor than support ticket sentiment. Accounts that file frustrated tickets — even if they use the product daily — churn at 3x the rate."
@@ -408,6 +441,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 15:55 (min 25/100) -->
 ## Executive Narrative: Plans
 
 **What's Next:** "In Q2, we are investing in self-serve reporting for the Sales team. Currently, 40% of our ad hoc requests come from Sales asking the same five questions. Automating this frees ~1.5 analyst-months per quarter."
@@ -418,6 +452,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 15:55 (min 25/100) -->
 ## Executive Narrative: Asks
 
 **What We Need:** "We need Engineering to prioritize the event schema migration by April 15. Without it, our experimentation platform — the top Q3 initiative — cannot reliably track treatment assignment."
@@ -428,6 +463,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 16:00 (min 30/100) -->
 ## Writing for Executives: BLUF
 
 ## Bottom Line Up Front
@@ -442,6 +478,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 16:00 (min 30/100) -->
 ## Rules for Executive Writing
 
 1. **No jargon.** "We improved model AUC by 0.12" means nothing to a CFO. Say: "Our model now correctly identifies 85% of at-risk accounts, up from 73%."
@@ -453,6 +490,7 @@ The tree answers: **"How does my work connect to the board number?"**
 
 ---
 
+<!-- ⏱ Expected: 16:03 (min 33/100) -->
 ## Risk Registers
 
 Every roadmap has risks. **Acknowledging them is not weakness — it is honest planning.**
@@ -469,6 +507,7 @@ Your top 3 risks should be on slide 2 of every executive presentation. Executive
 
 ---
 
+<!-- ⏱ Expected: 16:05 (min 35/100) | Activity brief — Roadmap; activity starts at 16:06 -->
 <!-- _class: divider -->
 
 ## Activity: 12-Month Roadmap
@@ -479,6 +518,7 @@ Your top 3 risks should be on slide 2 of every executive presentation. Executive
 
 ---
 
+<!-- ⏱ Expected: 16:05 (min 35/100) | Activity brief — Roadmap; activity starts at 16:06 -->
 ## Activity: 12-Month Roadmap
 
 **30 minutes — Build a 12-month roadmap for your case context.**
@@ -495,6 +535,7 @@ Your top 3 risks should be on slide 2 of every executive presentation. Executive
 
 ---
 
+<!-- ⏱ Expected: 16:36 (min 66/100) | Activity brief — Exec Narrative; activity starts at 16:37 -->
 <!-- _class: divider -->
 
 ## Activity: Executive Narrative Draft
@@ -505,6 +546,7 @@ Your top 3 risks should be on slide 2 of every executive presentation. Executive
 
 ---
 
+<!-- ⏱ Expected: 16:36 (min 66/100) | Activity brief — Exec Narrative; activity starts at 16:37 -->
 ## Activity: Executive Narrative Draft
 
 **20 minutes — Write the first page of your 2-page executive narrative.**
@@ -519,6 +561,7 @@ Focus on two sections:
 
 ---
 
+<!-- ⏱ Expected: 16:57 (min 87/100) | Red-Team brief; exercise starts at 16:58 -->
 <!-- _class: divider -->
 
 ## Activity: Red-Team Exercise
@@ -529,6 +572,7 @@ Focus on two sections:
 
 ---
 
+<!-- ⏱ Expected: 16:57 (min 87/100) | Red-Team brief; exercise starts at 16:58 -->
 ## Red-Team: Kill the Project
 
 **8 minutes — Pair up with someone from a DIFFERENT case context.**
@@ -543,6 +587,7 @@ Your job: **find the fatal flaw** in their roadmap. Ask these questions:
 
 ---
 
+<!-- ⏱ Expected: 17:06 (min 96/100) | Debrief (1 min) -->
 ## Red-Team Debrief
 
 **What survived? What didn't?**
@@ -559,6 +604,7 @@ Your job: **find the fatal flaw** in their roadmap. Ask these questions:
 
 ---
 
+<!-- ⏱ Expected: 17:07 (min 97/100) | Checkpoint upload + Close -->
 ## Day 1 Checkpoint
 
 ## Due by 17:10 — HARD DEADLINE
@@ -575,6 +621,7 @@ Your job: **find the fatal flaw** in their roadmap. Ask these questions:
 
 ---
 
+<!-- ⏱ Expected: 17:07 (min 97/100) | Checkpoint upload + Close -->
 ## What's Coming on Day 2
 
 **Monday, March 23**
@@ -591,6 +638,7 @@ Your job: **find the fatal flaw** in their roadmap. Ask these questions:
 
 ---
 
+<!-- ⏱ Expected: 17:07 (min 97/100) | Checkpoint upload + Close -->
 <!-- _class: divider -->
 
 ## Day 1 Complete
@@ -601,6 +649,7 @@ Your job: **find the fatal flaw** in their roadmap. Ask these questions:
 
 ---
 
+<!-- ⏱ Expected: 17:07 (min 97/100) | Checkpoint upload + Close -->
 ## Close Day 1
 
 **You now have the core of your Manager OS.**

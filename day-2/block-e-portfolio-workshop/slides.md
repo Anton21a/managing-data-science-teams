@@ -5,7 +5,7 @@ paginate: true
 header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 2 – Block E"
 ---
-
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 <!-- _class: title -->
 
 # Portfolio Workshop & Peer Review
@@ -16,6 +16,7 @@ footer: "CEU Vienna | Day 2 – Block E"
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Learning Outcomes
 
 By the end of this block you will be able to:
@@ -28,6 +29,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 13:30 (min 0/100) -->
 ## Shifting Gears
 
 This morning was intense — feedback, calibration, PIPs.
@@ -43,6 +45,7 @@ We're moving from the **emotional work** of growing people to the **craft work**
 
 ---
 
+<!-- ⏱ Expected: 13:32 (min 2/100) -->
 ## Where You Are — Portfolio Status Check
 
 **By now you should have drafts of:**
@@ -57,6 +60,7 @@ We're moving from the **emotional work** of growing people to the **craft work**
 
 ---
 
+<!-- ⏱ Expected: 13:32 (min 2/100) -->
 ## The Revision Mindset
 
 **Don't polish — strengthen.**
@@ -72,6 +76,7 @@ Common mistakes in portfolio revision:
 
 ---
 
+<!-- ⏱ Expected: 13:35 (min 5/100) -->
 ## Quick Self-Assessment
 
 **For each artifact, rate yourself:**
@@ -89,6 +94,7 @@ Common mistakes in portfolio revision:
 
 ---
 
+<!-- ⏱ Expected: 13:38 (min 8/100) | Activity brief — Revision Workshop starts at 13:40 -->
 ## Artifact Revision Workshop
 
 **Time: 30 minutes** | Pick your **weakest artifact** and open `assessment/grading-rubrics.md` beside it.
@@ -104,6 +110,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
+<!-- ⏱ Expected: 13:38 (min 8/100) | Activity brief — Revision Workshop starts at 13:40 -->
 ## Revision Tips by Artifact
 
 **Manager OS:** "Regular 1:1s" → "Weekly 30-min 1:1s, Tue AM, agenda shared 24h prior."
@@ -118,6 +125,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Peer Review setup + instructions -->
 ## Structured Peer Review — Setup
 
 **Time: 30 minutes** | Pair up with someone at a **different case context**.
@@ -135,6 +143,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Peer Review setup + instructions -->
 ## Peer Review — What to Look For
 
 **When reviewing your partner's artifact, assess:**
@@ -151,6 +160,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Peer Review setup + instructions -->
 ## Peer Review — Giving Feedback with SBI
 
 **Apply the SBI model to artifact feedback:**
@@ -167,6 +177,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
+<!-- ⏱ Expected: 14:10 (min 40/100) | Peer Review setup + instructions -->
 ## Peer Review — Receiving Feedback
 
 **When receiving feedback:**
@@ -181,6 +192,7 @@ I'll circulate. Flag me if you're stuck.
 
 ---
 
+<!-- ⏱ Expected: 14:45 (min 75/100) | QBR Prep (10 min) -->
 ## QBR Prep
 
 **Time: 10 minutes** | Block F (15:30) = **5-minute QBR** to a mock exec panel.
@@ -196,6 +208,7 @@ Does your executive narrative lead with BLUF?
 
 ---
 
+<!-- ⏱ Expected: 14:45 (min 75/100) | QBR Prep (10 min) -->
 ## QBR Prep — The Executive Test
 
 **Before you present, ask yourself:**
@@ -211,6 +224,7 @@ Does your executive narrative lead with BLUF?
 
 ---
 
+<!-- ⏱ Expected: 14:55 (min 85/100) | Instructor Q&A / Office Hours (15 min) -->
 ## Instructor Q&A / Office Hours
 
 **Time: 15 minutes**
@@ -227,6 +241,7 @@ This is your time. Use it for:
 
 ---
 
+<!-- ⏱ Expected: 15:10 (min 100/100) | Block recap + Transition to Block F -->
 ## Block E Recap
 
 **What you accomplished this block:**
@@ -244,6 +259,7 @@ This is your time. Use it for:
 
 ---
 
+<!-- ⏱ Expected: 15:10 (min 100/100) | Block recap + Transition to Block F -->
 <!-- _class: divider -->
 
 ## Up Next: Block F
@@ -255,6 +271,7 @@ This is your time. Use it for:
 
 ---
 
+<!-- ⏱ Expected: 15:10 (min 100/100) | Block recap + Transition to Block F -->
 ## Transition to Block F
 
 **Block F: Leading Up & Across; QBR Simulation (15:30–17:10)**

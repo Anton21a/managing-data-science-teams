@@ -5,7 +5,7 @@ paginate: true
 header: "ECBS5256 – Managing Data Science Teams"
 footer: "CEU Vienna | Day 1 – Block A"
 ---
-
+<!-- ⏱ Expected: 11:00 (min 0/100) -->
 <!-- _class: title -->
 
 # The Manager's Operating System
@@ -16,6 +16,7 @@ footer: "CEU Vienna | Day 1 – Block A"
 
 ---
 
+<!-- ⏱ Expected: 11:00 (min 0/100) -->
 ## Learning Outcomes
 
 By the end of this block you will be able to:
@@ -28,6 +29,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:00 (min 0/100) -->
 ## Welcome & Course Overview
 
 **Your instructor:** Eduardo Ariño de la Rubia, Professor of Practice at CEU
@@ -45,6 +47,7 @@ By the end of this block you will be able to:
 
 ---
 
+<!-- ⏱ Expected: 11:05 (min 5/100) -->
 ## Why This Course Exists
 
 **The problem:** Analytics managers are almost always promoted from IC roles with **zero management training**. You were the best analyst, so now you manage analysts — but these are completely different jobs.
@@ -61,6 +64,7 @@ Management is a **learnable craft**, not an innate talent.
 
 ---
 
+<!-- ⏱ Expected: 11:05 (min 5/100) -->
 ## How This Course Works
 
 **Three case contexts** that anchor everything:
@@ -75,6 +79,7 @@ Management is a **learnable craft**, not an innate talent.
 
 ---
 
+<!-- ⏱ Expected: 11:05 (min 5/100) -->
 ## How This Course Works
 
 - You **choose one case context** and anchor ALL artifacts to it
@@ -86,6 +91,7 @@ Management is a **learnable craft**, not an innate talent.
 
 ---
 
+<!-- ⏱ Expected: 11:05 (min 5/100) -->
 ## Choose Your Case Context
 
 Pick one now. You will use this for every activity across both days.
@@ -99,6 +105,7 @@ Pick one now. You will use this for every activity across both days.
 
 ---
 
+<!-- ⏱ Expected: 11:05 (min 5/100) -->
 ## Choose Your Case Context
 
 **MarketBridge (Series B Scale-Up)**
@@ -110,6 +117,7 @@ Pick one now. You will use this for every activity across both days.
 
 ---
 
+<!-- ⏱ Expected: 11:05 (min 5/100) -->
 ## Choose Your Case Context
 
 **FinGuard (Enterprise Financial Services)**
@@ -123,6 +131,7 @@ Pick one now. You will use this for every activity across both days.
 
 ---
 
+<!-- ⏱ Expected: 11:10 (min 10/100) -->
 ## What Is a Manager?
 
 > "A manager's output = the output of their organization + the output of neighboring organizations under their influence."
@@ -136,6 +145,7 @@ Your job is to create the conditions where your team does its best work — and 
 
 ---
 
+<!-- ⏱ Expected: 11:10 (min 10/100) -->
 ## Manager vs. Tech Lead vs. PM
 
 Three overlapping circles — the analytics manager spans all three but **owns People**.
@@ -151,6 +161,7 @@ Three overlapping circles — the analytics manager spans all three but **owns P
 
 ---
 
+<!-- ⏱ Expected: 11:15 (min 15/100) -->
 ## The Analytics Manager Is Unique
 
 You live at the intersection. You need enough technical depth to earn trust, enough product sense to prioritize, and enough people skill to build a team.
@@ -165,6 +176,8 @@ You live at the intersection. You need enough technical depth to earn trust, eno
 <!-- Talk track: The analytics manager role is uniquely demanding because you can't fully delegate any of the three circles. No technical depth — your team won't respect your judgment. No product sense — you build things nobody uses. No people skill — your best analysts leave. This is not "choose two." You need all three. That's what makes this role hard, and it's also what makes it rewarding. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:15 (min 15/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## When the VP Asks "Why Is Churn Up?"
@@ -178,6 +191,8 @@ A concrete scenario to illustrate the three roles:
 <!-- Talk track: Let me make this concrete. Imagine your VP sends a Slack message at 9am: "Why is churn up? I need answers before the board meeting." Watch how the three roles respond differently. The PM gives business context — they know the churn number, they have a hypothesis, and they can frame why it matters. The Tech Lead does the actual analytical work — they build the model, run the analysis, and present the findings with appropriate rigor. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:15 (min 15/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## When the VP Asks "Why Is Churn Up?"
@@ -190,6 +205,7 @@ A concrete scenario to illustrate the three roles:
 
 ---
 
+<!-- ⏱ Expected: 11:18 (min 18/100) -->
 ## Team Topologies for Analytics
 
 From Skelton & Pais — four fundamental team types:
@@ -205,6 +221,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
+<!-- ⏱ Expected: 11:18 (min 18/100) -->
 ## Applying Team Topologies to Your Case Context
 
 **Which topology best describes your team?** Most analytics orgs are a mix.
@@ -215,6 +232,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
+<!-- ⏱ Expected: 11:18 (min 18/100) -->
 ## Applying Team Topologies to Your Case Context
 
 **MarketBridge (scale-up):** You likely have stream-aligned analysts who grew up embedded in different pods, but no platform team. That's why there are conflicting metric definitions — nobody owns the infrastructure. Your first move might be carving out a platform function.
@@ -223,6 +241,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
+<!-- ⏱ Expected: 11:18 (min 18/100) -->
 ## Applying Team Topologies to Your Case Context
 
 **FinGuard (enterprise):** You probably have all four topologies, but they may not talk to each other. The ML team might not know what the embedded analysts need. The platform team might be building for compliance, not for analyst productivity. Your challenge is coordination.
@@ -231,6 +250,7 @@ From Skelton & Pais — four fundamental team types:
 
 ---
 
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
 ## The Manager OS Concept
 
 Your **operating system** has four layers:
@@ -246,6 +266,7 @@ Think of it like software: cadences are the scheduler, rituals are the processes
 
 ---
 
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
 ## AI-Augmented Manager OS
 
 LLMs add a **force multiplier** to every OS layer:
@@ -261,6 +282,7 @@ LLMs add a **force multiplier** to every OS layer:
 
 ---
 
+<!-- ⏱ Expected: 11:21 (min 21/100) -->
 ## AI-Augmented Manager OS
 
 **The key principle:** AI handles the drafting. You own the judgment.
@@ -272,6 +294,8 @@ LLMs add a **force multiplier** to every OS layer:
 <!-- Talk track: Let me give you two concrete examples. First, take your last three weekly team updates, paste them into an LLM, and ask for a draft executive summary. You'll get a solid first draft in 30 seconds. Then you spend 5 minutes editing for nuance, accuracy, and judgment. That's 5 minutes instead of 30, and the quality is just as high because you're the editor. Second, before a difficult stakeholder meeting, role-play the conversation with the LLM. Ask it to play the skeptical CFO. Practice your responses. You'll walk in more prepared than you've ever been. And here's a new hidden stakeholder for your map: whoever controls your team's LLM and API budget. As AI-assisted workflows grow, compute costs can balloon. Map that person now. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:21 (min 21/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## What Happens Without a Manager OS?
@@ -289,6 +313,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
+<!-- ⏱ Expected: 11:24 (min 24/100) -->
 ## Cadences That Work
 
 | Cadence | What happens | Why it matters |
@@ -303,6 +328,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Let's start with cadences. Here are the four I recommend. Daily — for most analytics teams, you can skip the daily standup or make it async. Weekly is where the magic happens: your 1:1s and one team sync. Monthly, you zoom out and look at metrics. Quarterly, you do real planning and calibration. The key insight is that the rhythm itself creates predictability. Your team should never wonder "when will I get to talk to my manager about this?" -->
 
 ---
+
+<!-- ⏱ Expected: ~11:24 (min 24/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Designing Your Cadence
@@ -316,6 +343,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Before you start adding meetings, audit what you already have. I've done this exercise with dozens of managers, and every single time, we find at least two or three recurring meetings that have no owner, no agenda, and no clear output. If it fails all three — kill it or convert it to async. You just freed up hours in your calendar. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:24 (min 24/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Designing Your Cadence
@@ -331,6 +360,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
+<!-- ⏱ Expected: 11:27 (min 27/100) -->
 ## 1:1s That Actually Work
 
 **Structure (30 minutes):**
@@ -344,6 +374,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
+<!-- ⏱ Expected: 11:27 (min 27/100) -->
 ## 1:1 Anti-Patterns
 
 **Anti-patterns to avoid:**
@@ -360,6 +391,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Let me name the anti-patterns. The status update trap — that's what Slack is for. The therapy session — help them solve the problem, don't just absorb the emotion. The canceled 1:1 — nothing says "you don't matter" faster. The monologue — if you're talking more than half the time, it's a broadcast, not a conversation. And watch the diagnostic signals: boring 1:1s mean the relationship isn't deep enough. Fire-drill 1:1s mean you have a structural problem upstream. "I don't have anything" means they don't trust the space yet — that's on you to fix. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:27 (min 27/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Handling Difficult 1:1s: The Silent Report
@@ -372,6 +405,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Let me give you tactical advice for common difficult situations. First, the report who shows up and says "I don't have anything." This is almost never true — they just don't trust the space yet, or they don't know what's appropriate to bring up. Give them prompts. I like to ask "what's the most frustrating thing you've dealt with this week?" That question almost always unlocks something. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:27 (min 27/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Handling Difficult 1:1s: The Silent Report
@@ -384,6 +419,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Then there's the truly silent report. Some people are just internal processors. That's okay. Try a written format — share questions in advance and let them respond in writing if that's more comfortable. I had a brilliant analyst once who said almost nothing in our 1:1s until I switched to walking meetings. Something about not making eye contact and moving through space opened her up completely. Experiment. There's no single right format. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:27 (min 27/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Handling Difficult 1:1s: The Complainer
@@ -397,6 +434,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
+<!-- ⏱ Expected: 11:30 (min 30/100) -->
 ## Decision Logs & Memos
 
 **Why writing beats meetings:**
@@ -408,6 +446,7 @@ Without an OS, you get **chaos that feels like busyness**:
 
 ---
 
+<!-- ⏱ Expected: 11:30 (min 30/100) -->
 ## Decision Logs & Memos
 
 **The 1-page Decision Memo has five sections:**
@@ -423,6 +462,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Here is the template for a one-page decision memo. Five sections, each with a clear purpose. Context sets the scene, Options forces creative thinking, Recommendation commits to a path, Risks shows you've thought about downsides, and Decision Type tells everyone how fast to move. The key question to always ask is: "Is this a one-way door or a two-way door?" For Type 2 decisions, empower your team to just go. Don't require a memo for every small call. For Type 1 decisions, write a memo — the act of writing forces clear thinking. That single question will save your team from both reckless speed and unnecessary paralysis. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:30 (min 30/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Example Decision Memo
@@ -440,6 +481,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: Let me show you what a real decision memo looks like. This is for MarketBridge — should we migrate from Amplitude to an in-house event tracking system? Notice the structure. The context is crisp — one paragraph, everyone understands the situation. Then three options. Not two, because two options creates a false binary. Three forces you to think creatively. Look at the pros and cons — they're specific. Not "it's expensive" but "$120K per year." Not "it takes time" but "3-4 month migration." Specificity is what separates a useful memo from a waste of paper. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:30 (min 30/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Example Decision Memo
@@ -451,6 +494,8 @@ Without an OS, you get **chaos that feels like busyness**:
 <!-- Talk track: The recommendation is Option C — the hybrid approach. And notice the reasoning: it de-risks the migration. That's strategic thinking. The risks section is specific about what could go wrong and how to mitigate it. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:30 (min 30/100) | SKIP — advance past -->
 <!-- _class: skip -->
 
 ## Example Decision Memo
@@ -463,6 +508,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:33 (min 33/100) -->
 ## The Team Charter
 
 **What it is:** A 1-2 page document capturing your team's identity and operating agreements.
@@ -479,6 +525,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:33 (min 33/100) -->
 ## The Team Charter
 
 **Why it matters:** Alignment without constant re-negotiation. When someone asks "should we do X?" the charter helps answer.
@@ -489,6 +536,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:33 (min 33/100) -->
 ## The Stakeholder Map
 
 **Power/Interest Grid:**
@@ -502,6 +550,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:33 (min 33/100) -->
 ## Stakeholder Map: What to Capture
 
 **For each stakeholder, capture:**
@@ -518,6 +567,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:33 (min 33/100) -->
 ## Stakeholder Map: Hidden Stakeholders by Context
 
 - **DataPulse:** The CTO (cloud budget), the sole backend engineer, the LLM/API budget controller
@@ -529,6 +579,8 @@ This classification matters because it tells everyone "we don't need to agonize 
 <!-- Talk track: Every time I do this exercise with a new manager, they map the obvious ones — their boss, the PMs, the product team. But they miss IT, Legal, Privacy, Finance. Think about your case context — who could block you that you haven't thought of yet? The DataPulse folks should think about that one backend engineer. The MarketBridge folks should think about data engineering and compliance. The FinGuard folks should think about model risk management and internal audit. These are the relationships that, if you build them early, save you weeks of delay later. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:33 (min 33/100) | SKIP — advance past -->
 <!-- _class: cut -->
 
 ## RACI in 60 Seconds
@@ -543,6 +595,8 @@ This classification matters because it tells everyone "we don't need to agonize 
 <!-- Talk track: RACI is one of those frameworks that people either love or hate. I'm going to teach you to use it well, which means using it sparingly. R is who does the work. A is who owns the outcome — and this is the critical one. There must be exactly one A per decision. If two people think they're accountable, nobody is. C is who you consult before deciding, and I is who you inform after. Let me emphasize that rule about the A — exactly one person. This is where organizations go wrong. They say "well, both the analytics manager and the PM are accountable for this metric." No. One person is accountable. The other person might be Responsible or Consulted, but there is one throat to choke, as the saying goes. That clarity is uncomfortable, but it's essential. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:33 (min 33/100) | SKIP — advance past -->
 <!-- _class: cut -->
 
 ## RACI: Common Mistakes
@@ -557,6 +611,8 @@ This classification matters because it tells everyone "we don't need to agonize 
 <!-- Talk track: The biggest mistake I see is organizations that RACI everything. Don't do that. Pick the five to ten decisions that cause the most confusion or conflict, and RACI those. And watch out for the "everyone is consulted" trap. If you consult eight people before every decision, you've created consensus paralysis. Keep the C list short. Most people should be I — informed after the fact. -->
 
 ---
+
+<!-- ⏱ Expected: ~11:33 (min 33/100) | SKIP — advance past -->
 <!-- _class: cut -->
 
 ## RACI: When to Use It
@@ -574,6 +630,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:37 (min 37/100) | Activity brief — Team Charter; activity starts at 11:45 -->
 <!-- _class: divider -->
 
 ## Activity: Draft Your Team Charter
@@ -584,6 +641,7 @@ This classification matters because it tells everyone "we don't need to agonize 
 
 ---
 
+<!-- ⏱ Expected: 11:37 (min 37/100) | Activity brief — Team Charter; activity starts at 11:45 -->
 ## Activity: Draft Your Team Charter
 
 **Time: 22 minutes** | Open `templates/team-charter.md`
@@ -597,6 +655,7 @@ Using your chosen case context, draft a Team Charter with:
 
 ---
 
+<!-- ⏱ Expected: 11:37 (min 37/100) | Activity brief — Team Charter; activity starts at 11:45 -->
 ## Activity: Draft Your Team Charter
 
 Continue your Team Charter with:
@@ -610,6 +669,7 @@ Continue your Team Charter with:
 
 ---
 
+<!-- ⏱ Expected: 12:07 (min 67/100) | Activity brief — Stakeholder Map -->
 <!-- _class: divider -->
 
 ## Activity: Map Your Stakeholders
@@ -620,6 +680,7 @@ Continue your Team Charter with:
 
 ---
 
+<!-- ⏱ Expected: 12:07 (min 67/100) | Activity brief — Stakeholder Map -->
 ## Activity: Map Your Stakeholders
 
 **Time: 18 minutes** | Open `templates/stakeholder-map.md`
@@ -635,6 +696,7 @@ Map your stakeholders on the Power/Interest grid.
 
 ---
 
+<!-- ⏱ Expected: 12:09 (min 69/100) | Activity: Map Stakeholders (18 min) -->
 ## Activity: Map Your Stakeholders
 
 For each stakeholder, also note what you need from them and your engagement strategy.
@@ -650,6 +712,7 @@ For each stakeholder, also note what you need from them and your engagement stra
 
 ---
 
+<!-- ⏱ Expected: 12:27 (min 87/100) | Pair Share (5 min) -->
 ## Pair Share
 
 **Time: 5 minutes (2–3 minutes each)**
@@ -667,6 +730,7 @@ Find a partner — ideally someone who chose a **different** case context.
 
 ---
 
+<!-- ⏱ Expected: 12:32 (min 92/100) | Debrief + Transition to Block B -->
 ## Debrief
 
 **Let's hear from the room:**
@@ -681,6 +745,7 @@ Find a partner — ideally someone who chose a **different** case context.
 
 ---
 
+<!-- ⏱ Expected: 12:32 (min 92/100) | Debrief + Transition to Block B -->
 ## Your Manager OS So Far
 
 After this block, you have:
@@ -699,6 +764,7 @@ These are the **foundation** of your Manager OS. Every block builds on this.
 
 ---
 
+<!-- ⏱ Expected: 12:32 (min 92/100) | Debrief + Transition to Block B -->
 <!-- _class: divider -->
 
 ## Up Next: Block B
@@ -710,6 +776,7 @@ These are the **foundation** of your Manager OS. Every block builds on this.
 
 ---
 
+<!-- ⏱ Expected: 12:32 (min 92/100) | Debrief + Transition to Block B -->
 ## Transition to Block B
 
 **After lunch: Block B — Hiring & Team Formation (13:30-15:10)**
@@ -722,6 +789,7 @@ You have your charter. You know your stakeholders. Now the question becomes:
 
 ---
 
+<!-- ⏱ Expected: 12:32 (min 92/100) | Debrief + Transition to Block B -->
 ## Transition to Block B
 
 **Think about over lunch:**
