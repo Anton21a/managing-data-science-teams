@@ -68,8 +68,7 @@ The analytics team exists to turn messy data into a single, reliable source of m
 | Sales Operations | They manage Salesforce and the supply-side data schemas. Because joining this with product data is currently a manual nightmare, we need tight alignment with them to fix the data model at the source. | Monthly CRM review | monthly |
 | Raj Malhotra, CTO | Aligns analytics strategy with engineering, approves headcount, and reviews data stack budget. | Weekly 1:1s, monthly budget & vendor review | weekly |
 | Diane Osei, VP product| she needs self-service tools and thorough A/B testing. We are bringing analysts on board to transition them from simply handling requests to providing strategic support. | Bi-weekly sprint planning, weekly metric alignment sync, shared Slack channel | weekly |
-| Anya Petrov, Legal & Privacy | Critical for EU expansion. We integrate her privacy requirements directly into our data modeling and tracking plans. | pre-launch privacy sign-offs | *(Quarterly + ad-hoc)* | weekly
-| 
+| Anya Petrov, Legal & Privacy | Critical for EU expansion. We integrate her privacy requirements directly into our data modeling and tracking plans. | pre-launch privacy sign-offs | Bi-weekly | 
 
 ---
 
@@ -85,10 +84,10 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 | # | Metric | Target | Current Baseline | Measurement Method |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Data Infrastructure Cost (Efficiency) | <= $25,000/month while supporting 3 new market launches | Approaching $25k/month | Monthly BigQuery, Fivetran, and vendor Segment billing reviews |
+| 2 | Core Metric Centralization | 100% of Tier 1 KPIs (Active Users, Bookings) defined in dbt | ~0% (because it fragmented across SQL and Mixpanel) | Quarterly audit of board reporting against the dbt repository |
+| 3 | Ad-Hoc Ticket Reduction | 50% decrease in ad-hoc data pull requests | Estimated dozens of requests per week | Jira system tracking |
+| 4 | Automated Unit Economics | 100% of metro-level CAC, LTV, and transaction margins automated | 0% (because currently requires manual stitching by one analyst) | Performing financial metrics by the end of the month |
 | 5 | *(optional)* | | | |
 
 ---
@@ -99,11 +98,11 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 | Cadence | Ritual | Duration | Purpose | Attendees |
 |---|---|---|---|---|
-| **Daily** | *(e.g., Async standup in Slack)* | *(5 min)* | *(Visibility on blockers)* | *(Full team)* |
-| **Weekly** | *(e.g., 1:1s)* | *(30 min each)* | *(Coaching, feedback, alignment)* | *(Manager + each report)* |
-| **Weekly** | *(e.g., Team sync)* | *(45 min)* | *(Share learnings, coordinate)* | *(Full team)* |
-| **Monthly** | *(e.g., Metrics review)* | *(60 min)* | *(Are we on track?)* | *(Team + stakeholders)* |
-| **Quarterly** | *(e.g., Planning)* | *(Half day)* | *(Set priorities for next quarter)* | *(Team + sponsor)* |
+| **Daily** | Async standup in Slack | 5 min |Share top priority for the day and flag any immediate blockers | Full analytics team |
+| **Weekly** | 1:1 Meetings | 30 min each | Coaching, career growth, and checking on team morale/burnout | Manager + each report |
+| **Weekly** | Code Review | 60 min | Review dbt models/SQL together, share knowledge, and build shared coding standards | Full Analytics Team |
+| **Monthly** | Stakeholder Metrics Review | 60 min | Review core marketplace KPIs, highlight data quality issues, and align on metric definitions | Team + Key Stakeholders |
+| **Quarterly** | Roadmap Planning | Half day | Review team KPIs, finalize priorities for the next quarter, and align on infrastructure goals | Team + CTO |
 
 ---
 
