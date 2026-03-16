@@ -1,9 +1,13 @@
 # Job Description Template
 
 **Student Name:** Anton Shestakov
+
 **Date:** 16/03/2026
+
 **Case Context:** [ ] Small (Seed-Stage) / [ ] Medium (Series B) / [ ] Large (Enterprise)
+
 **Role Title:** Senior Analytics Engineer
+
 **Level:** [ ] Junior / [ ] Mid / [Х] Senior / [ ] Staff/Principal
 
 ---
