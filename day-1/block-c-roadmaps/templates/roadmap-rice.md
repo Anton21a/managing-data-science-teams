@@ -1,8 +1,10 @@
 # 12-Month Analytics Roadmap with RICE Prioritization
 
-**Student Name:** _______________
-**Date:** _______________
-**Case Context:** [ ] Small (DataPulse) | [ ] Medium (MarketBridge) | [ ] Large (FinGuard)
+**Student Name:** Anton Shestakov
+
+**Date:** 16.03.2026
+
+**Case Context:** [ ] Small (DataPulse) | [X] Medium (MarketBridge) | [ ] Large (FinGuard)
 
 ---
 
