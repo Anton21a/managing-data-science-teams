@@ -55,7 +55,7 @@ _Score each initiative using the RICE framework. Then sort by RICE score to info
 | # | Initiative | Reach | Impact | Confidence | Effort | RICE Score | Horizon |
 |---|-----------|-------|--------|------------|--------|------------|---------|
 | 1 | Metrics Standartization ("Active Users" definition)| 100 | 3 | 100% | 0.5 | 600 | **Now** / Next / Later |
-| 2 | | | | | | | Now / Next / Later |
+| 2 | Create one single request form so people stop interrupting analysts with random Slack messages.| 50 | 2 | 100% | 0.25 | 400 | **Now** / Next / Later |
 | 3 | | | | | | | Now / Next / Later |
 | 4 | | | | | | | Now / Next / Later |
 | 5 | | | | | | | Now / Next / Later |
