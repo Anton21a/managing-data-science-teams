@@ -12,7 +12,8 @@
 
 *Why does this analytics team exist? What value does it create for the organization? Write 2-3 sentences that a non-technical executive would understand.*
 
-> **Example (Acme Analytics, Medium — Series B Marketplace):** Our team exists to make Acme's product and business decisions evidence-based. We provide trustworthy metrics, experimentation infrastructure, and analytical insights that help the Growth and Monetization pods move faster with less risk. We are the connective tissue between raw data and strategic decisions.
+> The analytics team exists to turn messy data into a single, reliable source of metrics/information so leaders can stop debating numbers and start making profitable decisions. We provide the map that shows exactly where to invest in customers and professionals to reach breakeven across all 12 markets. Our goal is to ensure every dollar spent on expansion is backed by facts, helping MarketBridge grow faster and more efficiently.
+> 
 
 **Your purpose:**
 
