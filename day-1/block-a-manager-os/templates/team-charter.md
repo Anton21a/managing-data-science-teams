@@ -66,7 +66,7 @@ The analytics team exists to turn messy data into a single, reliable source of m
 *Who does your team interact with regularly? For each interface, describe the nature of the relationship and the primary mechanism for interaction.*
 
 | Team / Role | Relationship | Interaction Mechanism | Frequency |
-|---|---|---|---|
+|---|---|---|---| 
 | *(e.g., Growth PM)* | *(Primary stakeholder — we embed an analyst in their pod)* | *(Weekly sync, shared Slack channel, sprint planning)* | *(Weekly)* |
 | *(e.g., Data Engineering)* | *(Dependency — they maintain pipelines we rely on)* | *(Bi-weekly sync, Jira tickets for pipeline requests)* | *(Bi-weekly)* |
 | *(e.g., VP Product)* | *(Sponsor — approves our quarterly priorities)* | *(Monthly metrics review, quarterly planning)* | *(Monthly)* |
