@@ -63,27 +63,27 @@
 
 *For your top 3 most critical stakeholders (those in "Manage Closely"), provide a deeper analysis.*
 
-### Stakeholder 1: _________________
+### Stakeholder 1: Head of Sales Operation
 
-- **Why they matter:** *(What happens if this relationship breaks down?)*
+- **Why they matter:** They own Salesforce, which houses all the critical supply-side data (service professional profiles, pipelines, availability). If we cannot integrate this data with the product (demand-side) data, MarketBridge cannot provide a reliable analytics as a primary function.
 - **Current state of the relationship:** *(Strong / Neutral / Needs work / Unknown)*
 - **Their goals:** *(What are they personally measured on?)*
 - **Potential friction points:** *(Where might your team's interests conflict with theirs?)*
 - **Your strategy:** *(Specific actions you'll take in the first 30 days)*
 
-### Stakeholder 2: _________________
+### Stakeholder 2: Head of Customer Safety & Support
 
-- **Why they matter:**
+- **Why they matter:** We send basically strangers (like plumbers and cleaners) into people's homes. If safety issues happen or bad reviews pile up, the company's reputation is ruined.
 - **Current state of the relationship:**
-- **Their goals:**
-- **Potential friction points:**
+- **Their goals:** Keep customers happy, ensure high ratings, and quickly kick dangerous or bad professionals off the app.
+- **Potential friction points:** They need instant alerts when a pro gets a 1-star review. Our current data pipes are fragile and sometimes break for days, so we can't give them real-time alerts yet.
 - **Your strategy:**
 
-### Stakeholder 3: _________________
+### Stakeholder 3: VP of Sales
 
-- **Why they matter:**
+- **Why they matter:** An app for booking plumbers is useless if there are no plumbers on it. This leader's team is responsible for convincing professionals to join the platform and pay the monthly fee, which is crucial for the new Atlanta and Europe launches.
 - **Current state of the relationship:**
-- **Their goals:**
+- **Their goals:** Hit sign-up targets for the new cities and keep the cost of finding new professionals low.
 - **Potential friction points:**
 - **Your strategy:**
 
