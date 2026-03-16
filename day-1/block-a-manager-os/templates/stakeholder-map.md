@@ -102,17 +102,8 @@ List:
 
 | Quadrant | Frequency | Channel | Content | Owner |
 |---|---|---|---|---|
-| **Manage Closely** | *(e.g., Weekly)* | *(e.g., 1:1 meeting + Slack DM)* | *(e.g., Progress on key metrics, blockers, decisions needed)* | *(You)* |
-| **Keep Satisfied** | *(e.g., Monthly)* | *(e.g., Monthly email digest + quarterly meeting)* | *(e.g., Summary of team output, resource needs, upcoming asks)* | *(You)* |
-| **Keep Informed** | *(e.g., Bi-weekly)* | *(e.g., Team newsletter or Slack channel)* | *(e.g., New dashboards, methodology updates, available capacity)* | *(Team member)* |
-| **Monitor** | *(e.g., Quarterly)* | *(e.g., All-hands presentation or shared doc)* | *(e.g., Team highlights, impact stories)* | *(You or team member)* |
-
-
-
-| Quadrant | Frequency | Channel | Content | Owner |
-|---|---|---|---|---|
-| **Manage Closely** <br>*(CTO, VP Product, CFO, Head of Growth)* | Weekly / Monthly | Weekly 1:1s, Monthly Metrics Review, MBRs | Progress on core KPIs, budget updates (e.g., Mixpanel), EU expansion readiness, and critical blockers. | You (Head of Analytics) |
-| **Keep Satisfied** <br>*(Legal/Privacy, Backend Eng)* | Bi-weekly / Ad-hoc | Architecture syncs, Jira tickets, async Slack | GDPR compliance updates, data residency architecture, schema change notifications, and pipeline health. | You (Head of Analytics) |
+| **Manage Closely** <br>*(CTO, VP Product, CFO, Head of Growth)* | Weekly / Monthly | Weekly 1:1s, Monthly Metrics Review, MBRs | Progress on core KPIs, budget updates, EU expansion readiness, and critical blockers. | You (Head of Analytics) |
+| **Keep Satisfied** <br>*(Legal/Privacy, Backend Eng)* | Bi-weekly / Ad-hoc | Jira, async Slack | GDPR compliance updates, data residency architecture, schema change notifications, and pipeline health. | You (Head of Analytics) |
 | **Keep Informed** <br>*(PMs, Sales Ops)* | Bi-weekly | Sprint reviews, `#data-updates` Slack channel | Releases of new self-serve dashboards, dbt model updates, metric definition changes, and CRM mapping fixes. | Embedded Analysts |
 | **Monitor** <br>*(General Managers, Broad Company)* | Monthly / Quarterly | Automated Slack alerts, Quarterly All-Hands | High-level marketplace health metrics (supply/demand balance), major data team wins, and system uptime. | You or Senior Analyst |
 ---
