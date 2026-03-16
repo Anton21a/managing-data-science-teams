@@ -28,9 +28,9 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 | In Scope | Out of Scope |
 |---|---|
-| *(e.g., product analytics for Growth and Monetization pods)* | *(e.g., data engineering pipeline maintenance — owned by Platform team)* |
-| *(e.g., A/B test design and analysis)* | *(e.g., ML model deployment in production — owned by ML Engineering)* |
-| *(e.g., executive reporting and KPI dashboards)* | *(e.g., ad-hoc requests from teams outside our charter — routed through intake)* |
+| Metric Governance (creating and owning a reliable source of 'truth' for KPIs like Active Users) | *Primarly wrangling the data within PostgreSQL or other data tool (incl. fixing bugs, data quality) |
+| Self-service infrastructure: enabling project managers to independently manage their sales funnels and A/B testing results. | Operational CRM Management (we are note commited to managing sales workflow) |
+| Marketplace Health: Integrating Salesforce (Supply) and Product (Demand) data to track supply-demand balance. | Building one-off Google Sheets for departments outside our core charter (e.g., HR or Legal admin) |
 | | |
 | | |
 
@@ -49,11 +49,11 @@ The analytics team exists to turn messy data into a single, reliable source of m
 
 **Your principles:**
 
-1.
+1. Reliability: we turn the messy data into single 'source of trust'
 
-2.
+2. Strutured data managing: we use a single format of writing data 
 
-3.
+3. We do what useful: before strategy implementation we make sure it will be useful for the company by conducting a deep validation
 
 4. *(optional)*
 
