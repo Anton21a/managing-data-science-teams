@@ -2,16 +2,25 @@
 
 | Field | Your Entry |
 |---|---|
-| **Student Name** | |
-| **Date** | |
-| **Case Context** | Small (Seed-stage) / Medium (Series B) / Large (Enterprise) |
+| **Student Name** | Anton Shestakov|
+| **Date** | 16/03/2026 |
+| **Case Context** | Small (Seed-stage) / **Medium (Series B)** / Large (Enterprise) |
 
 ---
 
 ## Power/Interest Grid
 
 *Place each stakeholder's number (from the registry below) into the appropriate quadrant.*
+List: 
 
+1. Diane Osei (VP of Product)
+2. Raj Malhotra (CTO)
+3. Marco Reyes (Head of Growth)
+4. Christine Park (CFO)
+5. Anya Petrov (Legal and Privacy Officer)
+6. Product Managers (Diane's team)
+7. Sales Operations Team
+8. Backend/Platform Engineering
 ```
                         INTEREST IN ANALYTICS
                     Low                     High
@@ -23,7 +32,10 @@
  POWER          │  their needs,     │  engagement, deep  │
                 │  minimal noise    │  relationship      │
                 │                   │                   │
-                │  Stakeholders:    │  Stakeholders:     │
+                │  Stakeholders: 5    │  Stakeholders: 1,
+2,
+3,
+4     │
                 │                   │                   │
                 ├───────────────────┼───────────────────┤
                 │                   │                   │
@@ -33,7 +45,7 @@
                 │  Periodic check,  │  updates, leverage │
                 │  low effort       │  their enthusiasm  │
                 │                   │                   │
-                │  Stakeholders:    │  Stakeholders:     │
+                │  Stakeholders: 8   │  Stakeholders: 6, 7     │
                 │                   │                   │
                 └───────────────────┴───────────────────┘
 ```
